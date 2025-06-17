@@ -2,7 +2,7 @@ package com.neu.aqimonitor_admin.util;
 
 import javafx.scene.control.Alert;
 
-public class AlertUtils {
+public class AlertUtil {
 
     //输入正确时
     public static void showDialog(String title,String contentText){

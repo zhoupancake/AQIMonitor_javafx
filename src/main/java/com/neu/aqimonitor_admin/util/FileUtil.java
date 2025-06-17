@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FileUtils {
+public class FileUtil {
     public static <K, V> void writeObject(String fileName, Map<K, V> map) {
         if (fileName == null || map == null) {
             throw new IllegalArgumentException("参数不能为null");

@@ -5,7 +5,7 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class SHA256Utils {
+public class SHA256Util {
     public static String encrypt(String input) {
         try {
             // 获取SHA-256消息摘要算法对象
