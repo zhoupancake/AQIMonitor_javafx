@@ -20,7 +20,7 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
-public class supervisorQueryController {
+public class SupervisorQueryController {
     @FXML
     private TableView tableView;
     @FXML

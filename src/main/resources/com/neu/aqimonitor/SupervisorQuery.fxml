@@ -8,7 +8,7 @@
 <?import javafx.scene.text.Font?>
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1"
-            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.neu.aqimonitor.controller.supervisorQueryController">
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.neu.aqimonitor.controller.SupervisorQueryController">
     <TableView fx:id="tableView" layoutX="4.0" layoutY="62.0" prefHeight="303.0" prefWidth="593.0">
       <columns>
           <TableColumn fx:id="colProvince" prefWidth="54.0" text="所在省"/>

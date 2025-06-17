@@ -16,7 +16,7 @@
 
 <AnchorPane prefHeight="580.0" prefWidth="714.0" xmlns="http://javafx.com/javafx/23.0.1"
             xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="com.neu.aqimonitor.controller.publicSupervisorController">
+            fx:controller="com.neu.aqimonitor.controller.PublicSupervisorController">
    <VBox layoutX="71.0" layoutY="72.0" prefHeight="183.0" prefWidth="590.0" spacing="10.0">
       <padding>
          <Insets top="20.0"/>

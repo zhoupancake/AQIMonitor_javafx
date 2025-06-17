@@ -1,7 +1,11 @@
-module com.neu.aqimonitor {
+module com.neu.aqimonitor_admin {
     requires javafx.controls;
     requires javafx.fxml;
-    opens com.neu.aqimonitor.controller to javafx.fxml;
-    opens com.neu.aqimonitor to javafx.graphics;
-    exports com.neu.aqimonitor.controller;
+    requires com.fasterxml.jackson.core;
+    requires com.fasterxml.jackson.databind;
+    requires com.fasterxml.jackson.datatype.jsr310;
+
+
+    opens com.neu.aqimonitor_admin to javafx.fxml;
+    exports com.neu.aqimonitor_admin;
 }
