@@ -1,7 +1,7 @@
 package com.neu.aqimonitor_admin;
 
 import com.neu.aqimonitor_admin.entity.character.Administrator;
-import com.neu.aqimonitor_admin.util.IOUtils;
+import com.neu.aqimonitor_admin.util.DataUtil;
 import com.neu.aqimonitor_admin.util.PathUtil;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -18,6 +18,7 @@ public class MainApp extends Application {
     private Stage stage;
     private BorderPane blank;
 
+    private Map<String, Administrator> administrators;
 
     public Stage getStage() {
         return stage;
@@ -27,7 +28,7 @@ public class MainApp extends Application {
     @Override
     public void init() throws Exception {
         // 读取数据
-//        Map<String, Administrator> administratorMap = IOUtils.loadAdmin();
+        DataUtil.init();
 
     }
 
@@ -72,6 +73,22 @@ public class MainApp extends Application {
             blank.setCenter(loginView);
             stage.setTitle("用户登录");
 
+            LoginViewController controller = loader.getController();
+            controller.setMainApp(this);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void showAdminMenuView() {
+        try {
+            FXMLLoader loader = new FXMLLoader();
+            loader.setLocation(MainApp.class.getResource(PathUtil.Admin_Menu_VIEW_PATH));
+            AnchorPane adminMenuView = (AnchorPane) loader.load();
+
+            blank.setCenter(adminMenuView);
+            stage.setTitle("管理员菜单");
 
         } catch (IOException e) {
             e.printStackTrace();

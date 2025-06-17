@@ -27,15 +27,11 @@ public class IOUtil {
             .registerModule(new JavaTimeModule()) // 支持LocalDateTime
             .disable(SerializationFeature.INDENT_OUTPUT); // 美化输出
 
-    private static final String ADMIN_PATH = "com/neu/aqimonitor/data/admin.json";
-    private static final String GRID_PATH = "com/neu/aqimonitor/data/grid.json";
-    private static final String AIR_DATA_PATH = "com/neu/aqimonitor/data/airData.json";
-    private static final String CITY_PATH = "com/neu/aqimonitor/data/city.json";
-    private static final String TASK_PATH = "com/neu/aqimonitor/data/task.json";
-    private static final String REPORT_PATH = "com/neu/aqimonitor/data/report.json";
+
 
     public static Map<String, Administrator> loadAdmin(){
-        URL adminUrl = IOUtil.class.getResource(ADMIN_PATH);
+        URL adminUrl = IOUtil.class.getResource(PathUtil.ADMIN_PATH);
+        System.out.println(adminUrl);
         assert adminUrl != null;
         return safeReadMapFromJson(
                 new File(adminUrl.toString()),
@@ -45,7 +41,7 @@ public class IOUtil {
     }
 
     public static Map<String, GridDetector> loadGrid(){
-        URL gridUrl = IOUtil.class.getResource(GRID_PATH);
+        URL gridUrl = IOUtil.class.getResource(PathUtil.GRID_PATH);
         assert gridUrl != null;
         return safeReadMapFromJson(
                 new File(gridUrl.toString()),
@@ -55,7 +51,7 @@ public class IOUtil {
     }
 
     public static Map<String, AirData> loadAirData(){
-        URL airDataUrl = IOUtil.class.getResource(AIR_DATA_PATH);
+        URL airDataUrl = IOUtil.class.getResource(PathUtil.AIR_DATA_PATH);
         assert airDataUrl != null;
         return safeReadMapFromJson(
                 new File(airDataUrl.toString()),
@@ -65,7 +61,7 @@ public class IOUtil {
     }
 
     public static Map<String, City> loadCity(){
-        URL cityUrl = IOUtil.class.getResource(CITY_PATH);
+        URL cityUrl = IOUtil.class.getResource(PathUtil.CITY_PATH);
         assert cityUrl != null;
         return safeReadMapFromJson(
                 new File(cityUrl.toString()),
@@ -75,7 +71,7 @@ public class IOUtil {
     }
 
     public static Map<String, Task> loadTask(){
-        URL taskUrl = IOUtil.class.getResource(TASK_PATH);
+        URL taskUrl = IOUtil.class.getResource(PathUtil.TASK_PATH);
         assert taskUrl != null;
         return safeReadMapFromJson(
                 new File(taskUrl.toString()),
@@ -85,7 +81,7 @@ public class IOUtil {
     }
 
     public static Map<String, Report> loadReport(){
-        URL reportUrl = IOUtil.class.getResource(REPORT_PATH);
+        URL reportUrl = IOUtil.class.getResource(PathUtil.REPORT_PATH);
         assert reportUrl != null;
         return safeReadMapFromJson(
                 new File(reportUrl.toString()),
@@ -95,37 +91,37 @@ public class IOUtil {
     }
 
     public static void writeAdmin() throws IOException {
-        URL adminUrl = IOUtil.class.getResource(ADMIN_PATH);
+        URL adminUrl = IOUtil.class.getResource(PathUtil.ADMIN_PATH);
         assert adminUrl != null;
         writeMapToJson(new File(adminUrl.toString()), loadAdmin());
     }
 
     public static void writeGrid(Map<String, GridDetector> grids) throws IOException {
-        URL gridUrl = IOUtil.class.getResource(GRID_PATH);
+        URL gridUrl = IOUtil.class.getResource(PathUtil.GRID_PATH);
         assert gridUrl != null;
         writeMapToJson(new File(gridUrl.toString()), grids);
     }
 
     public static void writeAirData(Map<String, AirData> airDatas) throws IOException {
-        URL airDataUrl = IOUtil.class.getResource(AIR_DATA_PATH);
+        URL airDataUrl = IOUtil.class.getResource(PathUtil.AIR_DATA_PATH);
         assert airDataUrl != null;
         writeMapToJson(new File(airDataUrl.toString()), airDatas);
     }
 
     public static void writeCity(Map<String,  City>  cities) throws IOException {
-        URL cityUrl = IOUtil.class.getResource(CITY_PATH);
+        URL cityUrl = IOUtil.class.getResource(PathUtil.CITY_PATH);
         assert cityUrl != null;
         writeMapToJson(new File(cityUrl.toString()), cities);
     }
 
     public static void writeTask(Map<String,  Task> tasks) throws IOException {
-        URL taskUrl = IOUtil.class.getResource(TASK_PATH);
+        URL taskUrl = IOUtil.class.getResource(PathUtil.TASK_PATH);
         assert taskUrl != null;
         writeMapToJson(new File(taskUrl.toString()), tasks);
     }
 
     public static void writeReport(Map<String, Report>  reports) throws IOException {
-        URL reportUrl = IOUtil.class.getResource(REPORT_PATH);
+        URL reportUrl = IOUtil.class.getResource(PathUtil.REPORT_PATH);
         assert reportUrl != null;
         writeMapToJson(new File(reportUrl.toString()), reports);
     }

@@ -19,4 +19,10 @@ public class SHA256Util {
             throw new RuntimeException(e);
         }
     }
+
+    public static void main(String[] args) {
+        String input = "123456";
+        String encrypted = encrypt(input);
+        System.out.println(encrypted);
+    }
 }

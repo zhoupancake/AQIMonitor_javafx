@@ -8,7 +8,7 @@ import com.neu.aqimonitor_admin.util.SHA256Util;
 import java.util.Map;
 
 public class UserController {
-    public Administrator login(String phoneNumber, String password){
+    public Administrator adminLogin(String phoneNumber, String password){
         password = SHA256Util.encrypt(password);
         Administrator administrator = DataUtil.administratorMap.get("Admin_" + phoneNumber);
         if(administrator ==  null) {
