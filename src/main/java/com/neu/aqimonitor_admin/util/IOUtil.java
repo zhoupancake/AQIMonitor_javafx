@@ -1,7 +1,9 @@
 package com.neu.aqimonitor_admin.util;
 
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.JavaType;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
@@ -87,31 +89,49 @@ public class IOUtil {
     }
 
     public static <K, V> void writeMapToJson(String filePath, Map<K, V> map) throws IOException {
-        objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(filePath), map);
+        try {
+            File file = new File(filePath);
+
+            // 配置ObjectMapper以美化输出
+            ObjectWriter writer = objectMapper
+                    .writerWithDefaultPrettyPrinter()
+                    .with(SerializationFeature.INDENT_OUTPUT);
+
+            // 写入文件
+            writer.writeValue(file, map);
+
+        } catch (IOException e) {
+            System.err.println("Failed to write JSON file: " + filePath);
+            throw e; // 可以选择重新抛出或处理异常
+        }
     }
 
     public static <K, V> Map<K, V> readJsonFileToMap(String filePath, Class<K> keyType, Class<V> valueType) throws IOException {
         try {
             File file = new File(filePath);
 
-            // 情况1：文件不存在
+            // 检查文件是否存在
             if (!file.exists()) {
-                System.out.println("File not found: {}" + filePath);
+                System.out.println("File not found: " + filePath);
                 return new HashMap<>();
             }
 
-            // 情况2：文件为空
+            // 检查文件是否为空
             if (file.length() == 0) {
-                System.out.println("Empty file: {}" + filePath);
+                System.out.println("Empty file: " + filePath);
                 return new HashMap<>();
             }
 
-            // 正常读取
-            return objectMapper.readValue(file, new TypeReference<>() {});
+            // 创建类型工厂构造具体的Map类型
+            JavaType mapType = objectMapper.getTypeFactory()
+                    .constructMapType(HashMap.class, keyType, valueType);
+
+            // 读取并转换JSON
+            return objectMapper.readValue(file, mapType);
 
         } catch (IOException e) {
-            System.out.println("Failed to read JSON file: {}" + filePath);
-            return Collections.emptyMap(); // 或抛出自定义运行时异常
+            System.out.println("Failed to read JSON file: " + filePath);
+            throw e; // 重新抛出异常或返回空Map，根据业务需求决定
         }
     }
 }
