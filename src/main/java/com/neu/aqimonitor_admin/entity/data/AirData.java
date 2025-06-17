@@ -6,20 +6,22 @@ import com.neu.aqimonitor_admin.util.UUIDUtil;
 import java.time.LocalDateTime;
 
 public class AirData {
-    private final String id;
-    private final int cityId;
-    private final String location;
-    private final LocalDateTime date;
+    private String id;
+    private  int cityId;
+    private  String location;
+    private  LocalDateTime date;
 
     //data attributes
-    private final double pm25;
-    private final double pm10;
-    private final double so2;
-    private final double no2;
-    private final double co;
-    private final double o3;
-    private final int aqiLevel;
-    private final int aqi;
+    private  double pm25;
+    private  double pm10;
+    private  double so2;
+    private  double no2;
+    private  double co;
+    private  double o3;
+    private  int aqiLevel;
+    private  int aqi;
+
+    public AirData(){}
 
     public AirData(int cityId, String location, double pm25, double pm10, double so2, double no2, double co, double o3) {
         this.cityId = cityId;
@@ -34,6 +36,54 @@ public class AirData {
         this.aqi = AQIUtil.getAQI(pm25, so2, co);
         this.aqiLevel = AQIUtil.getAQILevel(pm25, so2, co);
         this.date = LocalDateTime.now();
+    }
+    
+    public void setId(String  id){
+        this.id = id;
+    }
+
+    public void setCityId(int cityId) {
+        this.cityId = cityId;
+    }
+
+    public void setLocation(String location) {
+        this.location = location;
+    }
+
+    public void setDate(LocalDateTime date) {
+        this.date = date;
+    }
+
+    public void setPm25(double pm25) {
+        this.pm25 = pm25;
+    }
+
+    public void setPm10(double pm10) {
+        this.pm10 = pm10;
+    }
+
+    public void setSo2(double so2) {
+        this.so2 = so2;
+    }
+
+    public void setNo2(double no2) {
+        this.no2 = no2;
+    }
+
+    public void setCo(double co) {
+        this.co = co;
+    }
+
+    public void setO3(double o3) {
+        this.o3 = o3;
+    }
+
+    public void setAqiLevel(int aqiLevel) {
+        this.aqiLevel = aqiLevel;
+    }
+
+    public void setAqi(int aqi) {
+        this.aqi = aqi;
     }
 
     public String getId() {

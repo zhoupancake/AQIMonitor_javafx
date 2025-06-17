@@ -1,18 +1,16 @@
 package com.neu.aqimonitor_admin.util;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
 import java.io.File;
 import java.io.IOException;
-import java.net.URL;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-import java.util.List;
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Collectors;
+import java.util.Objects;
 
 import com.neu.aqimonitor_admin.entity.character.Administrator;
 import com.neu.aqimonitor_admin.entity.character.GridDetector;
@@ -26,143 +24,94 @@ public class IOUtil {
     private static final ObjectMapper objectMapper = new ObjectMapper()
             .registerModule(new JavaTimeModule()) // 支持LocalDateTime
             .disable(SerializationFeature.INDENT_OUTPUT); // 美化输出
-
-
-
-    public static Map<String, Administrator> loadAdmin(){
-        URL adminUrl = IOUtil.class.getResource(PathUtil.ADMIN_PATH);
+    
+    public static Map<String, Administrator> loadAdmin() throws IOException {
+        String adminUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.ADMIN_PATH)).toString().replace("file:/", "");
         System.out.println(adminUrl);
-        assert adminUrl != null;
-        return safeReadMapFromJson(
-                new File(adminUrl.toString()),
-                Administrator.class,
-                Administrator::getId
-        );
+        return readJsonFileToMap(adminUrl, String.class, Administrator.class);
     }
 
-    public static Map<String, GridDetector> loadGrid(){
-        URL gridUrl = IOUtil.class.getResource(PathUtil.GRID_PATH);
-        assert gridUrl != null;
-        return safeReadMapFromJson(
-                new File(gridUrl.toString()),
-                GridDetector.class,
-                GridDetector::getId
-        );
+    public static Map<String, GridDetector> loadGrid() throws IOException {
+        String gridUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.GRID_PATH)).toString().replace("file:/", "");
+        return readJsonFileToMap(gridUrl, String.class, GridDetector.class);
     }
 
-    public static Map<String, AirData> loadAirData(){
-        URL airDataUrl = IOUtil.class.getResource(PathUtil.AIR_DATA_PATH);
-        assert airDataUrl != null;
-        return safeReadMapFromJson(
-                new File(airDataUrl.toString()),
-                AirData.class,
-                AirData::getId
-        );
+    public static Map<String, AirData> loadAirData() throws IOException {
+        String airDataUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.AIR_DATA_PATH)).toString().replace("file:/", "");
+        return readJsonFileToMap(airDataUrl, String.class, AirData.class);
     }
 
-    public static Map<String, City> loadCity(){
-        URL cityUrl = IOUtil.class.getResource(PathUtil.CITY_PATH);
-        assert cityUrl != null;
-        return safeReadMapFromJson(
-                new File(cityUrl.toString()),
-                City.class,
-                City::getId
-        );
+    public static Map<String, City> loadCity() throws IOException {
+        String cityUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.CITY_PATH)).toString().replace("file:/", "");
+        return readJsonFileToMap(cityUrl, String.class, City.class);
     }
 
-    public static Map<String, Task> loadTask(){
-        URL taskUrl = IOUtil.class.getResource(PathUtil.TASK_PATH);
-        assert taskUrl != null;
-        return safeReadMapFromJson(
-                new File(taskUrl.toString()),
-                Task.class,
-                Task::getId
-        );
+    public static Map<String, Task> loadTask() throws IOException {
+        String taskUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.TASK_PATH)).toString().replace("file:/", "");
+        return readJsonFileToMap(taskUrl, String.class, Task.class);
     }
 
-    public static Map<String, Report> loadReport(){
-        URL reportUrl = IOUtil.class.getResource(PathUtil.REPORT_PATH);
-        assert reportUrl != null;
-        return safeReadMapFromJson(
-                new File(reportUrl.toString()),
-                Report.class,
-                Report::getId
-        );
+    public static Map<String, Report> loadReport() throws IOException {
+        String reportUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.REPORT_PATH)).toString().replace("file:/", "");
+        return readJsonFileToMap(reportUrl, String.class, Report.class);
     }
 
     public static void writeAdmin() throws IOException {
-        URL adminUrl = IOUtil.class.getResource(PathUtil.ADMIN_PATH);
-        assert adminUrl != null;
-        writeMapToJson(new File(adminUrl.toString()), loadAdmin());
+        String adminUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.ADMIN_PATH)).toString().replace("file:/", "");
+        writeMapToJson(adminUrl, loadAdmin());
     }
 
     public static void writeGrid(Map<String, GridDetector> grids) throws IOException {
-        URL gridUrl = IOUtil.class.getResource(PathUtil.GRID_PATH);
-        assert gridUrl != null;
-        writeMapToJson(new File(gridUrl.toString()), grids);
+        String gridUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.GRID_PATH)).toString().replace("file:/", "");
+        writeMapToJson(gridUrl, grids);
     }
 
     public static void writeAirData(Map<String, AirData> airDatas) throws IOException {
-        URL airDataUrl = IOUtil.class.getResource(PathUtil.AIR_DATA_PATH);
-        assert airDataUrl != null;
-        writeMapToJson(new File(airDataUrl.toString()), airDatas);
+        String airDataUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.AIR_DATA_PATH)).toString().replace("file:/", "");
+        writeMapToJson(airDataUrl, airDatas);
     }
 
     public static void writeCity(Map<String,  City>  cities) throws IOException {
-        URL cityUrl = IOUtil.class.getResource(PathUtil.CITY_PATH);
-        assert cityUrl != null;
-        writeMapToJson(new File(cityUrl.toString()), cities);
+        String cityUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.CITY_PATH)).toString().replace("file:/", "");
+        writeMapToJson(cityUrl, cities);
     }
 
     public static void writeTask(Map<String,  Task> tasks) throws IOException {
-        URL taskUrl = IOUtil.class.getResource(PathUtil.TASK_PATH);
-        assert taskUrl != null;
-        writeMapToJson(new File(taskUrl.toString()), tasks);
+        String taskUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.TASK_PATH)).toString().replace("file:/", "");
+        writeMapToJson(taskUrl, tasks);
     }
 
     public static void writeReport(Map<String, Report>  reports) throws IOException {
-        URL reportUrl = IOUtil.class.getResource(PathUtil.REPORT_PATH);
-        assert reportUrl != null;
-        writeMapToJson(new File(reportUrl.toString()), reports);
+        String reportUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.REPORT_PATH)).toString().replace("file:/", "");
+        writeMapToJson(reportUrl, reports);
     }
 
-    public static <T> void writeMapToJson(File file, Map<String, T> dataMap) throws IOException {
-        List<T> dataList = new ArrayList<>(dataMap.values());
-        objectMapper.writeValue(file, dataList);
+    public static <K, V> void writeMapToJson(String filePath, Map<K, V> map) throws IOException {
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(filePath), map);
     }
 
-    public static <T> Map<String, T> readMapFromJson(
-            File file,
-            Class<T> valueType,
-            Function<T, String> idGetter) throws IOException {
-
-        if (!file.exists() || file.length() == 0) {
-            return new LinkedHashMap<>();
-        }
-
-        List<T> dataList = objectMapper.readValue(
-                file,
-                objectMapper.getTypeFactory().constructCollectionType(List.class, valueType)
-        );
-
-        return dataList.stream()
-                .collect(Collectors.toMap(
-                        idGetter,
-                        data -> data,
-                        (oldVal, newVal) -> oldVal,
-                        LinkedHashMap::new
-                ));
-    }
-
-    public static <T> Map<String, T> safeReadMapFromJson(
-            File file,
-            Class<T> valueType,
-            Function<T, String> idGetter) {
-
+    public static <K, V> Map<K, V> readJsonFileToMap(String filePath, Class<K> keyType, Class<V> valueType) throws IOException {
         try {
-            return readMapFromJson(file, valueType, idGetter);
+            File file = new File(filePath);
+
+            // 情况1：文件不存在
+            if (!file.exists()) {
+                System.out.println("File not found: {}" + filePath);
+                return new HashMap<>();
+            }
+
+            // 情况2：文件为空
+            if (file.length() == 0) {
+                System.out.println("Empty file: {}" + filePath);
+                return new HashMap<>();
+            }
+
+            // 正常读取
+            return objectMapper.readValue(file, new TypeReference<>() {});
+
         } catch (IOException e) {
-            return new LinkedHashMap<>();
+            System.out.println("Failed to read JSON file: {}" + filePath);
+            return Collections.emptyMap(); // 或抛出自定义运行时异常
         }
     }
 }

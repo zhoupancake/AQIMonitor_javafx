@@ -4,8 +4,7 @@ module com.neu.aqimonitor_admin {
     requires com.fasterxml.jackson.core;
     requires com.fasterxml.jackson.databind;
     requires com.fasterxml.jackson.datatype.jsr310;
-
-
+    exports com.neu.aqimonitor_admin.entity.character to com.fasterxml.jackson.databind;
     opens com.neu.aqimonitor_admin to javafx.fxml;
     exports com.neu.aqimonitor_admin;
 }

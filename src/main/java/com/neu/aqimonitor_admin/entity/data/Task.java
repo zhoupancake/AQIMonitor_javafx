@@ -5,12 +5,14 @@ import com.neu.aqimonitor_admin.util.UUIDUtil;
 import java.time.LocalDateTime;
 
 public class Task {
-    private final String id;
-    private final String appointerId;
-    private final String appointeeId;
-    private final LocalDateTime createdTime;
+    private  String id;
+    private  String appointerId;
+    private  String appointeeId;
+    private  LocalDateTime createdTime;
     private int status;
-    private final String relatedReportId;
+    private  String relatedReportId;
+
+    public Task(){}
 
     public Task(String appointerId, String appointeeId, String relatedReportId) {
         this.appointerId = appointerId;
@@ -56,5 +58,25 @@ public class Task {
 
     public String getRelatedReportId() {
         return relatedReportId;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public void setAppointerId(String appointerId) {
+        this.appointerId = appointerId;
+    }
+
+    public void setAppointeeId(String appointeeId) {
+        this.appointeeId = appointeeId;
+    }
+
+    public void setCreatedTime(LocalDateTime createdTime) {
+        this.createdTime = createdTime;
+    }
+
+    public void setRelatedReportId(String relatedReportId) {
+        this.relatedReportId = relatedReportId;
     }
 }

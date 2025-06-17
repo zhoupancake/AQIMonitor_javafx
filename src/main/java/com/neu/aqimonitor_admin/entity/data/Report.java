@@ -1,19 +1,20 @@
 package com.neu.aqimonitor_admin.entity.data;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
 import com.neu.aqimonitor_admin.util.UUIDUtil;
 
 import java.time.LocalDateTime;
 
 public class Report {
-    private final String id;
-    private final String submitterId;
+    private  String id;
+    private  String submitterId;
     private int status;
-    private final LocalDateTime createdTime;
-    private final String description;
-    private final int cityId;
-    private final String location;
-    private final int forecastAqiLevel;
+    private  LocalDateTime createdTime;
+    private  String description;
+    private  int cityId;
+    private  String location;
+    private  int forecastAqiLevel;
+    
+    public Report() {}
 
     public Report(String submitterId, Integer status, String description, Integer cityId, String location, Integer forecastAqiLevel){
         this.submitterId = submitterId;
@@ -60,5 +61,33 @@ public class Report {
 
     public int getForecastAqiLevel() {
         return forecastAqiLevel;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public void setSubmitterId(String submitterId) {
+        this.submitterId = submitterId;
+    }
+
+    public void setCreatedTime(LocalDateTime createdTime) {
+        this.createdTime = createdTime;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public void setCityId(int cityId) {
+        this.cityId = cityId;
+    }
+
+    public void setLocation(String location) {
+        this.location = location;
+    }
+
+    public void setForecastAqiLevel(int forecastAqiLevel) {
+        this.forecastAqiLevel = forecastAqiLevel;
     }
 }

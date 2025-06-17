@@ -5,6 +5,8 @@ public class GridDetector extends User{
 
     private int cityId;
 
+    public GridDetector(){}
+
     public GridDetector(String phoneNumber, String password, String realName, String age, String gender, int cityId){
         super(phoneNumber, password, realName, age, gender);
         this.id = "Grid_" + phoneNumber;
