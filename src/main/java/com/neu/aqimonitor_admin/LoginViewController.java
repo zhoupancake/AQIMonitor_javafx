@@ -21,7 +21,8 @@ public class LoginViewController {
 
     @FXML
     private void initialize() {
-
+        accountField.setText("1817774560");
+        passwordField.setText("123456");
     }
 
     @FXML

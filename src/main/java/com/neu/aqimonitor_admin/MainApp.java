@@ -70,7 +70,8 @@ public class MainApp extends Application {
             loader.setLocation(MainApp.class.getResource(PathUtil.LOGIN_VIEW_PATH));
             AnchorPane loginView = (AnchorPane) loader.load();
 
-            blank.setCenter(loginView);
+            Scene scene = new Scene(loginView);
+            stage.setScene(scene);
             stage.setTitle("用户登录");
 
             LoginViewController controller = loader.getController();
@@ -84,12 +85,49 @@ public class MainApp extends Application {
     public void showAdminMenuView() {
         try {
             FXMLLoader loader = new FXMLLoader();
-            loader.setLocation(MainApp.class.getResource(PathUtil.Admin_Menu_VIEW_PATH));
+            loader.setLocation(MainApp.class.getResource(PathUtil.ADMIN_MENU_VIEW_PATH));
             AnchorPane adminMenuView = (AnchorPane) loader.load();
 
-            blank.setCenter(adminMenuView);
+            Scene scene = new Scene(adminMenuView);
+            stage.setScene(scene);
             stage.setTitle("管理员菜单");
 
+            AdminMenuViewController controller = loader.getController();
+            controller.setMainApp(this);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void showPublicSupervisionView() {
+        try {
+            FXMLLoader loader = new FXMLLoader();
+            loader.setLocation(MainApp.class.getResource(PathUtil.PUBLIC_SUPERVISION_PATH));
+            AnchorPane publicSupervisionView = (AnchorPane) loader.load();
+
+            Scene scene = new Scene(publicSupervisionView);
+            stage.setScene(scene);
+            stage.setTitle("公众监督数据管理");
+
+            PublicSupervisionViewController controller = loader.getController();
+            controller.setMainApp(this);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void showConfirmAQIListView() {
+        try {
+            FXMLLoader loader = new FXMLLoader();
+            loader.setLocation(MainApp.class.getResource(PathUtil.CONFIRM_AQI_LIST_VIEW_PATH));
+            AnchorPane confirmAQIListView = (AnchorPane) loader.load();
+
+            Scene scene = new Scene(confirmAQIListView);
+            stage.setScene(scene);
+            stage.setTitle("确认AQI数据详情");
+
+            ConfirmAQIListViewController controller = loader.getController();
+            controller.setMainApp(this);
         } catch (IOException e) {
             e.printStackTrace();
         }

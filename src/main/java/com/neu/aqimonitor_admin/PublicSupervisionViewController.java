@@ -2,7 +2,7 @@ package com.neu.aqimonitor_admin;
 
 import javafx.fxml.FXML;
 
-public class AdminMenuViewController {
+public class PublicSupervisionViewController {
     private MainApp mainApp;
 
     public void setMainApp(MainApp mainApp) {
@@ -15,11 +15,7 @@ public class AdminMenuViewController {
     }
 
     @FXML
-    public void jumpToPublicSupervision() {
-        mainApp.showPublicSupervisionView();
-    }
-
-    public void jumpToConfirmAQIList() {
-        mainApp.showConfirmAQIListView();
+    public void backToAdminMenu() {
+        mainApp.showAdminMenuView();
     }
 }
