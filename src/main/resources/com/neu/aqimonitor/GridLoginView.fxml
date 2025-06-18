@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.neu.aqimonitor.GridLoginController">
+   <Button fx:id="btn_login" onAction="#login" layoutX="180.0" layoutY="289.0" mnemonicParsing="false" prefHeight="36.0"
+           prefWidth="241.0" text="登录">
+      <font>
+         <Font size="18.0"/>
+      </font>
+   </Button>
+   <Label layoutX="89.0" layoutY="42.0" prefHeight="49.0" prefWidth="422.0" text="东软环保公众监督平台——网格员端">
+      <font>
+         <Font size="24.0"/>
+      </font>
+   </Label>
+   <TextField fx:id="txtUserName" layoutX="180.0" layoutY="129.0" promptText="请输入登录编码">
+      <font>
+         <Font size="18.0"/>
+      </font>
+   </TextField>
+   <TextField fx:id="txtPassword" layoutX="180.0" layoutY="200.0" promptText="请输入密码">
+      <font>
+         <Font size="18.0"/>
+      </font>
+   </TextField>
+</AnchorPane>
