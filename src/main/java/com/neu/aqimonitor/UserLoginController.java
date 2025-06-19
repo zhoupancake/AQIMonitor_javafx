@@ -28,7 +28,6 @@ public class UserLoginController {
         Map<String, User> userMap = FileUtil.readMapObject(PathUtil.USER_PATH);
         String phoneNumber = txt_phoneNumber.getText();
         String passWord = txt_passWord.getText();
-        System.out.println(userMap);
         //判断输入是否正确，key传入的是手机号！
         if(userMap.containsKey(phoneNumber)){
             User u = userMap.get(phoneNumber);
