@@ -8,6 +8,7 @@ import com.neu.aqimonitor.util.SHA256Util;
 public class UserController {
     public Administrator adminLogin(String phoneNumber, String password){
         password = SHA256Util.encrypt(password);
+
         Administrator administrator = DataUtil.administratorMap.get("Admin_" + phoneNumber);
         if(administrator ==  null) {
             AlertUtil.showErrorDialog("用户登录", "用户不存在");

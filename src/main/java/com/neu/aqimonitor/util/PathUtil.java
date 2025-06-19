@@ -2,10 +2,11 @@ package com.neu.aqimonitor.util;
 
 public class PathUtil {
     // 页面路径
-    public static final String LOGIN_VIEW_PATH = "/com/neu/aqimonitor/LoginView.fxml";
-    public static final String BLANK_PATH = "/com/neu/aqimonitor/Blank.fxml";
+    public static final String ADMIN_LOGIN_VIEW_PATH = "/com/neu/aqimonitor/AdminLoginView.fxml";
+    public static final String PROVINCIAL_GROUP_VIEW_PATH = "/com/neu/aqimonitor/ProvincialGroupInspectionStatisticsView.fxml";
     public static final String ADMIN_MENU_VIEW_PATH = "/com/neu/aqimonitor/AdminMenuView.fxml";
     public static final String PUBLIC_SUPERVISION_PATH = "/com/neu/aqimonitor/PublicSupervisionDataManagementView.fxml";
+    public static final String DETAILS_PUBLIC_SUPERVISION_VIEW_PATH = "/com/neu/aqimonitor/DetailsofPublicSupervisionDataView.fxml";
     public static final String ASSIGN_ADMIN_VIEW_PATH = "/com/neu/aqimonitor/AssignGridAdministratorsView.fxml";
     public static final String CONFIRM_AQI_LIST_VIEW_PATH = "/com/neu/aqimonitor/ConfirmAQIDataListView.fxml";
     public static final String ADMIN_VIEW_PATH = "/com/neu/aqimonitor/AdminView.fxml";

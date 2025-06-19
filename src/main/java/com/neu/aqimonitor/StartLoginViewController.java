@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.Objects;
 
-public class AdminController {
+public class StartLoginViewController {
 
     @FXML
     private ImageView imageView;
@@ -27,7 +27,7 @@ public class AdminController {
     //主页面
     @FXML
     public void initialize(){
-        Image image = new Image(Objects.requireNonNull(AdminController.class.getResource(PathUtil.IMAGE_PATH)).toString());
+        Image image = new Image(Objects.requireNonNull(StartLoginViewController.class.getResource(PathUtil.IMAGE_PATH)).toString());
         imageView.setImage(image);
 
         imageView.fitWidthProperty().bind(borderPane.widthProperty());
@@ -48,7 +48,6 @@ public class AdminController {
     //转换到AQI查询页面
     public void loadPublicSupervisor() throws IOException {
         loadView(PathUtil.USER_LOGIN_VIEW_PATH);
-
     }
 
     //网格员端转换到查看任务界面
@@ -56,4 +55,7 @@ public class AdminController {
         loadView(PathUtil.GRID_LOGIN_VIEW_PATH);
     }
 
+    public void loadAdminLogin() throws IOException {
+        loadView(PathUtil.ADMIN_LOGIN_VIEW_PATH);
+    }
 }

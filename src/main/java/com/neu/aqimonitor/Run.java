@@ -1,5 +1,6 @@
 package com.neu.aqimonitor;
 
+import com.neu.aqimonitor.util.DataUtil;
 import com.neu.aqimonitor.util.PathUtil;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -10,8 +11,15 @@ import javafx.stage.Stage;
 import java.net.URL;
 
 public class Run extends Application {
+
     public static void main(String[] args){launch(args);}
 
+    @Override
+    public void init() throws Exception {
+        // 读取数据
+        DataUtil.init();
+
+    }
 
     @Override
     public void start(Stage stage) throws Exception {
@@ -29,9 +37,5 @@ public class Run extends Application {
         //将Scene设置给stage
         stage.setScene(scene);
         stage.show();
-
-
     }
-
-
 }

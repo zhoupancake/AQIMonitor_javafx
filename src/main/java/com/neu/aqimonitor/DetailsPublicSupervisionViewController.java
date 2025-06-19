@@ -5,7 +5,7 @@ import com.neu.aqimonitor.util.PathUtil;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 
-public class ProvincialGroupViewController {
+public class DetailsPublicSupervisionViewController {
     @FXML
     private Button btn_back;
 
@@ -16,6 +16,6 @@ public class ProvincialGroupViewController {
 
     @FXML
     public void handleBack() {
-        Back.pageJump(btn_back, PathUtil.ADMIN_MENU_VIEW_PATH);
+        Back.pageJump(btn_back, PathUtil.PUBLIC_SUPERVISION_PATH);
     }
 }
