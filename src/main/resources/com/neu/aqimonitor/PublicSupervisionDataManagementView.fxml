@@ -9,15 +9,15 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.neu.aqimonitor.PublicSupervisionViewController">
    <children>
-      <TableView layoutX="3.0" layoutY="90.0" prefHeight="398.0" prefWidth="893.0">
+      <TableView fx:id="reportTable" layoutX="3.0" layoutY="90.0" prefHeight="398.0" prefWidth="893.0">
         <columns>
-          <TableColumn prefWidth="75.0" text="编号" />
-          <TableColumn prefWidth="120.79998779296875" text="反馈者姓名" />
-            <TableColumn prefWidth="82.39994812011719" text="所在省" />
-            <TableColumn prefWidth="75.199951171875" text="所在市" />
-            <TableColumn prefWidth="88.0" text="预估污染等级" />
-            <TableColumn prefWidth="196.0" text="反馈日期" />
-            <TableColumn prefWidth="255.19997558593752" text="反馈时间" />
+          <TableColumn fx:id="idColumn" prefWidth="75.0" text="编号" />
+          <TableColumn fx:id="nameColumn" prefWidth="120.79998779296875" text="反馈者姓名" />
+            <TableColumn fx:id="provinceColumn" prefWidth="82.39994812011719" text="所在省" />
+            <TableColumn fx:id="cityColumn" prefWidth="75.199951171875" text="所在市" />
+            <TableColumn fx:id="forecastAqiLevelColumn" prefWidth="88.0" text="预估污染等级" />
+            <TableColumn fx:id="dateColumn" prefWidth="196.0" text="反馈日期" />
+            <TableColumn fx:id="timeColumn" prefWidth="255.19997558593752" text="反馈时间" />
         </columns>
       </TableView>
       <Button fx:id="btn_back" layoutX="762.0" layoutY="500.0" mnemonicParsing="false" onAction="#handleBack" prefHeight="31.0" prefWidth="58.0" text="返回" />
