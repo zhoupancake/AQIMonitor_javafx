@@ -28,6 +28,7 @@ public class PathUtil {
     public static final String CITY_PATH = "/com/neu/aqimonitor/data/city.json";
     public static final String TASK_PATH = "/com/neu/aqimonitor/data/task.json";
     public static final String REPORT_PATH = "/com/neu/aqimonitor/data/report.json";
+    public static final String SUPER_PATH = "/com/neu/aqimonitor/data/super.json";
     public static final String GRID_LOAD_PATH = "/com/neu/aqimonitor/data/gridload.txt";
     public static final String INFORMATION_PATH = "/com/neu/aqimonitor/data/information.txt";
     public static final String DATA_PATH = "/com/neu/aqimonitor/data/data.txt";

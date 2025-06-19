@@ -14,6 +14,7 @@ import java.util.Objects;
 
 import com.neu.aqimonitor.entity.character.Administrator;
 import com.neu.aqimonitor.entity.character.GridDetector;
+import com.neu.aqimonitor.entity.character.Supervisor;
 import com.neu.aqimonitor.entity.data.AirData;
 import com.neu.aqimonitor.entity.data.City;
 import com.neu.aqimonitor.entity.data.Report;
@@ -27,13 +28,17 @@ public class IOUtil {
     
     public static Map<String, Administrator> loadAdmin() throws IOException {
         String adminUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.ADMIN_PATH)).toString().replace("file:/", "");
-        System.out.println(adminUrl);
         return readJsonFileToMap(adminUrl, String.class, Administrator.class);
     }
 
     public static Map<String, GridDetector> loadGrid() throws IOException {
         String gridUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.GRID_PATH)).toString().replace("file:/", "");
         return readJsonFileToMap(gridUrl, String.class, GridDetector.class);
+    }
+
+    public static Map<String, Supervisor> loadSuper() throws IOException {
+        String superUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.SUPER_PATH)).toString().replace("file:/", "");
+        return readJsonFileToMap(superUrl, String.class, Supervisor.class);
     }
 
     public static Map<String, AirData> loadAirData() throws IOException {
@@ -56,14 +61,19 @@ public class IOUtil {
         return readJsonFileToMap(reportUrl, String.class, Report.class);
     }
 
-    public static void writeAdmin() throws IOException {
+    public static void writeAdmin(Map<String, Administrator> administrators) throws IOException {
         String adminUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.ADMIN_PATH)).toString().replace("file:/", "");
-        writeMapToJson(adminUrl, loadAdmin());
+        writeMapToJson(adminUrl, administrators);
     }
 
     public static void writeGrid(Map<String, GridDetector> grids) throws IOException {
         String gridUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.GRID_PATH)).toString().replace("file:/", "");
         writeMapToJson(gridUrl, grids);
+    }
+
+    public static void writeSuper(Map<String, Supervisor> supervisors) throws IOException {
+        String superUrl = Objects.requireNonNull(IOUtil.class.getResource(PathUtil.SUPER_PATH)).toString().replace("file:/", "");
+        writeMapToJson(superUrl, supervisors);
     }
 
     public static void writeAirData(Map<String, AirData> airDatas) throws IOException {

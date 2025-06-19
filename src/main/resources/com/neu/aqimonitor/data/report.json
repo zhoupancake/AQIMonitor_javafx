@@ -1,0 +1,5402 @@
+{
+    "0f54DBr7USrDQjqEyE8": {
+        "submitterId": "Super_15610113118",
+        "status": 0,
+        "createdTime": "2024-05-31 10:41:18",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 231,
+        "location": "凤山县黄金城道78号"
+    },
+    "5rk78xwC8VXaVSZc62p": {
+        "submitterId": "Super_13395580818",
+        "status": 0,
+        "createdTime": "2024-03-20 02:10:16",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 54,
+        "location": "西安区沪太路97号"
+    },
+    "vszEys54kdVGbXfm38b": {
+        "submitterId": "Super_15027382830",
+        "status": 1,
+        "createdTime": "2023-12-05 08:51:53",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 168,
+        "location": "新洲区东汉阳路46号"
+    },
+    "7eaeILLII3BnJKKv1bZ": {
+        "submitterId": "Super_15826811852",
+        "status": 0,
+        "createdTime": "2023-10-18 21:42:15",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 56,
+        "location": "靖宇县曹安公路165号"
+    },
+    "7Dito94lO0G37Vird3A": {
+        "submitterId": "Super_15042128469",
+        "status": 1,
+        "createdTime": "2023-09-23 13:43:02",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 208,
+        "location": "四会市北石路48号"
+    },
+    "YN9U5bsx5QbhpQyFFle": {
+        "submitterId": "Super_17639795537",
+        "status": 0,
+        "createdTime": "2024-01-30 06:56:30",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 227,
+        "location": "平南县沪闵路7号"
+    },
+    "yYEN7GTrWuRTHfKqHz0": {
+        "submitterId": "Super_18769113933",
+        "status": 0,
+        "createdTime": "2023-11-07 09:44:15",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 201,
+        "location": "南山区春荣路53号"
+    },
+    "9WpP4PUDUwH0TNocphz": {
+        "submitterId": "Super_18245881379",
+        "status": 0,
+        "createdTime": "2024-04-15 18:48:19",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 132,
+        "location": "金溪县靖宇东路84号"
+    },
+    "KpJzz76YToU83usm7JJ": {
+        "submitterId": "Super_16635218474",
+        "status": 1,
+        "createdTime": "2024-01-29 10:49:31",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 7,
+        "location": "内丘县巨峰路47号"
+    },
+    "PWvnyi8hqWUBx0vASvA": {
+        "submitterId": "Super_15654457181",
+        "status": 1,
+        "createdTime": "2024-05-14 00:43:04",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 314,
+        "location": "榆阳区安龙路158号"
+    },
+    "7FsAAcv6ig0V9zph5CL": {
+        "submitterId": "Super_15950653996",
+        "status": 1,
+        "createdTime": "2024-06-08 08:52:36",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 153,
+        "location": "湛河区高陵路209号"
+    },
+    "r4HpXLdMK1wAsiSL8dI": {
+        "submitterId": "Super_18150684859",
+        "status": 0,
+        "createdTime": "2024-01-15 23:52:01",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 236,
+        "location": "中沙群岛博园路198号"
+    },
+    "t2FQT2DNE2uiIyq4Jnr": {
+        "submitterId": "Super_13238679456",
+        "status": 1,
+        "createdTime": "2023-10-23 03:24:11",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 13,
+        "location": "枣强县霍山路97号"
+    },
+    "wXiyGVaJKaPE4b6kUfK": {
+        "submitterId": "Super_14723396433",
+        "status": 1,
+        "createdTime": "2024-05-12 16:36:37",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 221,
+        "location": "柳北区方伟路 9号"
+    },
+    "IQPvTyFUplcblnucnBJ": {
+        "submitterId": "Super_18262387109",
+        "status": 0,
+        "createdTime": "2024-05-14 20:43:07",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 124,
+        "location": "昌江区交城路217号"
+    },
+    "Wmi8WPID4nHDhGKMjDj": {
+        "submitterId": "Super_17731426202",
+        "status": 0,
+        "createdTime": "2023-12-05 21:00:34",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 214,
+        "location": "连南瑶族自治县安波路6号"
+    },
+    "FhsopeDeLM1XUKPJ7Za": {
+        "submitterId": "Super_17723889545",
+        "status": 0,
+        "createdTime": "2024-02-27 19:08:13",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 75,
+        "location": "滨湖区碧云路187号"
+    },
+    "UD5loZHcmpuO7ooPyab": {
+        "submitterId": "Super_18962147103",
+        "status": 0,
+        "createdTime": "2023-12-30 04:05:00",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 290,
+        "location": "孟连傣族拉祜族佤族自治县黄陵路146号"
+    },
+    "6A20bUS1uronIGGxUUs": {
+        "submitterId": "Super_16618992601",
+        "status": 1,
+        "createdTime": "2024-05-30 05:14:10",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 195,
+        "location": "新田县国宾路146号"
+    },
+    "7djTjKeY3x8Qa2sCATC": {
+        "submitterId": "Super_18393889696",
+        "status": 0,
+        "createdTime": "2024-03-21 02:11:02",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 148,
+        "location": "滨城区华发路109号"
+    },
+    "BulPRkpQTvnhwisv2QA": {
+        "submitterId": "Super_18779565206",
+        "status": 0,
+        "createdTime": "2024-01-20 14:19:57",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 276,
+        "location": "水城区鞍山路125号"
+    },
+    "HTHAvX8SLTswVobimA3": {
+        "submitterId": "Super_18597210918",
+        "status": 1,
+        "createdTime": "2024-03-08 23:40:16",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 92,
+        "location": "诸暨市桂林路183号"
+    },
+    "MGQ5KEAxO46pHtvBx9e": {
+        "submitterId": "Super_18316339679",
+        "status": 1,
+        "createdTime": "2023-11-29 00:16:01",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 200,
+        "location": "仁化县花木路9号"
+    },
+    "yu4wJVsmAXbEhUfjgXZ": {
+        "submitterId": "Super_13649707395",
+        "status": 0,
+        "createdTime": "2024-04-03 00:42:47",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 353,
+        "location": "英吉沙县碧云路10号"
+    },
+    "fT8sp6a8SWkIPZ5B0hT": {
+        "submitterId": "Super_13640374918",
+        "status": 0,
+        "createdTime": "2024-04-07 04:50:13",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 8,
+        "location": "涿州市丰镇路182号"
+    },
+    "Hh5AwBKakvXsg7jPMvf": {
+        "submitterId": "Super_13683996821",
+        "status": 0,
+        "createdTime": "2024-01-29 08:29:50",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 281,
+        "location": "安龙县巴林路78号"
+    },
+    "HpbPMdV4Eq35Y4hr2Qf": {
+        "submitterId": "Super_15826588985",
+        "status": 0,
+        "createdTime": "2024-02-26 17:18:50",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 348,
+        "location": "玛纳斯县北京西路98号"
+    },
+    "2NxXXkWJKbWVKM1mo2h": {
+        "submitterId": "Super_18279714296",
+        "status": 0,
+        "createdTime": "2024-01-22 04:05:18",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 181,
+        "location": "毛嘴镇本溪路53号"
+    },
+    "lzM9yTV2V6sVZzwguG2": {
+        "submitterId": "Super_14587092691",
+        "status": 1,
+        "createdTime": "2024-01-14 18:46:46",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 20,
+        "location": "榆社县古北南路148号"
+    },
+    "7vWdulmi8V0ICN6QAxt": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2023-11-25 17:58:15",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 272,
+        "location": "汶川县黑山南路198号"
+    },
+    "Ch6uEk25JVgf1IawQ0U": {
+        "submitterId": "Super_19974132802",
+        "status": 1,
+        "createdTime": "2024-05-03 13:00:08",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 95,
+        "location": "普陀区安远路144号"
+    },
+    "lfBm6Wd8a87jG0K1qWr": {
+        "submitterId": "Super_14750400302",
+        "status": 1,
+        "createdTime": "2024-02-27 21:25:43",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 207,
+        "location": "化州市城中路118号"
+    },
+    "q0ohYQEWT7yL1rsmxb2": {
+        "submitterId": "Super_15950653996",
+        "status": 1,
+        "createdTime": "2023-09-06 12:09:22",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 153,
+        "location": "新华区局门路153号"
+    },
+    "hBIq7GXkdlZx6yXBTN5": {
+        "submitterId": "Super_15814056964",
+        "status": 1,
+        "createdTime": "2024-02-18 16:25:32",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 42,
+        "location": "元宝区河间路167号"
+    },
+    "jO4wW8C8erZHb1zQZof": {
+        "submitterId": "Super_18112993764",
+        "status": 0,
+        "createdTime": "2023-11-01 23:18:38",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 256,
+        "location": "盐边县国栋路195号"
+    },
+    "ZY4IpKLLYDlWEPo9REK": {
+        "submitterId": "Super_18841622826",
+        "status": 1,
+        "createdTime": "2023-10-13 12:44:29",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 100,
+        "location": "固镇县桂管路174号"
+    },
+    "TzHQh6AjCD6m7rHN2rq": {
+        "submitterId": "Super_15316962167",
+        "status": 1,
+        "createdTime": "2024-01-13 21:39:56",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 351,
+        "location": "新和县川黄路169号"
+    },
+    "ZDudhSdN5do2hvcaBCm": {
+        "submitterId": "Super_17816239484",
+        "status": 1,
+        "createdTime": "2024-03-14 21:30:44",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 333,
+        "location": "祁连县城中路149号"
+    },
+    "adAMuEAqhkyrkRQprwo": {
+        "submitterId": "Super_18597210918",
+        "status": 1,
+        "createdTime": "2024-01-08 03:06:32",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 92,
+        "location": "越城区沪闵路136号"
+    },
+    "EFEtIZgbOgS7MIZ6rn6": {
+        "submitterId": "Super_15375871590",
+        "status": 1,
+        "createdTime": "2024-06-02 08:55:04",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 88,
+        "location": "江北区航城路132号"
+    },
+    "I29wOclXSO5JS7CBLDg": {
+        "submitterId": "Super_15154430719",
+        "status": 0,
+        "createdTime": "2023-11-20 17:59:47",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 161,
+        "location": "义马市安龙路121号"
+    },
+    "Y154itsM3goCH1fTU1G": {
+        "submitterId": "Super_13314248075",
+        "status": 1,
+        "createdTime": "2024-01-12 06:05:30",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 309,
+        "location": "凤翔区沪南公路199号"
+    },
+    "YmR3rPr7kMSF4MarIaH": {
+        "submitterId": "Super_17689799304",
+        "status": 0,
+        "createdTime": "2024-06-01 03:25:15",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 295,
+        "location": "勐腊县白城路94号"
+    },
+    "oD9yZvGB52n1PngcQKr": {
+        "submitterId": "Super_13447905121",
+        "status": 0,
+        "createdTime": "2024-05-16 09:44:10",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 198,
+        "location": "吉首市会文路135号"
+    },
+    "DtNZuVz0ry0KUSKMCOe": {
+        "submitterId": "Super_17748702153",
+        "status": 1,
+        "createdTime": "2024-02-28 22:10:22",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 169,
+        "location": "阳新县黄陵路176号"
+    },
+    "jDmFmtxfZpNLmY6Q14N": {
+        "submitterId": "Super_18248275655",
+        "status": 1,
+        "createdTime": "2024-02-24 23:50:40",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 336,
+        "location": "甘德县沧训路192号"
+    },
+    "HoCIrRXB6eWrqVbLhE8": {
+        "submitterId": "Super_18677891684",
+        "status": 1,
+        "createdTime": "2024-05-21 22:43:31",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 78,
+        "location": "张家港市苍梧路111号"
+    },
+    "uMQybaRC8JlwFNtOMSD": {
+        "submitterId": "Super_13683996821",
+        "status": 0,
+        "createdTime": "2023-11-27 05:47:14",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 281,
+        "location": "贞丰县定海港路184号"
+    },
+    "Y3qFWdKwU1s84CD9XeD": {
+        "submitterId": "Super_18521200137",
+        "status": 0,
+        "createdTime": "2024-03-21 08:58:28",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 135,
+        "location": "平度市东兰路115号"
+    },
+    "cwEN5LMVtAM4orP8VqM": {
+        "submitterId": "Super_13232310300",
+        "status": 1,
+        "createdTime": "2023-09-12 22:46:58",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 315,
+        "location": "紫阳县东方路163号"
+    },
+    "2gm8Xqypl6htVIz5ZiR": {
+        "submitterId": "Super_14772826544",
+        "status": 0,
+        "createdTime": "2024-04-30 08:01:06",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 61,
+        "location": "铁锋区北海路12号"
+    },
+    "UqsEzLqimVnFPc6Q5R9": {
+        "submitterId": "Super_17644243859",
+        "status": 0,
+        "createdTime": "2024-02-15 23:07:46",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 254,
+        "location": "新津区白城南路120号"
+    },
+    "k25fl4thrD87KFnpUWm": {
+        "submitterId": "Super_17689799304",
+        "status": 1,
+        "createdTime": "2024-02-10 07:16:14",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 295,
+        "location": "勐海县高阳路201号"
+    },
+    "pzrUJUUQ5JrWVwJ2Pmy": {
+        "submitterId": "Super_18841622826",
+        "status": 1,
+        "createdTime": "2024-05-29 14:49:55",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 100,
+        "location": "五河县靖宇南路140号"
+    },
+    "FQDF2HAwWmBR4JyWV8G": {
+        "submitterId": "Super_17766120803",
+        "status": 0,
+        "createdTime": "2024-04-14 22:55:32",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 36,
+        "location": "额济纳旗定海路43号"
+    },
+    "SDTr2F4sn8jPmA2jZFR": {
+        "submitterId": "Super_18151434866",
+        "status": 1,
+        "createdTime": "2023-11-10 23:45:48",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 303,
+        "location": "墨脱县静宁路6号"
+    },
+    "jLu8yvpScqKKIiDsjTf": {
+        "submitterId": "Super_18112993764",
+        "status": 0,
+        "createdTime": "2023-11-03 10:22:48",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 256,
+        "location": "东区桂林路132号"
+    },
+    "aUL6laGEceuFW48pcH9": {
+        "submitterId": "Super_17647338727",
+        "status": 1,
+        "createdTime": "2023-12-31 19:41:07",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 22,
+        "location": "河曲县旧校场路171号"
+    },
+    "iQyf7qazOAxmj3WMyDk": {
+        "submitterId": "Super_15541273019",
+        "status": 0,
+        "createdTime": "2024-03-12 03:57:04",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 258,
+        "location": "罗江区东湖路212号"
+    },
+    "6f2VqO0tJzbbysEfo98": {
+        "submitterId": "Super_19161343476",
+        "status": 0,
+        "createdTime": "2024-04-23 02:07:21",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 354,
+        "location": "民丰县黄山路17号"
+    },
+    "bXGHDdYHQfqYS8j9vFx": {
+        "submitterId": "Super_17750371924",
+        "status": 1,
+        "createdTime": "2024-05-20 15:04:41",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 190,
+        "location": "华容县方斜路200号"
+    },
+    "VX2olh2Sans7CKQTsRl": {
+        "submitterId": "Super_17748702153",
+        "status": 0,
+        "createdTime": "2024-06-20 10:51:13",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 169,
+        "location": "黄石港区共康路113号"
+    },
+    "eFPhbexKx7wRH2xR5Db": {
+        "submitterId": "Super_19166027526",
+        "status": 1,
+        "createdTime": "2023-11-15 22:32:47",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 11,
+        "location": "南皮县黑山南路216号"
+    },
+    "YHMlPFupGXfKIaK00jz": {
+        "submitterId": "Super_14542690405",
+        "status": 0,
+        "createdTime": "2024-06-08 02:06:26",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 32,
+        "location": "乌拉特中旗金城道2号"
+    },
+    "z3kb6TPNeKHANyBAJJp": {
+        "submitterId": "Super_13228078517",
+        "status": 0,
+        "createdTime": "2024-01-28 08:09:21",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 150,
+        "location": "新密市活源路85号"
+    },
+    "fGPRQY58W3UdpdEfn7a": {
+        "submitterId": "Super_13649707395",
+        "status": 0,
+        "createdTime": "2024-06-06 15:05:11",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 353,
+        "location": "岳普湖县国宾路173号"
+    },
+    "VealoQAQgIMXZVhPxEM": {
+        "submitterId": "Super_19116043797",
+        "status": 1,
+        "createdTime": "2024-06-09 10:23:08",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 5,
+        "location": "海港区恒丰北路208号"
+    },
+    "Fry0YWCH6dxlu70X7Js": {
+        "submitterId": "Super_13951648392",
+        "status": 1,
+        "createdTime": "2023-09-16 10:53:23",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 225,
+        "location": "港口区桂林路198号"
+    },
+    "Jk0ALe7i82lW98yHT91": {
+        "submitterId": "Super_13680224276",
+        "status": 1,
+        "createdTime": "2024-05-21 05:19:39",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 109,
+        "location": "灵璧县桂巷路89号"
+    },
+    "nQZGmlHSGkiZ1YXXv4q": {
+        "submitterId": "Super_18521200137",
+        "status": 1,
+        "createdTime": "2024-04-30 09:47:51",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 135,
+        "location": "平度市交暨路141号"
+    },
+    "sPjZgUOernP786q1fe0": {
+        "submitterId": "Super_17689799304",
+        "status": 0,
+        "createdTime": "2024-01-02 07:15:55",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 295,
+        "location": "勐腊县会文路178号"
+    },
+    "NFxmAPgDqS4pYT0BYud": {
+        "submitterId": "Super_13048628961",
+        "status": 1,
+        "createdTime": "2023-10-07 10:11:53",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 255,
+        "location": "荣县碧波路94号"
+    },
+    "5natNBXd1AiqYQgCEvc": {
+        "submitterId": "Super_15754755835",
+        "status": 1,
+        "createdTime": "2023-10-05 19:04:38",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 1,
+        "location": "延庆区黄兴路189号"
+    },
+    "PeGBwjnNt4mTBGKsKQ0": {
+        "submitterId": "Super_18055487948",
+        "status": 1,
+        "createdTime": "2024-03-24 14:35:00",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 265,
+        "location": "东坡区东江阴街173号"
+    },
+    "iN3xaUiLPhkwTN3XUIX": {
+        "submitterId": "Super_17639795537",
+        "status": 1,
+        "createdTime": "2023-10-02 23:22:53",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 227,
+        "location": "覃塘区古北荣华东道41号"
+    },
+    "feGR0xPpAcGBjosRsbf": {
+        "submitterId": "Super_18013227310",
+        "status": 1,
+        "createdTime": "2023-11-11 03:21:15",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 130,
+        "location": "万安县沪闵路127号"
+    },
+    "tQnOB45iQwUZvpBHd8L": {
+        "submitterId": "Super_19982690588",
+        "status": 1,
+        "createdTime": "2024-04-25 06:36:18",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 352,
+        "location": "阿图什市共和新路97号"
+    },
+    "p3rGsiSC4W0uzVa6Hii": {
+        "submitterId": "Super_15229290672",
+        "status": 0,
+        "createdTime": "2023-11-20 18:09:41",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 147,
+        "location": "东阿县本溪路119号"
+    },
+    "zEl203kXGSKHYy6JqSq": {
+        "submitterId": "Super_17767187306",
+        "status": 1,
+        "createdTime": "2024-02-22 22:09:28",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 123,
+        "location": "新建区飞虹支路19号"
+    },
+    "Qe6GbNjHYz7EzDJFkBv": {
+        "submitterId": "Super_19982282963",
+        "status": 0,
+        "createdTime": "2023-09-11 14:45:27",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 156,
+        "location": "凤泉区九杜路110号"
+    },
+    "cXEgUbdlnVxUwr5FB7N": {
+        "submitterId": "Super_13951648392",
+        "status": 1,
+        "createdTime": "2024-01-09 10:26:45",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 225,
+        "location": "东兴市城南路6号"
+    },
+    "M8ehvEGwjO6bRg18jYd": {
+        "submitterId": "Super_18262387109",
+        "status": 1,
+        "createdTime": "2023-09-30 05:44:22",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 124,
+        "location": "浮梁县澳门路161号"
+    },
+    "DD5xbxfLRQdONjfmDkN": {
+        "submitterId": "Super_15154430719",
+        "status": 0,
+        "createdTime": "2024-03-29 21:42:50",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 161,
+        "location": "义马市城中北路94号"
+    },
+    "L1sF6JiPqKPWF6ONRxy": {
+        "submitterId": "Super_13634448969",
+        "status": 0,
+        "createdTime": "2024-02-06 19:03:53",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 284,
+        "location": "石林彝族自治县河间路190号"
+    },
+    "oVVcuhWL1EzjX9BLLeA": {
+        "submitterId": "Super_17750371924",
+        "status": 0,
+        "createdTime": "2023-11-19 13:25:58",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 190,
+        "location": "湘阴县程家桥路144号"
+    },
+    "3meg570tMCwzH2SwqSZ": {
+        "submitterId": "Super_15592505040",
+        "status": 1,
+        "createdTime": "2024-01-30 04:54:31",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 320,
+        "location": "会宁县川周公路191号"
+    },
+    "HK17ITrOdCDYprbi6Te": {
+        "submitterId": "Super_17766120803",
+        "status": 0,
+        "createdTime": "2024-05-17 01:04:47",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 36,
+        "location": "阿拉善左旗沪闵路2号"
+    },
+    "g34sgJVL2QgH8kI1qb3": {
+        "submitterId": "Super_15537330599",
+        "status": 1,
+        "createdTime": "2023-10-20 07:19:21",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 189,
+        "location": "隆回县徽宁路150号"
+    },
+    "it0c8vSZDpSGxYuUZZ9": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2024-01-16 20:07:03",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 272,
+        "location": "松潘县靖宇中路89号"
+    },
+    "gRZTWbbVwkCWZ529xxn": {
+        "submitterId": "Super_16618992601",
+        "status": 0,
+        "createdTime": "2024-03-05 20:16:38",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 195,
+        "location": "宁远县飞虹支路193号"
+    },
+    "Ywiku3J9OLQU4nYbLlg": {
+        "submitterId": "Super_15647469855",
+        "status": 1,
+        "createdTime": "2024-02-23 16:55:32",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 19,
+        "location": "怀仁市九杜路24号"
+    },
+    "Ew75On1bz6GCEJRCD8o": {
+        "submitterId": "Super_14542690405",
+        "status": 0,
+        "createdTime": "2024-05-23 20:12:04",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 32,
+        "location": "乌拉特中旗川南奉公路156号"
+    },
+    "XNORslOTZpxDsmoXLaN": {
+        "submitterId": "Super_15654457181",
+        "status": 0,
+        "createdTime": "2024-06-15 04:20:48",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 314,
+        "location": "府谷县东大名路5号"
+    },
+    "Hm6E1PLkQLRW9gjC76L": {
+        "submitterId": "Super_15564306397",
+        "status": 1,
+        "createdTime": "2024-05-08 16:52:06",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 245,
+        "location": "仁兴镇沪星路105号"
+    },
+    "38ZNsiyYUu1PW5wY85T": {
+        "submitterId": "Super_13447905121",
+        "status": 1,
+        "createdTime": "2023-11-29 16:50:38",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 198,
+        "location": "龙山县菱白园路28号"
+    },
+    "bm0hZAbaIUDzcxpOtdJ": {
+        "submitterId": "Super_14587092691",
+        "status": 0,
+        "createdTime": "2023-10-15 07:48:01",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 20,
+        "location": "寿阳县桂平路48号"
+    },
+    "7jY7UVDbo1e9cBDYuwb": {
+        "submitterId": "Super_17816239484",
+        "status": 1,
+        "createdTime": "2024-01-21 09:17:27",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 333,
+        "location": "祁连县胶州路41号"
+    },
+    "X8AqLppZ4b8e3dFoU2s": {
+        "submitterId": "Super_15814056964",
+        "status": 0,
+        "createdTime": "2024-03-01 09:31:24",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 42,
+        "location": "凤城市九江路67号"
+    },
+    "7VbTqhYPtx0OvXRR3zp": {
+        "submitterId": "Super_18993366516",
+        "status": 1,
+        "createdTime": "2023-11-18 11:47:22",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 364,
+        "location": "兵团八十六团东方路92号"
+    },
+    "kHFpeV11fGnpBgADT1z": {
+        "submitterId": "Super_15594701265",
+        "status": 0,
+        "createdTime": "2023-11-03 03:18:03",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 50,
+        "location": "南票区国济路90号"
+    },
+    "xCRxW4t8ncjQYyY4Lci": {
+        "submitterId": "Super_14573727965",
+        "status": 1,
+        "createdTime": "2024-01-11 17:58:43",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 76,
+        "location": "邳州市城银路130号"
+    },
+    "llyR91gOclptjqI9fZT": {
+        "submitterId": "Super_18013227310",
+        "status": 0,
+        "createdTime": "2023-10-18 01:59:44",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 130,
+        "location": "永新县黑山路132号"
+    },
+    "VJUAe8EqVF6dTCp2tTP": {
+        "submitterId": "Super_18889783795",
+        "status": 1,
+        "createdTime": "2023-09-13 17:36:02",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 233,
+        "location": "凭祥市方伟路 172号"
+    },
+    "AU1If3HNONA7T7Kl5Pd": {
+        "submitterId": "Super_13468501623",
+        "status": 1,
+        "createdTime": "2024-04-08 09:46:33",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 110,
+        "location": "金寨县方伟路 125号"
+    },
+    "9cu33y3RZ5y0rjuEtRW": {
+        "submitterId": "Super_15279807606",
+        "status": 0,
+        "createdTime": "2023-09-10 13:15:05",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 234,
+        "location": "秀英区河间路220号"
+    },
+    "oY9HS2RUaat1kL9ZphP": {
+        "submitterId": "Super_13257446157",
+        "status": 1,
+        "createdTime": "2024-03-13 09:24:04",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 112,
+        "location": "石台县东江阴街220号"
+    },
+    "fju2nTH8ZqYxQsVhRsi": {
+        "submitterId": "Super_17621895681",
+        "status": 1,
+        "createdTime": "2023-09-25 17:05:18",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 240,
+        "location": "昌洒镇北京东路139号"
+    },
+    "3yZTsiA31hIVVqXL8CT": {
+        "submitterId": "Super_15154430719",
+        "status": 1,
+        "createdTime": "2024-03-03 21:13:44",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 161,
+        "location": "义马市崇明路216号"
+    },
+    "wj5lWtqnz9Do9wHc0QL": {
+        "submitterId": "Super_13366662573",
+        "status": 1,
+        "createdTime": "2024-05-15 10:58:08",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 179,
+        "location": "随县曹安公路113号"
+    },
+    "aHqJxpI9LrzcNhZxTfC": {
+        "submitterId": "Super_13165496141",
+        "status": 0,
+        "createdTime": "2023-10-02 09:07:53",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 180,
+        "location": "宣恩县高邮路142号"
+    },
+    "Ar5EazEpbZ9IcwTAQF7": {
+        "submitterId": "Super_13618559634",
+        "status": 0,
+        "createdTime": "2023-12-26 19:40:39",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 260,
+        "location": "利州区沪南公路185号"
+    },
+    "ucUrckuXBw6nbjxAysa": {
+        "submitterId": "Super_17647338727",
+        "status": 1,
+        "createdTime": "2024-01-18 05:11:44",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 22,
+        "location": "代县北虹路14号"
+    },
+    "By8aQ98TrSJe5nXDV83": {
+        "submitterId": "Super_13034912854",
+        "status": 0,
+        "createdTime": "2024-05-17 11:00:19",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 107,
+        "location": "南谯区博乐南路172号"
+    },
+    "HrMVx7bgVfXzWNtdj3I": {
+        "submitterId": "Super_18924929329",
+        "status": 0,
+        "createdTime": "2024-01-05 20:04:35",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 199,
+        "location": "海珠区桂平路218号"
+    },
+    "sBbhHPxthPDZcCp8TbB": {
+        "submitterId": "Super_18287617324",
+        "status": 0,
+        "createdTime": "2024-02-22 00:37:08",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 129,
+        "location": "章贡区芳甸路218号"
+    },
+    "fpYfYfxcRmxBhU9avGw": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2023-11-16 18:12:12",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 272,
+        "location": "小金县河南南路17号"
+    },
+    "mi1OfJ0XzhD2dD56dpu": {
+        "submitterId": "Super_13051522604",
+        "status": 1,
+        "createdTime": "2024-03-07 02:33:35",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 140,
+        "location": "安丘市交通路47号"
+    },
+    "ApC8VP5xqRHO97TsoO0": {
+        "submitterId": "Super_15826588985",
+        "status": 1,
+        "createdTime": "2024-05-14 04:24:35",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 348,
+        "location": "木垒哈萨克自治县北苏州路16号"
+    },
+    "6meaNdY7jUk3YyPGQoy": {
+        "submitterId": "Super_15516184045",
+        "status": 1,
+        "createdTime": "2024-06-02 20:32:10",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 74,
+        "location": "江宁区东大名路180号"
+    },
+    "2ASDLRFSPfUoLWMPI2m": {
+        "submitterId": "Super_14750400302",
+        "status": 1,
+        "createdTime": "2024-01-14 17:10:25",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 207,
+        "location": "电白区靖宇中路130号"
+    },
+    "AtN53nQrEIKHdO9rhJW": {
+        "submitterId": "Super_18279714296",
+        "status": 1,
+        "createdTime": "2023-09-12 06:49:47",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 181,
+        "location": "龙华山街道航津路46号"
+    },
+    "DKGJ5nQRtCcMm8mIZdJ": {
+        "submitterId": "Super_18150684859",
+        "status": 0,
+        "createdTime": "2024-05-19 01:11:20",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 236,
+        "location": "中沙群岛航津路198号"
+    },
+    "ArHym7tq7WoZbZ2G6yu": {
+        "submitterId": "Super_13366662573",
+        "status": 0,
+        "createdTime": "2023-11-21 18:56:40",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 179,
+        "location": "随县黄兴路193号"
+    },
+    "5CV67nnt6AhpXB4oQei": {
+        "submitterId": "Super_15279807606",
+        "status": 0,
+        "createdTime": "2024-06-01 04:54:25",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 234,
+        "location": "美兰区八一路12号"
+    },
+    "Dw4aX33HqwX9M2LbrY9": {
+        "submitterId": "Super_13314248075",
+        "status": 1,
+        "createdTime": "2024-02-15 05:54:55",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 309,
+        "location": "渭滨区安义路44号"
+    },
+    "brMMDEmeFCmDa9GoBqN": {
+        "submitterId": "Super_14587092691",
+        "status": 0,
+        "createdTime": "2024-01-28 12:04:17",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 20,
+        "location": "榆次区沪亭南路144号"
+    },
+    "kCbDPforxcR0HEUkBjc": {
+        "submitterId": "Super_13680224276",
+        "status": 0,
+        "createdTime": "2023-12-23 14:22:00",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 109,
+        "location": "萧县桂平路95号"
+    },
+    "Vbbk76XC10K0wUKnVoF": {
+        "submitterId": "Super_15621252417",
+        "status": 1,
+        "createdTime": "2023-09-01 12:21:19",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 93,
+        "location": "永康市九江路121号"
+    },
+    "tVQM0EfQX0eGfIZN4KP": {
+        "submitterId": "Super_15267623510",
+        "status": 0,
+        "createdTime": "2023-10-24 20:23:40",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 298,
+        "location": "泸水市东沙虹港路30号"
+    },
+    "i7MzJfCDCScYBgjiHg4": {
+        "submitterId": "Super_19913496865",
+        "status": 1,
+        "createdTime": "2023-12-01 05:18:57",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 230,
+        "location": "平桂区古羊路173号"
+    },
+    "R27KSjxZ9ZgtYHNZC11": {
+        "submitterId": "Super_18393889696",
+        "status": 0,
+        "createdTime": "2024-06-05 05:46:46",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 148,
+        "location": "阳信县活源路213号"
+    },
+    "WwcB3tJSjNZ1IKpYjqT": {
+        "submitterId": "Super_15266057116",
+        "status": 0,
+        "createdTime": "2023-09-14 09:15:59",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 362,
+        "location": "兵团一八三团沪南路143号"
+    },
+    "g63k3bfjVqCRBi68jc9": {
+        "submitterId": "Super_18993366516",
+        "status": 0,
+        "createdTime": "2024-04-16 14:46:14",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 364,
+        "location": "兵团八十四团花山路169号"
+    },
+    "nvlIWuPBRVeIQXO0e54": {
+        "submitterId": "Super_17816239484",
+        "status": 1,
+        "createdTime": "2024-05-16 07:11:27",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 333,
+        "location": "门源回族自治县打浦路44号"
+    },
+    "EunYNPs77232FxTYWuX": {
+        "submitterId": "Super_19148398673",
+        "status": 1,
+        "createdTime": "2023-11-12 17:00:17",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 128,
+        "location": "余江区交通西路161号"
+    },
+    "VU3NUQ5qhwcJA7TIjFg": {
+        "submitterId": "Super_13833242571",
+        "status": 0,
+        "createdTime": "2024-01-18 03:56:19",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 293,
+        "location": "绿春县古羊路107号"
+    },
+    "AAwpkwxlS3vzOuSih3Q": {
+        "submitterId": "Super_17722207522",
+        "status": 1,
+        "createdTime": "2023-09-13 03:18:02",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 226,
+        "location": "浦北县定西路43号"
+    },
+    "zf33DTn0eytjKNiOyQ1": {
+        "submitterId": "Super_18151434866",
+        "status": 1,
+        "createdTime": "2024-02-29 21:26:51",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 303,
+        "location": "察隅县国京路117号"
+    },
+    "U2MuL5VQevF2ubbmGSy": {
+        "submitterId": "Super_17827208229",
+        "status": 0,
+        "createdTime": "2023-09-11 23:51:57",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 188,
+        "location": "耒阳市城中北路56号"
+    },
+    "MYQbUU8bgdr9xN8u3iQ": {
+        "submitterId": "Super_15212420221",
+        "status": 0,
+        "createdTime": "2024-06-01 14:30:38",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 294,
+        "location": "马关县花山路66号"
+    },
+    "Jy1UEg6g32NO7DBLDtH": {
+        "submitterId": "Super_17659508430",
+        "status": 0,
+        "createdTime": "2024-02-28 00:31:00",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 259,
+        "location": "平武县芳华路192号"
+    },
+    "cpDoSnqJIDsQU6iL50b": {
+        "submitterId": "Super_18732663078",
+        "status": 0,
+        "createdTime": "2024-05-29 11:40:33",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 166,
+        "location": "正阳县川沙新镇75号"
+    },
+    "LBwBvRCGv31DYe0ioIC": {
+        "submitterId": "Super_17892227436",
+        "status": 0,
+        "createdTime": "2024-05-21 17:59:16",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 300,
+        "location": "达孜区九潭路36号"
+    },
+    "xtfxLP8TtJGScZo43jp": {
+        "submitterId": "Super_15146454626",
+        "status": 1,
+        "createdTime": "2024-03-10 08:50:02",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 222,
+        "location": "恭城瑶族自治县北虹路127号"
+    },
+    "V4QYQMeBGN2lqkVgY5s": {
+        "submitterId": "Super_19174459487",
+        "status": 1,
+        "createdTime": "2024-01-15 03:07:01",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 45,
+        "location": "彰武县华和路69号"
+    },
+    "ppSXiB1b7SIxNRetkl3": {
+        "submitterId": "Super_13468501623",
+        "status": 1,
+        "createdTime": "2024-04-03 19:10:49",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 110,
+        "location": "霍邱县江阴路178号"
+    },
+    "JiRXQGpUPWTxiB2PYev": {
+        "submitterId": "Super_13241971636",
+        "status": 0,
+        "createdTime": "2023-12-30 06:40:56",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 192,
+        "location": "武陵源区静唐路186号"
+    },
+    "AwkHgYYxyxyGZREVWSi": {
+        "submitterId": "Super_18749648271",
+        "status": 1,
+        "createdTime": "2024-06-06 06:27:14",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 18,
+        "location": "阳城县黄陵路29号"
+    },
+    "HoJJBJeSRMsjzVGW9TY": {
+        "submitterId": "Super_15042128469",
+        "status": 0,
+        "createdTime": "2024-04-13 10:55:58",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 208,
+        "location": "鼎湖区定安路55号"
+    },
+    "FuaB93HbScFLFrylbjI": {
+        "submitterId": "Super_18924929329",
+        "status": 1,
+        "createdTime": "2024-04-27 12:57:51",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 199,
+        "location": "从化区古浪路113号"
+    },
+    "FhQ6AlXajfirt3CfIdG": {
+        "submitterId": "Super_13257446157",
+        "status": 1,
+        "createdTime": "2023-11-08 13:00:51",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 112,
+        "location": "贵池区蔡伦路178号"
+    },
+    "RWW6PwcRJtk2R47y9eH": {
+        "submitterId": "Super_15594701265",
+        "status": 0,
+        "createdTime": "2023-09-27 14:07:00",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 50,
+        "location": "建昌县川黄路103号"
+    },
+    "Pchmcf8ywBlUS35aeOp": {
+        "submitterId": "Super_18962147103",
+        "status": 1,
+        "createdTime": "2024-04-24 21:00:12",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 290,
+        "location": "墨江哈尼族自治县静唐路125号"
+    },
+    "cdSKNhi9jhGUorcxXVf": {
+        "submitterId": "Super_13238679456",
+        "status": 0,
+        "createdTime": "2024-01-28 14:21:40",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 13,
+        "location": "冀州区慈溪路99号"
+    },
+    "nJERHwAiZP2GL5I8KZG": {
+        "submitterId": "Super_15647469855",
+        "status": 1,
+        "createdTime": "2023-12-05 04:22:05",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 19,
+        "location": "应县共和路80号"
+    },
+    "UnE2bhS0ENWCH2DdFZE": {
+        "submitterId": "Super_13051522604",
+        "status": 1,
+        "createdTime": "2024-02-17 01:25:57",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 140,
+        "location": "寒亭区共康路159号"
+    },
+    "66TdZCkXcyUI9v25EnI": {
+        "submitterId": "Super_13447905121",
+        "status": 0,
+        "createdTime": "2024-06-17 06:04:21",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 198,
+        "location": "泸溪县碧云路217号"
+    },
+    "jq7gaxwy4DNwxDqcwKY": {
+        "submitterId": "Super_18376138731",
+        "status": 0,
+        "createdTime": "2024-06-11 13:21:42",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 242,
+        "location": "新龙镇高桥慈善街38号"
+    },
+    "Plrq8xcpUjfMxiRAJ8w": {
+        "submitterId": "Super_18055487948",
+        "status": 1,
+        "createdTime": "2024-01-12 09:09:11",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 265,
+        "location": "彭山区船厂路192号"
+    },
+    "KI1HJ5G0RGCTO8CYPUe": {
+        "submitterId": "Super_15887913383",
+        "status": 1,
+        "createdTime": "2024-04-10 20:08:44",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 217,
+        "location": "潮安区共江路161号"
+    },
+    "canY6XQx5Umo85WhGr7": {
+        "submitterId": "Super_15027382830",
+        "status": 0,
+        "createdTime": "2024-04-01 09:38:33",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 168,
+        "location": "黄陂区桂平路69号"
+    },
+    "7s3urabGPSKXGfxGrYv": {
+        "submitterId": "Super_14772826544",
+        "status": 1,
+        "createdTime": "2023-09-05 14:25:11",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 61,
+        "location": "克东县城南路11号"
+    },
+    "nqIGAcj9AxELoURZVVh": {
+        "submitterId": "Super_15663062643",
+        "status": 1,
+        "createdTime": "2023-11-17 23:31:26",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 319,
+        "location": "永昌县华发路103号"
+    },
+    "PqZ1FgbYP6P9Kl7Hbv0": {
+        "submitterId": "Super_15621252417",
+        "status": 1,
+        "createdTime": "2023-11-06 22:52:22",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 93,
+        "location": "金东区川黄路107号"
+    },
+    "N2Y9b0TlkyaSiXgwzMA": {
+        "submitterId": "Super_13912841153",
+        "status": 0,
+        "createdTime": "2023-12-11 22:12:12",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 10,
+        "location": "双滦区安远路215号"
+    },
+    "6eu3NY84v9jBQIrG4Nm": {
+        "submitterId": "Super_18597210918",
+        "status": 1,
+        "createdTime": "2024-04-25 23:00:27",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 92,
+        "location": "诸暨市杭州湾大道104号"
+    },
+    "0U7XhASxnrQFGtWqvv7": {
+        "submitterId": "Super_19819532765",
+        "status": 1,
+        "createdTime": "2023-12-24 00:39:28",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 213,
+        "location": "阳春市金昌路22号"
+    },
+    "5BkfhnVuhX6PiVqE2eZ": {
+        "submitterId": "Super_13391231971",
+        "status": 0,
+        "createdTime": "2023-09-04 13:00:50",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 218,
+        "location": "揭东区古方路62号"
+    },
+    "STC26FUTS4DUBhcgRO6": {
+        "submitterId": "Super_19161343476",
+        "status": 1,
+        "createdTime": "2024-01-17 05:14:33",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 354,
+        "location": "和田市国货路169号"
+    },
+    "Z8aKdBWiXmGvITZ9ybY": {
+        "submitterId": "Super_18749648271",
+        "status": 1,
+        "createdTime": "2024-02-21 11:29:22",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 18,
+        "location": "泽州县景星路200号"
+    },
+    "CA20RiwPxRCrKquS4Ne": {
+        "submitterId": "Super_15647469855",
+        "status": 1,
+        "createdTime": "2024-06-16 14:48:34",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 19,
+        "location": "应县北京西路189号"
+    },
+    "9i6pVAFDQURlTuD0zfM": {
+        "submitterId": "Super_18316339679",
+        "status": 0,
+        "createdTime": "2024-02-04 18:01:20",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 200,
+        "location": "仁化县华池路49号"
+    },
+    "QGn4r83jTFggaI5WS9X": {
+        "submitterId": "Super_13683996821",
+        "status": 0,
+        "createdTime": "2023-11-24 15:41:05",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 281,
+        "location": "普安县国济路38号"
+    },
+    "0GwHNlsMwh3woENDh69": {
+        "submitterId": "Super_13095362023",
+        "status": 0,
+        "createdTime": "2024-04-26 05:31:55",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 282,
+        "location": "天柱县九潭路39号"
+    },
+    "oQFTz0hlZGR9zNtpiT7": {
+        "submitterId": "Super_14536132082",
+        "status": 1,
+        "createdTime": "2024-06-18 20:02:39",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 304,
+        "location": "乃东区花山路101号"
+    },
+    "dQSt5tVW2KNXByDY8Wt": {
+        "submitterId": "Super_16635218474",
+        "status": 1,
+        "createdTime": "2023-11-01 10:08:28",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 7,
+        "location": "临西县共青路70号"
+    },
+    "Hd7ndtsMNhu2dD9NAFT": {
+        "submitterId": "Super_13468501623",
+        "status": 1,
+        "createdTime": "2023-12-29 13:57:13",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 110,
+        "location": "舒城县黄山路11号"
+    },
+    "UUi64ceGlE1dusnosP2": {
+        "submitterId": "Super_17869810085",
+        "status": 1,
+        "createdTime": "2023-10-15 20:11:52",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 117,
+        "location": "明溪县碧波路143号"
+    },
+    "mV8QIHlk6aNNYK1I05I": {
+        "submitterId": "Super_13228078517",
+        "status": 1,
+        "createdTime": "2023-09-05 04:03:33",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 150,
+        "location": "新郑市博园路189号"
+    },
+    "Q85AlqF6fXqeSI1zrtQ": {
+        "submitterId": "Super_18376138731",
+        "status": 0,
+        "createdTime": "2024-05-07 22:18:43",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 242,
+        "location": "东河镇定海港路12号"
+    },
+    "ZfWN3h6UpuWLwDDHJxR": {
+        "submitterId": "Super_18262387109",
+        "status": 1,
+        "createdTime": "2023-12-24 22:45:10",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 124,
+        "location": "珠山区波阳路110号"
+    },
+    "ipjIMVs6RhMY3p1deo6": {
+        "submitterId": "Super_15266057116",
+        "status": 0,
+        "createdTime": "2024-05-10 23:33:39",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 362,
+        "location": "兵团一八七团川南奉公路163号"
+    },
+    "xndN6qI4H6Ifppm7buo": {
+        "submitterId": "Super_13172613677",
+        "status": 1,
+        "createdTime": "2023-11-04 16:15:30",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 31,
+        "location": "扎兰屯市沪南公路107号"
+    },
+    "wztPzQYuumh31rbryaw": {
+        "submitterId": "Super_18779565206",
+        "status": 1,
+        "createdTime": "2024-05-15 04:27:37",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 276,
+        "location": "钟山区九龙路174号"
+    },
+    "NBYXCGV9lbdaRSMNKp1": {
+        "submitterId": "Super_13618559634",
+        "status": 0,
+        "createdTime": "2023-11-22 06:54:36",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 260,
+        "location": "昭化区沪太路201号"
+    },
+    "zZyHKYeo9R8WQzMs9PU": {
+        "submitterId": "Super_15782091413",
+        "status": 0,
+        "createdTime": "2023-12-15 06:24:34",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 14,
+        "location": "阳曲县解放街158号"
+    },
+    "WwiwcqJgAk8D6oi7kBm": {
+        "submitterId": "Super_13395580818",
+        "status": 1,
+        "createdTime": "2024-06-11 19:58:48",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 54,
+        "location": "东丰县景星路47号"
+    },
+    "ieNNAEeXQ7EZKsl1dOi": {
+        "submitterId": "Super_13743533378",
+        "status": 0,
+        "createdTime": "2023-11-08 23:26:16",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 177,
+        "location": "罗田县局门路50号"
+    },
+    "xQiL56j2TieT4lAEfMX": {
+        "submitterId": "Super_13971907459",
+        "status": 0,
+        "createdTime": "2023-09-06 00:45:42",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 215,
+        "location": "东莞市鹤庆路36号"
+    },
+    "wYNWrwb6YeyaKPGaRg8": {
+        "submitterId": "Super_15618639398",
+        "status": 1,
+        "createdTime": "2024-02-22 07:11:43",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 334,
+        "location": "泽库县华发路200号"
+    },
+    "iCCrjZvWGZwKVKTrf0i": {
+        "submitterId": "Super_13683996821",
+        "status": 1,
+        "createdTime": "2024-06-17 21:04:02",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 281,
+        "location": "贞丰县定西路98号"
+    },
+    "GKOTceVCTp5yswFhXO2": {
+        "submitterId": "Super_18677891684",
+        "status": 1,
+        "createdTime": "2024-01-04 07:29:28",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 78,
+        "location": "吴中区沧训路145号"
+    },
+    "VIEY0IxNztcn0qEF2b5": {
+        "submitterId": "Super_13833242571",
+        "status": 1,
+        "createdTime": "2024-01-26 18:31:15",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 293,
+        "location": "红河县定海港路44号"
+    },
+    "QEjRyjYjzIIPS0C3eFL": {
+        "submitterId": "Super_13336625175",
+        "status": 0,
+        "createdTime": "2024-04-13 07:44:20",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 58,
+        "location": "通榆县城银路142号"
+    },
+    "0PsnWwJlGqHTWxkvUvg": {
+        "submitterId": "Super_14750400302",
+        "status": 0,
+        "createdTime": "2024-03-10 05:20:25",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 207,
+        "location": "信宜市国济路53号"
+    },
+    "GUZAv9br4fJZnZ9DFLX": {
+        "submitterId": "Super_17621895681",
+        "status": 0,
+        "createdTime": "2023-11-12 18:59:58",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 240,
+        "location": "会文镇沪星路22号"
+    },
+    "OO6mgWwaVtMrXTq37Nk": {
+        "submitterId": "Super_13881138481",
+        "status": 0,
+        "createdTime": "2024-06-10 13:14:08",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 308,
+        "location": "耀州区鞍山路132号"
+    },
+    "rfGFljVIw4QXaAuwg3I": {
+        "submitterId": "Super_16635218474",
+        "status": 0,
+        "createdTime": "2023-10-20 08:45:54",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 7,
+        "location": "南和区方伟路 186号"
+    },
+    "BZJWoOxH2FbsMAmIdTs": {
+        "submitterId": "Super_17689799304",
+        "status": 1,
+        "createdTime": "2023-10-29 12:29:42",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 295,
+        "location": "景洪市博乐南路197号"
+    },
+    "4KgzNV5bwMcw8DqYLyd": {
+        "submitterId": "Super_13618559634",
+        "status": 0,
+        "createdTime": "2024-02-12 09:36:54",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 260,
+        "location": "青川县和田路70号"
+    },
+    "njYqhUAulVqLouAoUbM": {
+        "submitterId": "Super_19982282963",
+        "status": 0,
+        "createdTime": "2023-12-11 00:29:15",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 156,
+        "location": "辉县市黄浦路216号"
+    },
+    "YYuUT59Sy7xQDONaFJa": {
+        "submitterId": "Super_13618559634",
+        "status": 1,
+        "createdTime": "2023-12-23 00:43:05",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 260,
+        "location": "苍溪县苍梧路80号"
+    },
+    "rvg4Bfd73AUxswjFztl": {
+        "submitterId": "Super_18754002329",
+        "status": 1,
+        "createdTime": "2023-11-25 18:51:48",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 65,
+        "location": "肇州县东平路29号"
+    },
+    "AmVVLVEPznWIfr5wQS1": {
+        "submitterId": "Super_13833242571",
+        "status": 0,
+        "createdTime": "2024-05-13 09:17:57",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 293,
+        "location": "蒙自市河间路53号"
+    },
+    "yoj7XQNVJUOj7X4EsOP": {
+        "submitterId": "Super_15229290672",
+        "status": 0,
+        "createdTime": "2023-10-17 11:50:52",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 147,
+        "location": "冠县金鼎路29号"
+    },
+    "t8gwGIiFJhpUAdCiYTg": {
+        "submitterId": "Super_13649707395",
+        "status": 0,
+        "createdTime": "2024-01-07 06:07:11",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 353,
+        "location": "疏附县交通西路3号"
+    },
+    "4oOhdsRFtyYnQMPKNiw": {
+        "submitterId": "Super_13395580818",
+        "status": 1,
+        "createdTime": "2024-01-19 10:55:41",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 54,
+        "location": "西安区合肥路34号"
+    },
+    "7OSpA9epyo560czhhr3": {
+        "submitterId": "Super_13615752527",
+        "status": 0,
+        "createdTime": "2024-04-04 07:42:36",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 79,
+        "location": "启东市本溪路151号"
+    },
+    "bYdjxysa436cN0SWoVk": {
+        "submitterId": "Super_15146454626",
+        "status": 0,
+        "createdTime": "2023-10-10 02:36:59",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 222,
+        "location": "平乐县桂巷路136号"
+    },
+    "f8rhioFwbY89CJL8VfQ": {
+        "submitterId": "Super_15937442824",
+        "status": 1,
+        "createdTime": "2024-02-29 02:46:52",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 104,
+        "location": "郊区东门路137号"
+    },
+    "65x8R851kOXNsMddvOa": {
+        "submitterId": "Super_15279807606",
+        "status": 0,
+        "createdTime": "2024-05-02 08:04:57",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 234,
+        "location": "琼山区沪青平公路14号"
+    },
+    "hewulRdq4F61SdzoIdL": {
+        "submitterId": "Super_15072799075",
+        "status": 1,
+        "createdTime": "2024-01-11 13:07:36",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 144,
+        "location": "东港区飞虹路30号"
+    },
+    "mGjPcUdXCwJvOfmozFu": {
+        "submitterId": "Super_15814056964",
+        "status": 0,
+        "createdTime": "2024-01-19 10:25:51",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 42,
+        "location": "振兴区旧仓街68号"
+    },
+    "cGoAzXTdF5tb570LFo6": {
+        "submitterId": "Super_18376138731",
+        "status": 0,
+        "createdTime": "2024-05-11 17:59:03",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 242,
+        "location": "四更镇鞍山支路108号"
+    },
+    "5jEQSANCtvLGjVSqXS7": {
+        "submitterId": "Super_15072799075",
+        "status": 1,
+        "createdTime": "2024-04-04 07:11:45",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 144,
+        "location": "五莲县城中路66号"
+    },
+    "hsiK9lRZrG0vzxAdjwj": {
+        "submitterId": "Super_19180379434",
+        "status": 0,
+        "createdTime": "2024-04-15 16:12:07",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 171,
+        "location": "兴山县川沙新镇205号"
+    },
+    "AJ2qLaIoNdZmwkWyNfL": {
+        "submitterId": "Super_14586002055",
+        "status": 0,
+        "createdTime": "2024-06-22 10:21:09",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 344,
+        "location": "沙依巴克区本溪路69号"
+    },
+    "rTOsSCtvtjIyDLs6NC9": {
+        "submitterId": "Super_15754755835",
+        "status": 0,
+        "createdTime": "2023-11-29 18:36:36",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 1,
+        "location": "平谷区黄浦路71号"
+    },
+    "tqW8OmLksEPXxIvjvty": {
+        "submitterId": "Super_15042467335",
+        "status": 0,
+        "createdTime": "2023-12-28 06:13:01",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 60,
+        "location": "道外区胶州路127号"
+    },
+    "Bzr7Kech1qzmfngtP4S": {
+        "submitterId": "Super_13649707395",
+        "status": 0,
+        "createdTime": "2023-11-28 11:07:23",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 353,
+        "location": "疏勒县会文路175号"
+    },
+    "51am1Z1sTNpJo4UYt8x": {
+        "submitterId": "Super_18746787115",
+        "status": 0,
+        "createdTime": "2023-09-16 11:24:43",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 366,
+        "location": "兵团四十七团安汾路197号"
+    },
+    "0zDKhyVjlDHHN6Pv9VY": {
+        "submitterId": "Super_15179479519",
+        "status": 1,
+        "createdTime": "2024-04-08 12:07:27",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 89,
+        "location": "乐清市安仁路196号"
+    },
+    "ysbW6JAZFr5C6wyNr2A": {
+        "submitterId": "Super_14587092691",
+        "status": 0,
+        "createdTime": "2023-11-23 12:57:44",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 20,
+        "location": "昔阳县解放中路62号"
+    },
+    "gTJGxsS2Po0EYPtZJYk": {
+        "submitterId": "Super_13649707395",
+        "status": 1,
+        "createdTime": "2023-10-24 19:09:20",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 353,
+        "location": "疏附县靖宇东路128号"
+    },
+    "ghnA8HyiogxIjGWGtnw": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2024-05-04 15:08:36",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 272,
+        "location": "九寨沟县黄陵路46号"
+    },
+    "jYpNzoC6Qky6uMHsSiT": {
+        "submitterId": "Super_15950653996",
+        "status": 1,
+        "createdTime": "2024-03-31 09:27:09",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 153,
+        "location": "舞钢市靖宇中路205号"
+    },
+    "9G03fCKFHK32BMDbDuX": {
+        "submitterId": "Super_18259925725",
+        "status": 1,
+        "createdTime": "2024-05-12 06:53:44",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 238,
+        "location": "毛阳镇和田路153号"
+    },
+    "W0oMFvps9z25gV124MO": {
+        "submitterId": "Super_19982690588",
+        "status": 0,
+        "createdTime": "2024-06-19 15:26:37",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 352,
+        "location": "乌恰县解放中路76号"
+    },
+    "cn6Oi7djtUn5HxSORVF": {
+        "submitterId": "Super_15179479519",
+        "status": 0,
+        "createdTime": "2024-03-03 00:08:11",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 89,
+        "location": "鹿城区安业路196号"
+    },
+    "Tz955oYflWkIXZtNjqU": {
+        "submitterId": "Super_14723396433",
+        "status": 0,
+        "createdTime": "2024-04-02 10:20:15",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 221,
+        "location": "融水苗族自治县沪太支路49号"
+    },
+    "WUMigk5YA2g1Dxam5VU": {
+        "submitterId": "Super_18634788261",
+        "status": 1,
+        "createdTime": "2024-03-14 00:51:09",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 272,
+        "location": "理县安边路161号"
+    },
+    "aui1Vb0LlYFSHfWADkZ": {
+        "submitterId": "Super_17723889545",
+        "status": 0,
+        "createdTime": "2024-06-10 17:10:27",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 75,
+        "location": "滨湖区东平路68号"
+    },
+    "hKM7veIGAZAO7ffJX6C": {
+        "submitterId": "Super_13165496141",
+        "status": 0,
+        "createdTime": "2023-10-20 20:52:15",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 180,
+        "location": "咸丰县东兰路30号"
+    },
+    "LT5tqfTrboTLGqQDCWm": {
+        "submitterId": "Super_13395580818",
+        "status": 0,
+        "createdTime": "2024-02-28 00:46:27",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 54,
+        "location": "西安区城中路212号"
+    },
+    "QUOSTIwCVuZ8ce7NeMA": {
+        "submitterId": "Super_15072799075",
+        "status": 0,
+        "createdTime": "2024-04-07 15:19:37",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 144,
+        "location": "五莲县东江阴街40号"
+    },
+    "PnJCU0zJqw4USlcirBP": {
+        "submitterId": "Super_15826811852",
+        "status": 1,
+        "createdTime": "2024-02-17 15:13:34",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 56,
+        "location": "靖宇县江镇路199号"
+    },
+    "3vFajzLhp2wqScmor6C": {
+        "submitterId": "Super_13615752527",
+        "status": 1,
+        "createdTime": "2024-03-14 22:45:21",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 79,
+        "location": "海安市交通路112号"
+    },
+    "fkpUhGqGcFBH1mfUbKx": {
+        "submitterId": "Super_15026961359",
+        "status": 1,
+        "createdTime": "2024-04-28 23:00:29",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 337,
+        "location": "曲麻莱县金昌路135号"
+    },
+    "M7zIuUcwakdhf9jYWYZ": {
+        "submitterId": "Super_18259925725",
+        "status": 0,
+        "createdTime": "2023-09-29 08:30:57",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 238,
+        "location": "畅好乡巴林路142号"
+    },
+    "PF62x7aoPwBGp3acfcH": {
+        "submitterId": "Super_14723396433",
+        "status": 1,
+        "createdTime": "2023-11-21 20:32:46",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 221,
+        "location": "三江侗族自治县共康路76号"
+    },
+    "MTX5EeGk2DtSbXxKusI": {
+        "submitterId": "Super_17748702153",
+        "status": 1,
+        "createdTime": "2023-09-30 12:52:56",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 169,
+        "location": "西塞山区碧云路147号"
+    },
+    "yvtDn2tGNm85qh7ADpc": {
+        "submitterId": "Super_15042128469",
+        "status": 0,
+        "createdTime": "2024-02-24 22:46:08",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 208,
+        "location": "高要区波阳路117号"
+    },
+    "Id6LAXyAcOvzwWjBtpC": {
+        "submitterId": "Super_18663001250",
+        "status": 1,
+        "createdTime": "2023-10-30 17:23:32",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 264,
+        "location": "嘉陵区东宝兴路42号"
+    },
+    "9Ux6cKEpXTreW0BpnSj": {
+        "submitterId": "Super_18245881379",
+        "status": 1,
+        "createdTime": "2024-01-10 09:16:23",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 132,
+        "location": "临川区九杜路25号"
+    },
+    "CEzSihil9mG8PyMIfsN": {
+        "submitterId": "Super_17884572921",
+        "status": 1,
+        "createdTime": "2024-03-06 05:17:36",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 312,
+        "location": "黄陵县北京东路163号"
+    },
+    "LjqZnhHBrKKLnWmsxT2": {
+        "submitterId": "Super_18889783795",
+        "status": 0,
+        "createdTime": "2024-06-15 18:46:14",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 233,
+        "location": "天等县江镇路63号"
+    },
+    "ipkonBytTcl2PDs33nV": {
+        "submitterId": "Super_18759214097",
+        "status": 1,
+        "createdTime": "2024-03-11 21:02:04",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 228,
+        "location": "玉州区八一路142号"
+    },
+    "uILK7GnGW9UqeAiYYW4": {
+        "submitterId": "Super_19974132802",
+        "status": 0,
+        "createdTime": "2023-11-17 06:22:33",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 95,
+        "location": "普陀区安亭路66号"
+    },
+    "naqEhXAjW6XX6eGwNhm": {
+        "submitterId": "Super_13336625175",
+        "status": 1,
+        "createdTime": "2024-03-30 10:17:04",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 58,
+        "location": "洮南市本溪路137号"
+    },
+    "9DS1WsVGGDnX32spnit": {
+        "submitterId": "Super_15114485240",
+        "status": 1,
+        "createdTime": "2024-01-22 00:16:32",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 105,
+        "location": "潜山市北艾路8号"
+    },
+    "klBePx2qKwfLlSSf581": {
+        "submitterId": "Super_13096949696",
+        "status": 1,
+        "createdTime": "2023-10-09 03:39:08",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 287,
+        "location": "施甸县古浪路7号"
+    },
+    "lz2Q4lTu7wFPcVLCwrQ": {
+        "submitterId": "Super_13314248075",
+        "status": 0,
+        "createdTime": "2024-06-14 02:57:43",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 309,
+        "location": "凤翔区国达路57号"
+    },
+    "7yPLYs6AAUXy7ZQXWVs": {
+        "submitterId": "Super_15271205139",
+        "status": 0,
+        "createdTime": "2024-04-29 20:49:38",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 347,
+        "location": "巴里坤哈萨克自治县东储安浜路12号"
+    },
+    "w2JSNTYvBJIDQA89iC8": {
+        "submitterId": "Super_13683996821",
+        "status": 1,
+        "createdTime": "2024-04-28 12:04:44",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 281,
+        "location": "安龙县东安路39号"
+    },
+    "lmI4gfepw3r21dtNGgw": {
+        "submitterId": "Super_17827208229",
+        "status": 1,
+        "createdTime": "2023-11-18 21:44:17",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 188,
+        "location": "蒸湘区华发路104号"
+    },
+    "cx3Fs1cwrXnp9rJ1b5e": {
+        "submitterId": "Super_18779565206",
+        "status": 1,
+        "createdTime": "2023-11-21 14:07:27",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 276,
+        "location": "盘州市金鼎路149号"
+    },
+    "bOh2Y8cwHxvhSp5UVuZ": {
+        "submitterId": "Super_13683996821",
+        "status": 1,
+        "createdTime": "2023-10-02 09:37:39",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 281,
+        "location": "册亨县蒋家桥路48号"
+    },
+    "tXVY6MZX57iEx2XOBSM": {
+        "submitterId": "Super_17737803080",
+        "status": 0,
+        "createdTime": "2023-09-14 05:53:24",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 345,
+        "location": "克拉玛依区定边路142号"
+    },
+    "mhCg1Qe4lC6mMLthmkL": {
+        "submitterId": "Super_15647469855",
+        "status": 1,
+        "createdTime": "2023-12-05 10:26:09",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 19,
+        "location": "右玉县碧波路135号"
+    },
+    "8Hd8QaklPtkzrlbf2KN": {
+        "submitterId": "Super_13391231971",
+        "status": 1,
+        "createdTime": "2024-02-11 06:02:21",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 218,
+        "location": "普宁市桂林东街184号"
+    },
+    "sACxBRQPMI1le4SojTN": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2023-11-16 06:50:41",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 272,
+        "location": "茂县黑山南路32号"
+    },
+    "s8LuB0mzwPB3VvjWBXs": {
+        "submitterId": "Super_17621895681",
+        "status": 1,
+        "createdTime": "2024-01-30 10:36:46",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 240,
+        "location": "冯坡镇东宝兴路131号"
+    },
+    "kulFJkGbhUNUdvXGOWJ": {
+        "submitterId": "Super_15541273019",
+        "status": 1,
+        "createdTime": "2023-11-25 14:14:13",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 258,
+        "location": "旌阳区桂管路59号"
+    },
+    "aWUflyjo2vOmVMoHetf": {
+        "submitterId": "Super_13096949696",
+        "status": 1,
+        "createdTime": "2024-01-15 17:39:28",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 287,
+        "location": "施甸县丰庄路35号"
+    },
+    "EJlev8xirc28hrEcfjg": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2024-06-09 17:50:29",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 272,
+        "location": "汶川县古方路143号"
+    },
+    "mhoaxPpgh2sAlP2OOFt": {
+        "submitterId": "Super_14723396433",
+        "status": 0,
+        "createdTime": "2023-09-10 05:43:38",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 221,
+        "location": "鱼峰区国济路179号"
+    },
+    "25NPP0PHNLWWPaCMvfg": {
+        "submitterId": "Super_15123060555",
+        "status": 1,
+        "createdTime": "2024-01-29 08:23:38",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 17,
+        "location": "平顺县白城南路186号"
+    },
+    "iAz8cOiip8Xsn9mkgLj": {
+        "submitterId": "Super_15229290672",
+        "status": 1,
+        "createdTime": "2023-10-05 12:08:27",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 147,
+        "location": "冠县芳华路26号"
+    },
+    "HEjlSMRvTEsCUyDDCYq": {
+        "submitterId": "Super_15725103559",
+        "status": 1,
+        "createdTime": "2024-01-06 00:52:53",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 68,
+        "location": "茄子河区高雄路92号"
+    },
+    "kfU2rQVz3il3bbA6JJc": {
+        "submitterId": "Super_18813270998",
+        "status": 0,
+        "createdTime": "2024-01-19 00:58:35",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 24,
+        "location": "方山县金港路185号"
+    },
+    "hBeMk2sqMf4eN2CqTpw": {
+        "submitterId": "Super_15663062643",
+        "status": 1,
+        "createdTime": "2024-03-17 00:01:15",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 319,
+        "location": "永昌县合肥路5号"
+    },
+    "o5zWZY7Of1yiLTU6tVj": {
+        "submitterId": "Super_15544188855",
+        "status": 1,
+        "createdTime": "2023-10-24 09:18:46",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 349,
+        "location": "阿拉山口市金鼎路80号"
+    },
+    "q1wcuvvvzklykaUdfLT": {
+        "submitterId": "Super_13228078517",
+        "status": 0,
+        "createdTime": "2024-05-24 15:30:03",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 150,
+        "location": "金水区川沙路137号"
+    },
+    "Q9Bff2Fva9wTM3zZi4D": {
+        "submitterId": "Super_17635321906",
+        "status": 1,
+        "createdTime": "2024-04-04 23:28:45",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 210,
+        "location": "梅江区河南北路3号"
+    },
+    "MK1zIJIDvzoBsVQRmeG": {
+        "submitterId": "Super_18634788261",
+        "status": 0,
+        "createdTime": "2024-02-28 03:58:19",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 272,
+        "location": "汶川县滨江大道22号"
+    },
+    "EI0rTDwe1lQvtEv7pEp": {
+        "submitterId": "Super_13468501623",
+        "status": 0,
+        "createdTime": "2023-09-04 15:54:12",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 110,
+        "location": "裕安区黄家朗路25号"
+    },
+    "iutDzisdOVXYohoMSxA": {
+        "submitterId": "Super_13692802644",
+        "status": 0,
+        "createdTime": "2023-10-19 03:10:24",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 266,
+        "location": "江安县九杜路136号"
+    },
+    "oB8c4AKDJGiDAMbTHCo": {
+        "submitterId": "Super_15266057116",
+        "status": 1,
+        "createdTime": "2024-03-16 08:44:57",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 362,
+        "location": "兵团一八八团共康路135号"
+    },
+    "NqAh9BvhJAKOXfQRz0H": {
+        "submitterId": "Super_17750371924",
+        "status": 0,
+        "createdTime": "2023-11-03 12:07:20",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 190,
+        "location": "华容县碧云路111号"
+    },
+    "MUdVSttrYh4u90Dq9S9": {
+        "submitterId": "Super_16635218474",
+        "status": 0,
+        "createdTime": "2023-12-30 18:43:32",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 7,
+        "location": "临城县定海港路118号"
+    },
+    "5tXT7GK9V0oWYOmzTHu": {
+        "submitterId": "Super_15146454626",
+        "status": 1,
+        "createdTime": "2024-03-29 09:53:02",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 222,
+        "location": "秀峰区黄家朗路58号"
+    },
+    "Vl3Zj80HBTxukBcUIex": {
+        "submitterId": "Super_18279714296",
+        "status": 1,
+        "createdTime": "2024-02-16 04:29:27",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 181,
+        "location": "沙湖镇鹤庆路204号"
+    },
+    "o9Z02JZOhA1vvSwyRuv": {
+        "submitterId": "Super_15594701265",
+        "status": 1,
+        "createdTime": "2024-03-10 03:53:44",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 50,
+        "location": "绥中县高阳路18号"
+    },
+    "wXqhMSKG0KjXdAyuFF5": {
+        "submitterId": "Super_15357571883",
+        "status": 0,
+        "createdTime": "2024-05-16 18:39:35",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 261,
+        "location": "大英县杭州湾大道63号"
+    },
+    "DwQUiznZpE2VHxZHrii": {
+        "submitterId": "Super_19170870266",
+        "status": 1,
+        "createdTime": "2023-12-27 12:41:22",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 176,
+        "location": "洪湖市华池路7号"
+    },
+    "eHfiq1T5O9AMzWKNAGR": {
+        "submitterId": "Super_17644243859",
+        "status": 1,
+        "createdTime": "2024-03-14 16:20:38",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 254,
+        "location": "武侯区东平路178号"
+    },
+    "PpZ8zviS8v1Wpd7GbNc": {
+        "submitterId": "Super_13680224276",
+        "status": 0,
+        "createdTime": "2024-03-25 02:10:04",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 109,
+        "location": "萧县东沙虹港路14号"
+    },
+    "u0GMAygv02hL5s1YAQ6": {
+        "submitterId": "Super_13468501623",
+        "status": 0,
+        "createdTime": "2024-01-17 17:57:51",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 110,
+        "location": "金安区东川路127号"
+    },
+    "WFMBHuFVzwLvvmmVafW": {
+        "submitterId": "Super_13743533378",
+        "status": 1,
+        "createdTime": "2024-01-24 04:20:26",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 177,
+        "location": "红安县胶州路95号"
+    },
+    "5qrU1SJcoGISIQebkWm": {
+        "submitterId": "Super_18245881379",
+        "status": 1,
+        "createdTime": "2023-12-30 01:38:52",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 132,
+        "location": "资溪县界华路97号"
+    },
+    "kjyYv71C9EX5FRr9neA": {
+        "submitterId": "Super_13366662573",
+        "status": 1,
+        "createdTime": "2023-11-23 07:05:37",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 179,
+        "location": "曾都区国达路103号"
+    },
+    "1UeIoV43ZBkMrWFqsdi": {
+        "submitterId": "Super_13366662573",
+        "status": 1,
+        "createdTime": "2024-05-11 16:20:38",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 179,
+        "location": "广水市会文路22号"
+    },
+    "M0lJ27bRuyDUDVZtPJY": {
+        "submitterId": "Super_13366662573",
+        "status": 1,
+        "createdTime": "2024-05-15 17:31:46",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 179,
+        "location": "随县国和路119号"
+    },
+    "ZBILTF2ssaY80ujnxjI": {
+        "submitterId": "Super_15266057116",
+        "status": 1,
+        "createdTime": "2024-01-02 08:05:48",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 362,
+        "location": "北屯镇东宝兴路8号"
+    },
+    "BdsG7AWuHwnljrsVlsG": {
+        "submitterId": "Super_17750371924",
+        "status": 1,
+        "createdTime": "2023-10-19 08:49:01",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 190,
+        "location": "君山区黄杨路142号"
+    },
+    "XsGkQY1QkIqBldP2H9r": {
+        "submitterId": "Super_19884566139",
+        "status": 0,
+        "createdTime": "2023-09-01 11:41:16",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 47,
+        "location": "大洼区和田路174号"
+    },
+    "XskQpyalaJxkmOBW8AV": {
+        "submitterId": "Super_15212420221",
+        "status": 1,
+        "createdTime": "2024-03-05 21:32:32",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 294,
+        "location": "西畴县定边路122号"
+    },
+    "jqcXYh5Shem9tfdJPiB": {
+        "submitterId": "Super_13683996821",
+        "status": 0,
+        "createdTime": "2024-03-26 13:17:34",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 281,
+        "location": "普安县胶州路146号"
+    },
+    "JFdf5kmrBNDHpBQC5i5": {
+        "submitterId": "Super_19116043797",
+        "status": 0,
+        "createdTime": "2024-02-26 17:52:18",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 5,
+        "location": "北戴河区旧校场路75号"
+    },
+    "4iMbTiyqE7Mf79vfFTL": {
+        "submitterId": "Super_15210661610",
+        "status": 0,
+        "createdTime": "2023-10-13 07:16:20",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 297,
+        "location": "盈江县安亭路127号"
+    },
+    "L2fTnUoT7a3n6FHhALZ": {
+        "submitterId": "Super_18055487948",
+        "status": 0,
+        "createdTime": "2024-01-07 16:07:57",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 265,
+        "location": "丹棱县安仁路31号"
+    },
+    "ZVHFr63txuyeB0SOx68": {
+        "submitterId": "Super_19888677582",
+        "status": 1,
+        "createdTime": "2024-02-17 05:32:10",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 244,
+        "location": "南吕镇东昌路151号"
+    },
+    "taYl0al5FamNpY4KmRF": {
+        "submitterId": "Super_13048628961",
+        "status": 0,
+        "createdTime": "2024-04-05 17:43:05",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 255,
+        "location": "富顺县花溪路25号"
+    },
+    "vHBGgIzOZQ6zu1x1wGs": {
+        "submitterId": "Super_18749648271",
+        "status": 0,
+        "createdTime": "2024-03-25 23:10:27",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 18,
+        "location": "沁水县高邮路94号"
+    },
+    "22KA5hnywt65w9rpALm": {
+        "submitterId": "Super_19166027526",
+        "status": 0,
+        "createdTime": "2023-12-22 22:55:11",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 11,
+        "location": "黄骅市黄家朗路106号"
+    },
+    "xqFzt6Tp8uwOgzgAmbO": {
+        "submitterId": "Super_18889783795",
+        "status": 0,
+        "createdTime": "2023-10-07 09:06:34",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 233,
+        "location": "凭祥市国京路83号"
+    },
+    "FqYcsJIkvgb6ZTCeHvO": {
+        "submitterId": "Super_17892227436",
+        "status": 0,
+        "createdTime": "2023-11-25 16:23:15",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 300,
+        "location": "达孜区靖宇中路82号"
+    },
+    "Cckl9Sf1QgfP57tvUp7": {
+        "submitterId": "Super_18262387109",
+        "status": 0,
+        "createdTime": "2024-05-18 08:58:34",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 124,
+        "location": "珠山区飞虹路69号"
+    },
+    "LWAIg53DUyzBsAPz2p5": {
+        "submitterId": "Super_14710003549",
+        "status": 0,
+        "createdTime": "2024-04-16 00:17:11",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 292,
+        "location": "元谋县古北南路10号"
+    },
+    "vOjngY0R14XA70vMATn": {
+        "submitterId": "Super_18150684859",
+        "status": 0,
+        "createdTime": "2024-06-03 14:21:05",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 236,
+        "location": "东沙群岛凤城路57号"
+    },
+    "B3qGRbb3LMPbKXwnMDH": {
+        "submitterId": "Super_17827208229",
+        "status": 1,
+        "createdTime": "2023-09-11 23:50:10",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 188,
+        "location": "衡阳县国定东路58号"
+    },
+    "6R1MSP1ifa97tDX3Qh5": {
+        "submitterId": "Super_15212420221",
+        "status": 1,
+        "createdTime": "2024-03-15 07:53:33",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 294,
+        "location": "西畴县丰镇路180号"
+    },
+    "GGUMgvkSmNsckFxHPgQ": {
+        "submitterId": "Super_15042467335",
+        "status": 0,
+        "createdTime": "2024-03-08 00:35:12",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 60,
+        "location": "松北区会稽路55号"
+    },
+    "URRGO8T5QLVibUCG5MB": {
+        "submitterId": "Super_15316962167",
+        "status": 1,
+        "createdTime": "2024-02-13 20:34:06",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 351,
+        "location": "温宿县国京路7号"
+    },
+    "iZ2agJIUr1pPO0fPdN7": {
+        "submitterId": "Super_15814056964",
+        "status": 1,
+        "createdTime": "2023-12-11 01:08:49",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 42,
+        "location": "元宝区船厂路26号"
+    },
+    "LiDB4B6A58kMR6kTv7X": {
+        "submitterId": "Super_17892227436",
+        "status": 0,
+        "createdTime": "2023-12-15 14:31:22",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 300,
+        "location": "堆龙德庆区崇德路179号"
+    },
+    "3RNSnSFlhEJBxrcipdA": {
+        "submitterId": "Super_19982690588",
+        "status": 0,
+        "createdTime": "2024-01-04 03:40:12",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 352,
+        "location": "乌恰县合阳路67号"
+    },
+    "2PLOSoQAyTl7s3TNLOj": {
+        "submitterId": "Super_13048628961",
+        "status": 1,
+        "createdTime": "2023-11-18 04:56:45",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 255,
+        "location": "沿滩区东安路149号"
+    },
+    "7YjDfzOsEDc2kyXZET7": {
+        "submitterId": "Super_13391231971",
+        "status": 0,
+        "createdTime": "2024-04-15 03:07:21",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 218,
+        "location": "揭东区金城道59号"
+    },
+    "YMaIQ8cr0mP9VlBcGJ3": {
+        "submitterId": "Super_18746787115",
+        "status": 0,
+        "createdTime": "2024-03-10 09:27:50",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 366,
+        "location": "兵团一牧场国京路30号"
+    },
+    "h0QD8F1XdndUQ1MO0zQ": {
+        "submitterId": "Super_13697489568",
+        "status": 1,
+        "createdTime": "2023-10-20 08:34:12",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 219,
+        "location": "新兴县解放街134号"
+    },
+    "9wmGwRQOm3rbF9q6rX1": {
+        "submitterId": "Super_18248275655",
+        "status": 0,
+        "createdTime": "2023-11-21 17:25:03",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 336,
+        "location": "久治县古方路105号"
+    },
+    "POTRuYqL8blXOVSKqIz": {
+        "submitterId": "Super_14723396433",
+        "status": 1,
+        "createdTime": "2024-01-03 07:04:09",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 221,
+        "location": "融安县霍山路142号"
+    },
+    "CYpVbYikxGoWgDBZLs2": {
+        "submitterId": "Super_17659508430",
+        "status": 1,
+        "createdTime": "2024-01-07 09:22:52",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 259,
+        "location": "三台县东昌路10号"
+    },
+    "YfRG0MU5BT6gmDc8gSN": {
+        "submitterId": "Super_13468501623",
+        "status": 0,
+        "createdTime": "2024-05-31 01:08:22",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 110,
+        "location": "霍山县碧云路189号"
+    },
+    "MoM8SbiaTpFqojTrf9O": {
+        "submitterId": "Super_17750371924",
+        "status": 0,
+        "createdTime": "2024-01-17 12:52:12",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 190,
+        "location": "华容县芳甸路92号"
+    },
+    "mcIAXEnZkabLilhkWQH": {
+        "submitterId": "Super_18055487948",
+        "status": 0,
+        "createdTime": "2024-03-18 16:02:23",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 265,
+        "location": "彭山区东方路99号"
+    },
+    "Bms5E0vW8oWyz9cZkxr": {
+        "submitterId": "Super_15610113118",
+        "status": 1,
+        "createdTime": "2024-02-09 06:01:12",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 231,
+        "location": "天峨县汾西路87号"
+    },
+    "lc2FBrHXVGGfwjObRyx": {
+        "submitterId": "Super_18813270998",
+        "status": 1,
+        "createdTime": "2024-03-28 19:21:20",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 24,
+        "location": "中阳县桂平路107号"
+    },
+    "6bE2yKQGlVIBZjNu077": {
+        "submitterId": "Super_18677891684",
+        "status": 1,
+        "createdTime": "2024-01-07 06:38:49",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 78,
+        "location": "吴中区活源路53号"
+    },
+    "lMddVnBEX6BzN0axZEY": {
+        "submitterId": "Super_13089340384",
+        "status": 1,
+        "createdTime": "2024-03-05 23:31:45",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 278,
+        "location": "关岭布依族苗族自治县金昌路37号"
+    },
+    "nB7N79adSs5WPzRF1Vn": {
+        "submitterId": "Super_13447905121",
+        "status": 1,
+        "createdTime": "2024-03-15 15:51:07",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 198,
+        "location": "古丈县合阳路124号"
+    },
+    "INQEB1NHEkyNYgVZx7S": {
+        "submitterId": "Super_16697884593",
+        "status": 1,
+        "createdTime": "2023-10-26 08:42:14",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 302,
+        "location": "边坝县活源支路13号"
+    },
+    "MIE8JOMkqCaMstA1XLb": {
+        "submitterId": "Super_17892227436",
+        "status": 0,
+        "createdTime": "2024-02-21 21:05:47",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 300,
+        "location": "墨竹工卡县春申路39号"
+    },
+    "HIA7mFoOyL749elcRUs": {
+        "submitterId": "Super_13096949696",
+        "status": 1,
+        "createdTime": "2023-10-03 01:00:03",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 287,
+        "location": "腾冲市白城南路76号"
+    },
+    "yyTGE2B31i9uYbpFAU4": {
+        "submitterId": "Super_17689799304",
+        "status": 0,
+        "createdTime": "2023-12-10 19:01:54",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 295,
+        "location": "勐海县沪星路85号"
+    },
+    "HIySPxllnh63fKRDU5Y": {
+        "submitterId": "Super_15357571883",
+        "status": 1,
+        "createdTime": "2024-02-19 23:35:04",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 261,
+        "location": "射洪市高阳路2号"
+    },
+    "Gcibj3X00GH0rXRpt1t": {
+        "submitterId": "Super_13096949696",
+        "status": 0,
+        "createdTime": "2024-03-05 14:45:20",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 287,
+        "location": "昌宁县东兰路113号"
+    },
+    "S8wR8izxnYjYFMmbBTA": {
+        "submitterId": "Super_17884572921",
+        "status": 1,
+        "createdTime": "2024-02-13 04:45:23",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 312,
+        "location": "延长县谷阳北路54号"
+    },
+    "IHe8L8sZetgEcdXTzSc": {
+        "submitterId": "Super_18316339679",
+        "status": 0,
+        "createdTime": "2024-03-14 17:51:12",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 200,
+        "location": "乐昌市汾西路166号"
+    },
+    "NhHePujXhX79xR6LgbM": {
+        "submitterId": "Super_13649707395",
+        "status": 0,
+        "createdTime": "2023-12-02 11:13:46",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 353,
+        "location": "麦盖提县黄兴路6号"
+    },
+    "CfVWww6cLsPV0q8wZRG": {
+        "submitterId": "Super_15042467335",
+        "status": 0,
+        "createdTime": "2024-03-19 11:42:48",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 60,
+        "location": "方正县芳甸路75号"
+    },
+    "j3JUDbeVQJbmTKAqp9M": {
+        "submitterId": "Super_14732492990",
+        "status": 0,
+        "createdTime": "2024-05-23 22:40:55",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 285,
+        "location": "马龙区国宾路126号"
+    },
+    "CBd3kxO9nvae84ajoIB": {
+        "submitterId": "Super_13172613677",
+        "status": 1,
+        "createdTime": "2024-06-19 07:44:57",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 31,
+        "location": "扎兰屯市靖宇中路198号"
+    },
+    "Tz5kwX6kOATTmeoDtWf": {
+        "submitterId": "Super_15146454626",
+        "status": 0,
+        "createdTime": "2023-10-21 11:30:07",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 222,
+        "location": "平乐县沪青平公路209号"
+    },
+    "ZfPm9nb01YD9TYAZR06": {
+        "submitterId": "Super_19170870266",
+        "status": 1,
+        "createdTime": "2024-04-30 09:31:54",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 176,
+        "location": "沙市区安波路13号"
+    },
+    "lmj6lRAOlJuxvf8nGte": {
+        "submitterId": "Super_18993366516",
+        "status": 1,
+        "createdTime": "2023-10-17 16:39:14",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 364,
+        "location": "兵团八十九团飞虹支路51号"
+    },
+    "z7VhjzBU66lv3SEZiML": {
+        "submitterId": "Super_14732492990",
+        "status": 0,
+        "createdTime": "2024-02-21 08:29:06",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 285,
+        "location": "马龙区惠民路214号"
+    },
+    "pnpTeUFWZiW0W3arWRS": {
+        "submitterId": "Super_13431108715",
+        "status": 0,
+        "createdTime": "2024-05-04 06:39:20",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 275,
+        "location": "观山湖区共和新路30号"
+    },
+    "rsAtnVfTnkHXNOEXSVT": {
+        "submitterId": "Super_16634634120",
+        "status": 1,
+        "createdTime": "2024-06-18 08:45:32",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 288,
+        "location": "巧家县沪南公路215号"
+    },
+    "zcSfTYd0P1qznMnbZoh": {
+        "submitterId": "Super_18367535946",
+        "status": 1,
+        "createdTime": "2023-10-31 21:53:38",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 305,
+        "location": "色尼区鹤庆路67号"
+    },
+    "WaZOhL3TRyffmt8YaE2": {
+        "submitterId": "Super_15027382830",
+        "status": 0,
+        "createdTime": "2024-01-03 08:13:30",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 168,
+        "location": "黄陂区沪闵路220号"
+    },
+    "mzzkGkV52ye3nrFz2HI": {
+        "submitterId": "Super_15591672338",
+        "status": 1,
+        "createdTime": "2023-11-21 12:45:52",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 97,
+        "location": "景宁畲族自治县方伟路 84号"
+    },
+    "DNxm5uQFYbLb0FVpMnp": {
+        "submitterId": "Super_19819532765",
+        "status": 0,
+        "createdTime": "2024-03-27 15:38:04",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 213,
+        "location": "阳西县安澜路181号"
+    },
+    "NG4sqKvBvH0BVXrccIE": {
+        "submitterId": "Super_14732492990",
+        "status": 1,
+        "createdTime": "2023-12-13 16:40:57",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 285,
+        "location": "沾益区东昌路202号"
+    },
+    "rFzp1mL3ajOMXwcSWOq": {
+        "submitterId": "Super_19982282963",
+        "status": 1,
+        "createdTime": "2024-05-05 09:17:51",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 156,
+        "location": "新乡县金昌路124号"
+    },
+    "0fazquBD96WAYffkjul": {
+        "submitterId": "Super_18593924532",
+        "status": 0,
+        "createdTime": "2023-12-24 21:43:19",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 262,
+        "location": "东兴区波阳路60号"
+    },
+    "wdUNky6paI4OW7NKrVj": {
+        "submitterId": "Super_18597210918",
+        "status": 1,
+        "createdTime": "2024-05-14 14:19:19",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 92,
+        "location": "新昌县黄陵路184号"
+    },
+    "eocVtG5Gzntr6Ggh4Ph": {
+        "submitterId": "Super_17767187306",
+        "status": 0,
+        "createdTime": "2024-01-14 10:12:54",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 123,
+        "location": "南昌县旧仓街32号"
+    },
+    "8Qv5TIxvvBQOen4bmsP": {
+        "submitterId": "Super_15725103559",
+        "status": 1,
+        "createdTime": "2023-12-15 14:35:01",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 68,
+        "location": "勃利县合肥路177号"
+    },
+    "k8uA35i4u8TneyhwOs4": {
+        "submitterId": "Super_13048628961",
+        "status": 1,
+        "createdTime": "2024-06-19 14:56:42",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 255,
+        "location": "荣县黄家朗路25号"
+    },
+    "496Ku4Jcoo1DD3W583k": {
+        "submitterId": "Super_15621252417",
+        "status": 1,
+        "createdTime": "2023-12-30 13:37:32",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 93,
+        "location": "金东区安仁路114号"
+    },
+    "4upMMnbIYYFB9AjBGAf": {
+        "submitterId": "Super_13594207168",
+        "status": 0,
+        "createdTime": "2023-12-20 07:44:35",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 38,
+        "location": "庄河市合肥路186号"
+    },
+    "exWPl1EXupXjmbb0fC3": {
+        "submitterId": "Super_15782091413",
+        "status": 1,
+        "createdTime": "2023-11-02 02:01:42",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 14,
+        "location": "晋源区航城路80号"
+    },
+    "WrfkK5jduSFkvuJmubh": {
+        "submitterId": "Super_18262387109",
+        "status": 0,
+        "createdTime": "2024-03-20 17:15:23",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 124,
+        "location": "乐平市川沙路75号"
+    },
+    "RupGDIceIRXgUNp3nIA": {
+        "submitterId": "Super_13615752527",
+        "status": 1,
+        "createdTime": "2023-12-17 21:09:55",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 79,
+        "location": "通州区景星路118号"
+    },
+    "6quM8UEkWMMTjiC33T3": {
+        "submitterId": "Super_13649707395",
+        "status": 1,
+        "createdTime": "2024-01-05 00:10:54",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 353,
+        "location": "莎车县东汉阳路190号"
+    },
+    "jRIoeFgcboXEn0pOAb8": {
+        "submitterId": "Super_18593924532",
+        "status": 0,
+        "createdTime": "2024-04-04 10:03:20",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 262,
+        "location": "市中区博乐南路100号"
+    },
+    "Cn5CUIEUzcd4qU7hhkN": {
+        "submitterId": "Super_15375871590",
+        "status": 0,
+        "createdTime": "2024-05-25 09:16:10",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 88,
+        "location": "奉化区静宁路44号"
+    },
+    "956eU6WktgTYRnSUXxj": {
+        "submitterId": "Super_18537210518",
+        "status": 1,
+        "createdTime": "2024-03-01 19:31:10",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 143,
+        "location": "环翠区芳甸路172号"
+    },
+    "WSLN5Y9wQbpEkBiZ6WV": {
+        "submitterId": "Super_18759214097",
+        "status": 1,
+        "createdTime": "2023-09-16 02:23:38",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 228,
+        "location": "兴业县航津路178号"
+    },
+    "RKC0aeKgwnqfQya0bCo": {
+        "submitterId": "Super_15316962167",
+        "status": 0,
+        "createdTime": "2024-03-01 18:00:59",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 351,
+        "location": "阿瓦提县白城路18号"
+    },
+    "pur1V6anp0oLkiLCPIl": {
+        "submitterId": "Super_19148398673",
+        "status": 1,
+        "createdTime": "2023-10-12 22:35:40",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 128,
+        "location": "月湖区国福路202号"
+    },
+    "AVsp3XK3TVO6MmAQKKc": {
+        "submitterId": "Super_14723396433",
+        "status": 1,
+        "createdTime": "2024-01-20 12:51:13",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 221,
+        "location": "融水苗族自治县花木路207号"
+    },
+    "JJXGG2AunnBCU8dz7sq": {
+        "submitterId": "Super_13951648392",
+        "status": 0,
+        "createdTime": "2024-03-06 11:43:29",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 225,
+        "location": "港口区汇川路148号"
+    },
+    "LH3MEWzdnD5OvNPqsE0": {
+        "submitterId": "Super_13992819787",
+        "status": 0,
+        "createdTime": "2023-09-02 00:36:02",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 159,
+        "location": "魏都区丰镇路196号"
+    },
+    "PaVgCKBQnjJzHJlgRAw": {
+        "submitterId": "Super_18759214097",
+        "status": 0,
+        "createdTime": "2024-04-20 02:14:03",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 228,
+        "location": "玉州区川南奉公路131号"
+    },
+    "LDXcvOVqPcp7KWliRlt": {
+        "submitterId": "Super_18393889696",
+        "status": 1,
+        "createdTime": "2023-11-24 04:29:15",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 148,
+        "location": "无棣县江阴街101号"
+    },
+    "T7uXjZjK4VbrFDcfC87": {
+        "submitterId": "Super_15959340861",
+        "status": 1,
+        "createdTime": "2024-02-07 02:58:00",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 94,
+        "location": "江山市会文路151号"
+    },
+    "h41ULamiUaVBELjfhOU": {
+        "submitterId": "Super_15210661610",
+        "status": 0,
+        "createdTime": "2023-10-18 20:25:56",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 297,
+        "location": "梁河县和田路204号"
+    },
+    "ieSIENKN1fcaS38I7ka": {
+        "submitterId": "Super_18993366516",
+        "status": 1,
+        "createdTime": "2024-04-09 01:26:22",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 364,
+        "location": "兵团八十九团丁香路64号"
+    },
+    "Rfj6yNR2HwUvteDkldw": {
+        "submitterId": "Super_18746787115",
+        "status": 1,
+        "createdTime": "2024-03-06 20:25:41",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 366,
+        "location": "兵团二二四团北艾路8号"
+    },
+    "nQlDpGUGnKscUmY5tvg": {
+        "submitterId": "Super_13877888010",
+        "status": 0,
+        "createdTime": "2023-12-05 09:55:15",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 23,
+        "location": "霍州市东门路149号"
+    },
+    "rCfczbBP9Y1QiaXPW3B": {
+        "submitterId": "Super_18112993764",
+        "status": 1,
+        "createdTime": "2024-04-03 11:25:42",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 256,
+        "location": "东区华和路186号"
+    },
+    "3kBoGRDubsMMgC0szsO": {
+        "submitterId": "Super_17892227436",
+        "status": 0,
+        "createdTime": "2024-01-01 00:34:40",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 300,
+        "location": "林周县安远路120号"
+    },
+    "HCr8MHkCGuTU0BPN60V": {
+        "submitterId": "Super_13588588831",
+        "status": 1,
+        "createdTime": "2023-09-26 23:18:06",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 243,
+        "location": "翰林镇城南路127号"
+    },
+    "CIzntSRNakgDzXUmzGr": {
+        "submitterId": "Super_14573727965",
+        "status": 0,
+        "createdTime": "2023-10-12 14:45:56",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 76,
+        "location": "沛县桂林西街48号"
+    },
+    "MwxIW7jeuSfLMUXwWgh": {
+        "submitterId": "Super_17750371924",
+        "status": 0,
+        "createdTime": "2024-04-13 23:11:40",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 190,
+        "location": "临湘市枫林路98号"
+    },
+    "CmRSCzNMT3Let6PjsB9": {
+        "submitterId": "Super_13588588831",
+        "status": 1,
+        "createdTime": "2024-04-25 11:19:39",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 243,
+        "location": "龙河镇合肥路206号"
+    },
+    "NmjJbwZHycqqW8OEFno": {
+        "submitterId": "Super_19170870266",
+        "status": 0,
+        "createdTime": "2024-05-05 06:04:23",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 176,
+        "location": "监利市东沙虹港路220号"
+    },
+    "gzQ6IIjM8M982rdcLQH": {
+        "submitterId": "Super_18759214097",
+        "status": 0,
+        "createdTime": "2023-09-02 14:58:56",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 228,
+        "location": "玉州区高桥慈善街213号"
+    },
+    "te4wfdiZ4l2lpclw00B": {
+        "submitterId": "Super_15212420221",
+        "status": 1,
+        "createdTime": "2023-12-29 05:52:07",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 294,
+        "location": "西畴县宾南路154号"
+    },
+    "KMQ1M1GF1cewoHXRjMJ": {
+        "submitterId": "Super_15621252417",
+        "status": 0,
+        "createdTime": "2024-05-05 15:25:05",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 93,
+        "location": "磐安县川环南路96号"
+    },
+    "p5cZifGILSzZKNabKBu": {
+        "submitterId": "Super_13238679456",
+        "status": 0,
+        "createdTime": "2024-03-20 22:18:39",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 13,
+        "location": "武邑县东安路41号"
+    },
+    "xrSzcpuXR13Ks2pBfrV": {
+        "submitterId": "Super_17659508430",
+        "status": 1,
+        "createdTime": "2023-10-18 10:41:44",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 259,
+        "location": "江油市滨江大道39号"
+    },
+    "zaUedbcIiYFe52OzNed": {
+        "submitterId": "Super_14573727965",
+        "status": 1,
+        "createdTime": "2023-11-10 02:30:24",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 76,
+        "location": "睢宁县国宾路16号"
+    },
+    "oCkgGqgaIhXQwkp0Eka": {
+        "submitterId": "Super_13564408800",
+        "status": 1,
+        "createdTime": "2024-04-16 12:44:14",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 286,
+        "location": "新平彝族傣族自治县春荣路134号"
+    },
+    "gcvhnovSwD8cLRFeeVa": {
+        "submitterId": "Super_13336625175",
+        "status": 0,
+        "createdTime": "2024-02-18 04:00:42",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 58,
+        "location": "镇赉县慈溪路97号"
+    },
+    "Y3GtNLbGv4AmQrhLZVy": {
+        "submitterId": "Super_17723889545",
+        "status": 0,
+        "createdTime": "2024-01-15 16:01:44",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 75,
+        "location": "宜兴市鹤庆路136号"
+    },
+    "j1YIbczLbEI68bFBQtc": {
+        "submitterId": "Super_15537330599",
+        "status": 0,
+        "createdTime": "2023-12-30 14:38:24",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 189,
+        "location": "城步苗族自治县桂平路174号"
+    },
+    "EVjL2v3BXVqjsJxM2PI": {
+        "submitterId": "Super_17697483466",
+        "status": 1,
+        "createdTime": "2024-06-07 12:28:19",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 247,
+        "location": "阜龙乡定海路30号"
+    },
+    "CAJXljtiQy01J1HZJHQ": {
+        "submitterId": "Super_13125404578",
+        "status": 1,
+        "createdTime": "2024-05-15 06:18:03",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 296,
+        "location": "永平县黄兴路141号"
+    },
+    "QhTTyYkwUveu12dTr7Y": {
+        "submitterId": "Super_18665057540",
+        "status": 0,
+        "createdTime": "2023-10-13 14:16:35",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 216,
+        "location": "中山市沪亭南路130号"
+    },
+    "xgktTlrI6b1MT4lg1pK": {
+        "submitterId": "Super_16697884593",
+        "status": 1,
+        "createdTime": "2023-09-21 22:30:38",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 302,
+        "location": "贡觉县会文路109号"
+    },
+    "i0Ymb5HXfJ2W2RM4Xe4": {
+        "submitterId": "Super_18658531732",
+        "status": 1,
+        "createdTime": "2024-05-23 18:30:28",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 355,
+        "location": "察布查尔锡伯自治县九江路141号"
+    },
+    "9KaazTgKq6tSpkvKQLz": {
+        "submitterId": "Super_18665057540",
+        "status": 1,
+        "createdTime": "2023-12-26 19:34:15",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 216,
+        "location": "中山市东方路71号"
+    },
+    "FUwnLALA9x8qrBPixbu": {
+        "submitterId": "Super_15959340861",
+        "status": 0,
+        "createdTime": "2023-09-20 08:30:35",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 94,
+        "location": "江山市华池路28号"
+    },
+    "hl0UnT3kV7lZLEizapH": {
+        "submitterId": "Super_14573727965",
+        "status": 0,
+        "createdTime": "2023-10-11 04:19:48",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 76,
+        "location": "贾汪区蔡伦路16号"
+    },
+    "TMP5aRp566E4Vtt7ah2": {
+        "submitterId": "Super_18729598634",
+        "status": 1,
+        "createdTime": "2023-09-21 01:22:02",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 246,
+        "location": "博厚镇靖宇南路105号"
+    },
+    "ewPrQehyxNIsar7yehQ": {
+        "submitterId": "Super_19174459487",
+        "status": 1,
+        "createdTime": "2024-02-18 19:49:09",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 45,
+        "location": "阜新蒙古族自治县汇源路16号"
+    },
+    "RzbKghMT2tGWKlMmkIs": {
+        "submitterId": "Super_13241971636",
+        "status": 0,
+        "createdTime": "2024-02-17 10:55:50",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 192,
+        "location": "武陵源区花溪路154号"
+    },
+    "mmPRCp8zeNRuLKAKg0y": {
+        "submitterId": "Super_15618639398",
+        "status": 1,
+        "createdTime": "2023-09-28 06:11:02",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 334,
+        "location": "尖扎县川黄路200号"
+    },
+    "tELab6gmYyAiRTNV9OF": {
+        "submitterId": "Super_17647338727",
+        "status": 0,
+        "createdTime": "2023-10-16 22:19:09",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 22,
+        "location": "宁武县蒋家桥路102号"
+    },
+    "m6ziq1Vuc9YB99GIlsu": {
+        "submitterId": "Super_13615752527",
+        "status": 0,
+        "createdTime": "2023-10-02 15:20:56",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 79,
+        "location": "海门区春江路220号"
+    },
+    "NwVqs9rgjzrfq9abx9m": {
+        "submitterId": "Super_18151434866",
+        "status": 0,
+        "createdTime": "2024-02-17 00:17:12",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 303,
+        "location": "波密县东平路17号"
+    },
+    "PCnvaXinYOuQO1sSNuU": {
+        "submitterId": "Super_15123060555",
+        "status": 0,
+        "createdTime": "2024-03-18 15:38:27",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 17,
+        "location": "壶关县谷阳北路87号"
+    },
+    "Y4eSnuTwxqZSAUV3tGA": {
+        "submitterId": "Super_18248275655",
+        "status": 1,
+        "createdTime": "2023-10-07 18:21:52",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 336,
+        "location": "久治县鹤庆路117号"
+    },
+    "FhkfpANxcLeRvVZRdfZ": {
+        "submitterId": "Super_18677891684",
+        "status": 0,
+        "createdTime": "2024-04-02 11:48:48",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 78,
+        "location": "常熟市黄家朗路14号"
+    },
+    "hyp3vpZWe2zB6r9pH1m": {
+        "submitterId": "Super_13336625175",
+        "status": 1,
+        "createdTime": "2024-04-30 05:31:59",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 58,
+        "location": "大安市定西路195号"
+    },
+    "e5GgOi08JIbg3scZkcj": {
+        "submitterId": "Super_15959340861",
+        "status": 0,
+        "createdTime": "2024-04-13 14:55:57",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 94,
+        "location": "柯城区九潭路69号"
+    },
+    "uOE7mgscy66mqePFter": {
+        "submitterId": "Super_15647469855",
+        "status": 0,
+        "createdTime": "2024-06-10 06:49:13",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 19,
+        "location": "山阴县九龙路37号"
+    },
+    "nYFKHJuSEbguc1hg7zJ": {
+        "submitterId": "Super_15271205139",
+        "status": 0,
+        "createdTime": "2024-03-10 11:01:37",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 347,
+        "location": "伊州区定边路181号"
+    },
+    "a3guGSTHxGiWxPsLEPg": {
+        "submitterId": "Super_15544188855",
+        "status": 1,
+        "createdTime": "2024-06-18 19:17:40",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 349,
+        "location": "精河县东储安浜路55号"
+    },
+    "F2TpFTc70dVv3VbIuUI": {
+        "submitterId": "Super_13395580818",
+        "status": 0,
+        "createdTime": "2023-10-23 11:06:40",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 54,
+        "location": "东丰县华发路162号"
+    },
+    "Hx6RzZ5OFT0ke74JUDL": {
+        "submitterId": "Super_18248275655",
+        "status": 1,
+        "createdTime": "2024-01-18 11:10:48",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 336,
+        "location": "达日县船厂路13号"
+    },
+    "QyYiBogao8qWw9dcsCn": {
+        "submitterId": "Super_17748702153",
+        "status": 0,
+        "createdTime": "2023-10-25 01:34:57",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 169,
+        "location": "大冶市古北路14号"
+    },
+    "9s2K8vnnTgwjhNKfCET": {
+        "submitterId": "Super_15782091413",
+        "status": 0,
+        "createdTime": "2023-10-22 14:37:59",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 14,
+        "location": "杏花岭区航津路97号"
+    },
+    "Cq4oIBF4oQpQe4tA3qW": {
+        "submitterId": "Super_15357571883",
+        "status": 0,
+        "createdTime": "2023-12-21 22:53:24",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 261,
+        "location": "蓬溪县古井路136号"
+    },
+    "U2lCM7sxVcMS2fz8z5i": {
+        "submitterId": "Super_17639795537",
+        "status": 1,
+        "createdTime": "2024-03-13 19:24:12",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 227,
+        "location": "桂平市华昌路20号"
+    },
+    "UzVASR68EbVgxniKWJE": {
+        "submitterId": "Super_18890577703",
+        "status": 0,
+        "createdTime": "2024-03-01 22:49:41",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 187,
+        "location": "韶山市金鼎路200号"
+    },
+    "T0apHuiRhcXtCb6BsnF": {
+        "submitterId": "Super_15114485240",
+        "status": 1,
+        "createdTime": "2023-12-28 23:00:49",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 105,
+        "location": "迎江区静唐路164号"
+    },
+    "2W1IW0tfvgXpaaQIgQH": {
+        "submitterId": "Super_17767187306",
+        "status": 1,
+        "createdTime": "2024-03-18 01:55:58",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 123,
+        "location": "安义县北苏州路91号"
+    },
+    "j47lQWHWApXF8F0wNYj": {
+        "submitterId": "Super_17884572921",
+        "status": 0,
+        "createdTime": "2024-04-02 13:05:28",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 312,
+        "location": "宜川县华发路162号"
+    },
+    "gqcPCrdrloZtWABWGxZ": {
+        "submitterId": "Super_18316339679",
+        "status": 1,
+        "createdTime": "2023-12-13 19:30:22",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 200,
+        "location": "武江区北京西路129号"
+    },
+    "CsBgQGQhmtMHdvV4iDh": {
+        "submitterId": "Super_15042467335",
+        "status": 1,
+        "createdTime": "2024-05-02 13:37:00",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 60,
+        "location": "通河县八一路23号"
+    },
+    "CXepOYWwtz7HINKcVzf": {
+        "submitterId": "Super_13951648392",
+        "status": 1,
+        "createdTime": "2023-11-06 06:56:07",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 225,
+        "location": "防城区丰庄路5号"
+    },
+    "pN7eM1ajneLMxmTFNYq": {
+        "submitterId": "Super_13971907459",
+        "status": 0,
+        "createdTime": "2023-09-25 23:24:21",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 215,
+        "location": "东莞市安化路88号"
+    },
+    "lBrk8tEPwT4cjg6y3bX": {
+        "submitterId": "Super_15266057116",
+        "status": 1,
+        "createdTime": "2023-12-30 01:11:09",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 362,
+        "location": "兵团一八七团徽宁路173号"
+    },
+    "0NTWjE3deJM0fQihAXj": {
+        "submitterId": "Super_13447905121",
+        "status": 0,
+        "createdTime": "2024-05-15 06:21:40",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 198,
+        "location": "龙山县慈溪路135号"
+    },
+    "b9RkjBlAmXknhcAwE88": {
+        "submitterId": "Super_15654457181",
+        "status": 0,
+        "createdTime": "2024-02-13 03:13:10",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 314,
+        "location": "米脂县居家桥路125号"
+    },
+    "CMHmi8h7NgBKJMRkrDH": {
+        "submitterId": "Super_15870991894",
+        "status": 1,
+        "createdTime": "2023-12-05 13:58:38",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 310,
+        "location": "三原县北艾路50号"
+    },
+    "dikMMuSYHYLymIrv2RJ": {
+        "submitterId": "Super_18841622826",
+        "status": 0,
+        "createdTime": "2024-04-06 08:00:15",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 100,
+        "location": "淮上区黄山路35号"
+    },
+    "FxzSrdFu8VcUs1xNVbG": {
+        "submitterId": "Super_15610113118",
+        "status": 1,
+        "createdTime": "2024-04-08 13:47:32",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 231,
+        "location": "南丹县博园路66号"
+    },
+    "WicG0IFN1959nhLNWOG": {
+        "submitterId": "Super_19913496865",
+        "status": 0,
+        "createdTime": "2024-05-12 21:55:33",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 230,
+        "location": "富川瑶族自治县黄浦路18号"
+    },
+    "x41FodBFJW4kQu0t11T": {
+        "submitterId": "Super_14732492990",
+        "status": 0,
+        "createdTime": "2023-12-12 02:17:55",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 285,
+        "location": "马龙区桂林东街65号"
+    },
+    "ertesiJ1FTuJPTh4z9h": {
+        "submitterId": "Super_13348637190",
+        "status": 1,
+        "createdTime": "2024-05-01 06:33:15",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 357,
+        "location": "哈巴河县黄浦路51号"
+    },
+    "1JM113tCvHsyRqzeYLB": {
+        "submitterId": "Super_15618639398",
+        "status": 0,
+        "createdTime": "2023-12-04 11:46:06",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 334,
+        "location": "河南蒙古族自治县古井路73号"
+    },
+    "dawy48c1mrZHmDfUE55": {
+        "submitterId": "Super_17723889545",
+        "status": 0,
+        "createdTime": "2023-12-02 05:53:24",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 75,
+        "location": "新吴区川沙新镇122号"
+    },
+    "0P2xlzjMPaFKTAhRu22": {
+        "submitterId": "Super_15618639398",
+        "status": 1,
+        "createdTime": "2024-01-30 13:20:24",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 334,
+        "location": "泽库县丰镇路46号"
+    },
+    "uC2m4x2WqIUl6RcgJAI": {
+        "submitterId": "Super_14584161350",
+        "status": 1,
+        "createdTime": "2024-03-11 18:07:23",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 81,
+        "location": "金湖县丰庄路174号"
+    },
+    "NrG8WnlLMx2wK90CGzW": {
+        "submitterId": "Super_13431108715",
+        "status": 0,
+        "createdTime": "2024-04-22 13:44:56",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 275,
+        "location": "南明区金港路151号"
+    },
+    "vbURPZDrhUIiRKegZTt": {
+        "submitterId": "Super_13686598019",
+        "status": 1,
+        "createdTime": "2024-05-13 16:08:04",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 321,
+        "location": "武山县共康路50号"
+    },
+    "7A9Q4cg61xnQ6sN50yv": {
+        "submitterId": "Super_15950653996",
+        "status": 0,
+        "createdTime": "2024-05-29 13:51:06",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 153,
+        "location": "宝丰县船厂路39号"
+    },
+    "xMsOpOvQEDBkwVyM8si": {
+        "submitterId": "Super_18732663078",
+        "status": 1,
+        "createdTime": "2023-09-01 11:04:07",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 166,
+        "location": "泌阳县国定东路76号"
+    },
+    "DGB204GWjmcrqzG4GP9": {
+        "submitterId": "Super_18597210918",
+        "status": 1,
+        "createdTime": "2023-12-13 19:59:12",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 92,
+        "location": "新昌县谷阳北路1号"
+    },
+    "sopamHxMKgfHh2Rp3St": {
+        "submitterId": "Super_13534944903",
+        "status": 0,
+        "createdTime": "2023-11-22 02:30:40",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 174,
+        "location": "京山市东宝兴路215号"
+    },
+    "IYCOzAPpSuOUUIfzqxi": {
+        "submitterId": "Super_15267623510",
+        "status": 1,
+        "createdTime": "2023-09-18 16:10:04",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 298,
+        "location": "泸水市汾西路95号"
+    },
+    "6CWr8FWUmLXUvdoor6H": {
+        "submitterId": "Super_13912841153",
+        "status": 1,
+        "createdTime": "2024-04-30 02:47:06",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 10,
+        "location": "兴隆县方陆路89号"
+    },
+    "7DhuiigCEhpL0HvcIQA": {
+        "submitterId": "Super_16635218474",
+        "status": 0,
+        "createdTime": "2024-04-18 02:03:03",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 7,
+        "location": "巨鹿县共和新路118号"
+    },
+    "jRynqFm3C8u7uVtkXgQ": {
+        "submitterId": "Super_19170870266",
+        "status": 1,
+        "createdTime": "2024-03-06 01:28:23",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 176,
+        "location": "公安县古北荣华东道210号"
+    },
+    "eXukd3NeTn7jajdK7cZ": {
+        "submitterId": "Super_17737803080",
+        "status": 1,
+        "createdTime": "2024-05-26 13:55:32",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 345,
+        "location": "乌尔禾区白城路197号"
+    },
+    "dekGdiHAhAylkkTv5WJ": {
+        "submitterId": "Super_13743533378",
+        "status": 0,
+        "createdTime": "2023-09-09 15:57:54",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 177,
+        "location": "黄梅县金城道53号"
+    },
+    "Fh3oHmOgHo9vOYqsN41": {
+        "submitterId": "Super_16618992601",
+        "status": 0,
+        "createdTime": "2024-06-18 22:29:43",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 195,
+        "location": "江华瑶族自治县高陵路207号"
+    },
+    "78NnwUBC2rh3dWZMPnk": {
+        "submitterId": "Super_18593924532",
+        "status": 0,
+        "createdTime": "2024-01-02 02:42:03",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 262,
+        "location": "东兴区苍梧路173号"
+    },
+    "M9r3u4q8v4O9OOynQyR": {
+        "submitterId": "Super_13096949696",
+        "status": 1,
+        "createdTime": "2023-09-06 02:16:04",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 287,
+        "location": "隆阳区金鼎路168号"
+    },
+    "cGIM8xAtIzGXARkvufY": {
+        "submitterId": "Super_15937442824",
+        "status": 1,
+        "createdTime": "2024-05-03 03:14:41",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 104,
+        "location": "郊区华昌路38号"
+    },
+    "JYV6cgt94Tdbf1w6BlI": {
+        "submitterId": "Super_15074585952",
+        "status": 1,
+        "createdTime": "2024-03-09 21:07:17",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 43,
+        "location": "古塔区丰镇路17号"
+    },
+    "K5M6gqYFR59EnBKUIx1": {
+        "submitterId": "Super_18245881379",
+        "status": 0,
+        "createdTime": "2024-06-13 00:26:15",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 132,
+        "location": "东乡区九江路115号"
+    },
+    "DIfv5CHnkmZCJ5NzVGL": {
+        "submitterId": "Super_14536132082",
+        "status": 0,
+        "createdTime": "2024-06-18 05:54:24",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 304,
+        "location": "琼结县国达路176号"
+    },
+    "l8pqMzN8wQ6tjoY0kK3": {
+        "submitterId": "Super_13951648392",
+        "status": 0,
+        "createdTime": "2024-02-05 21:17:52",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 225,
+        "location": "上思县东湖路25号"
+    },
+    "KLjtBaPtSP0f34eDHr6": {
+        "submitterId": "Super_17892227436",
+        "status": 1,
+        "createdTime": "2024-01-18 10:39:29",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 300,
+        "location": "当雄县解放街131号"
+    },
+    "xdYlrhwHmBCPrJWyeJb": {
+        "submitterId": "Super_13095362023",
+        "status": 1,
+        "createdTime": "2024-05-06 14:36:42",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 282,
+        "location": "黎平县靖远街83号"
+    },
+    "YpkNu6frxmLAb8EM3Rd": {
+        "submitterId": "Super_18729598634",
+        "status": 0,
+        "createdTime": "2024-01-25 19:21:32",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 246,
+        "location": "多文镇桂平路161号"
+    },
+    "m0KukJEwja7XXbmJL5b": {
+        "submitterId": "Super_13992819787",
+        "status": 1,
+        "createdTime": "2024-05-19 01:53:07",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 159,
+        "location": "禹州市桂平路48号"
+    },
+    "LjlTneO6zLV4NXrHvD2": {
+        "submitterId": "Super_13048628961",
+        "status": 0,
+        "createdTime": "2024-01-15 00:54:50",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 255,
+        "location": "沿滩区定西路216号"
+    },
+    "LAPOLsAH87iceGsuC7k": {
+        "submitterId": "Super_19170870266",
+        "status": 0,
+        "createdTime": "2024-03-06 19:36:52",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 176,
+        "location": "石首市北海路95号"
+    },
+    "z0Cx87wYqIr1DoNhMFi": {
+        "submitterId": "Super_15114485240",
+        "status": 1,
+        "createdTime": "2023-12-21 03:49:45",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 105,
+        "location": "宜秀区定安路92号"
+    },
+    "oFbz5XWhueImqtMg5Wn": {
+        "submitterId": "Super_15688628576",
+        "status": 0,
+        "createdTime": "2024-03-14 04:28:55",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 102,
+        "location": "博望区共青路142号"
+    },
+    "N0icgN9wFd9FBpJMwZJ": {
+        "submitterId": "Super_15123060555",
+        "status": 1,
+        "createdTime": "2024-04-05 00:57:29",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 17,
+        "location": "潞州区江阴路60号"
+    },
+    "Y0tZEP6qWMpCXIchJyG": {
+        "submitterId": "Super_15316962167",
+        "status": 0,
+        "createdTime": "2024-02-22 20:38:27",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 351,
+        "location": "新和县靖远街71号"
+    },
+    "alEJMZpAYZ8BmCOkJmE": {
+        "submitterId": "Super_17767187306",
+        "status": 0,
+        "createdTime": "2023-10-29 11:15:21",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 123,
+        "location": "东湖区城南路69号"
+    },
+    "qLvAmwEkzoazczU1Xpq": {
+        "submitterId": "Super_18151434866",
+        "status": 1,
+        "createdTime": "2023-12-07 07:22:10",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 303,
+        "location": "墨脱县景星路105号"
+    },
+    "glGtRiwuCUDWjwghMGL": {
+        "submitterId": "Super_14542690405",
+        "status": 0,
+        "createdTime": "2023-10-12 08:46:25",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 32,
+        "location": "乌拉特后旗东沙虹港路158号"
+    },
+    "ncc68mEIdNwFnSM5m5l": {
+        "submitterId": "Super_18841622826",
+        "status": 1,
+        "createdTime": "2024-01-04 03:49:41",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 100,
+        "location": "淮上区恒丰北路146号"
+    },
+    "8eSlR1bla5701Nv60Qw": {
+        "submitterId": "Super_17767187306",
+        "status": 1,
+        "createdTime": "2024-05-05 08:05:36",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 123,
+        "location": "青山湖区澳门路220号"
+    },
+    "iDmRZx2YPaY531CyVRK": {
+        "submitterId": "Super_17723889545",
+        "status": 0,
+        "createdTime": "2024-01-18 12:02:59",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 75,
+        "location": "新吴区古北路19号"
+    },
+    "iLxzT4A6wztdyQnFQdN": {
+        "submitterId": "Super_17766120803",
+        "status": 1,
+        "createdTime": "2023-11-26 11:40:37",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 36,
+        "location": "额济纳旗沧训路216号"
+    },
+    "MzPMsVyn7ORHhu2sZvO": {
+        "submitterId": "Super_17644243859",
+        "status": 0,
+        "createdTime": "2024-05-20 00:41:53",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 254,
+        "location": "成华区春申路138号"
+    },
+    "J4w7KjqUtBvHULz64d0": {
+        "submitterId": "Super_15937442824",
+        "status": 1,
+        "createdTime": "2024-01-10 09:57:09",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 104,
+        "location": "郊区川六公路14号"
+    },
+    "1Qcj6xR8VM14X0DDBux": {
+        "submitterId": "Super_13165496141",
+        "status": 0,
+        "createdTime": "2023-10-01 21:58:22",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 180,
+        "location": "来凤县活源支路130号"
+    },
+    "93rj8NcOqJq0Pl2IiMJ": {
+        "submitterId": "Super_17621895681",
+        "status": 0,
+        "createdTime": "2023-12-11 15:22:46",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 240,
+        "location": "重兴镇恒丰北路140号"
+    },
+    "YAryQvy4PA5vvG2Aldl": {
+        "submitterId": "Super_15826811852",
+        "status": 0,
+        "createdTime": "2023-11-07 08:42:36",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 56,
+        "location": "靖宇县胶州路88号"
+    },
+    "sDCZiU5AQ7DTaAYZEqp": {
+        "submitterId": "Super_15154430719",
+        "status": 0,
+        "createdTime": "2023-12-31 06:13:52",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 161,
+        "location": "灵宝市沪闵路208号"
+    },
+    "F27rq3v9pw9xtoI3R5F": {
+        "submitterId": "Super_13366662573",
+        "status": 0,
+        "createdTime": "2023-10-19 06:46:52",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 179,
+        "location": "曾都区高阳路143号"
+    },
+    "EI7989Zg26bGfxJytcR": {
+        "submitterId": "Super_13034912854",
+        "status": 1,
+        "createdTime": "2024-04-03 19:28:24",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 107,
+        "location": "凤阳县解放街154号"
+    },
+    "uYNbxCrLkkHZlIrvN7L": {
+        "submitterId": "Super_13395580818",
+        "status": 1,
+        "createdTime": "2024-03-10 07:16:35",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 54,
+        "location": "龙山区解放街36号"
+    },
+    "s0V2lkdIWICXoccL18C": {
+        "submitterId": "Super_18924929329",
+        "status": 1,
+        "createdTime": "2024-05-03 14:08:12",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 199,
+        "location": "黄埔区蒋家桥路3号"
+    },
+    "0Y6aKX23ieg5m0fLBqN": {
+        "submitterId": "Super_13877888010",
+        "status": 1,
+        "createdTime": "2024-05-16 18:53:41",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 23,
+        "location": "曲沃县河间路211号"
+    },
+    "FLpsV563crneIS2tvTn": {
+        "submitterId": "Super_15267623510",
+        "status": 1,
+        "createdTime": "2024-04-30 21:02:09",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 298,
+        "location": "贡山独龙族怒族自治县芳华路66号"
+    },
+    "hSQpOy2JGgO68Xlnxaa": {
+        "submitterId": "Super_18769113933",
+        "status": 0,
+        "createdTime": "2023-09-21 21:07:40",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 201,
+        "location": "福田区共和新路167号"
+    },
+    "bi20EdQowgqOBXFSpjo": {
+        "submitterId": "Super_13683996821",
+        "status": 0,
+        "createdTime": "2024-01-30 03:50:01",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 281,
+        "location": "贞丰县古方路183号"
+    },
+    "0mbxeWEbIQWFbf8yUFT": {
+        "submitterId": "Super_18813270998",
+        "status": 0,
+        "createdTime": "2023-09-24 17:37:50",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 24,
+        "location": "兴县合阳路159号"
+    },
+    "cMYKMlgdcvylCJoIfOK": {
+        "submitterId": "Super_16697884593",
+        "status": 1,
+        "createdTime": "2023-10-18 14:09:58",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 302,
+        "location": "类乌齐县局门路56号"
+    },
+    "6EBHjZqM4nLuOsDkWD0": {
+        "submitterId": "Super_15814056964",
+        "status": 1,
+        "createdTime": "2023-10-25 03:41:48",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 42,
+        "location": "振安区蒋家桥路10号"
+    },
+    "fqj6CQvJ9l48FVRQgO2": {
+        "submitterId": "Super_18150684859",
+        "status": 1,
+        "createdTime": "2024-03-21 09:00:11",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 236,
+        "location": "中沙群岛成山路32号"
+    },
+    "vBoE3KpDa3OsaFGkIMS": {
+        "submitterId": "Super_17750371924",
+        "status": 0,
+        "createdTime": "2023-09-08 17:00:50",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 190,
+        "location": "汨罗市汾阳路174号"
+    },
+    "MMvNW1A05Z5NIQSrEZl": {
+        "submitterId": "Super_13743533378",
+        "status": 0,
+        "createdTime": "2023-10-13 10:41:17",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 177,
+        "location": "浠水县枫桥路98号"
+    },
+    "PYSrx3qsaHjgHll91Kb": {
+        "submitterId": "Super_13048628961",
+        "status": 1,
+        "createdTime": "2024-06-07 06:47:54",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 255,
+        "location": "荣县古北路9号"
+    },
+    "gGa8SWSarwh3L7yhpWN": {
+        "submitterId": "Super_18537210518",
+        "status": 0,
+        "createdTime": "2023-10-03 05:36:16",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 143,
+        "location": "乳山市会文路25号"
+    },
+    "B0sKY1Gp3KmP8ZZ9Mya": {
+        "submitterId": "Super_15042467335",
+        "status": 0,
+        "createdTime": "2024-03-20 01:54:36",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 60,
+        "location": "宾县花溪路69号"
+    },
+    "o5Dwa7MBuu1o5XMNBNW": {
+        "submitterId": "Super_14587092691",
+        "status": 1,
+        "createdTime": "2023-09-21 17:14:49",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 20,
+        "location": "祁县谷阳北路77号"
+    },
+    "BxqbeirunTDzyLCIXfp": {
+        "submitterId": "Super_15280340568",
+        "status": 0,
+        "createdTime": "2023-09-10 21:30:05",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 122,
+        "location": "寿宁县沪闵路138号"
+    },
+    "FFvJ6I4COAesa9S4hyy": {
+        "submitterId": "Super_19974132802",
+        "status": 1,
+        "createdTime": "2023-11-17 08:06:33",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 95,
+        "location": "嵊泗县国京路217号"
+    },
+    "Kv5f5bCJHhetdHoZBYS": {
+        "submitterId": "Super_13615752527",
+        "status": 1,
+        "createdTime": "2023-10-01 04:51:48",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 79,
+        "location": "如东县沪亭南路95号"
+    },
+    "4BKxB6YAHG8bkwnSdv7": {
+        "submitterId": "Super_15618639398",
+        "status": 1,
+        "createdTime": "2023-12-25 19:42:05",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 334,
+        "location": "泽库县国货路78号"
+    },
+    "MVJDo2jNdIcTM0OvfvX": {
+        "submitterId": "Super_19166027526",
+        "status": 0,
+        "createdTime": "2023-12-28 08:52:45",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 11,
+        "location": "任丘市苍梧路126号"
+    },
+    "zoFAwj9g4Aj6eZ8vrbH": {
+        "submitterId": "Super_15814056964",
+        "status": 0,
+        "createdTime": "2023-10-03 11:24:59",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 42,
+        "location": "振兴区安义路76号"
+    },
+    "RfJNgb8b7DKeWuAWtO3": {
+        "submitterId": "Super_13310009973",
+        "status": 1,
+        "createdTime": "2023-12-24 02:27:52",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 331,
+        "location": "湟源县黄浦路184号"
+    },
+    "kHGfIjZpAsNc52oaT5z": {
+        "submitterId": "Super_17639795537",
+        "status": 0,
+        "createdTime": "2024-02-19 11:55:02",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 227,
+        "location": "桂平市古北南路11号"
+    },
+    "oErX1PUj9YikFhKk9gq": {
+        "submitterId": "Super_14766127075",
+        "status": 1,
+        "createdTime": "2024-04-26 01:43:46",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 220,
+        "location": "邕宁区河南中路212号"
+    },
+    "bKzCfOpMqJRg8shHpZe": {
+        "submitterId": "Super_13165496141",
+        "status": 1,
+        "createdTime": "2024-05-14 11:07:09",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 180,
+        "location": "利川市东宝兴路168号"
+    },
+    "puSVdjejsV58936Miwt": {
+        "submitterId": "Super_17722207522",
+        "status": 1,
+        "createdTime": "2024-06-02 01:38:26",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 226,
+        "location": "浦北县川周公路172号"
+    },
+    "4iPKlrj2wlV1unOP416": {
+        "submitterId": "Super_15338632544",
+        "status": 1,
+        "createdTime": "2024-02-09 00:12:32",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 30,
+        "location": "乌审旗丁香路128号"
+    },
+    "wvXrN1l70ba5iaRmbcO": {
+        "submitterId": "Super_17816239484",
+        "status": 0,
+        "createdTime": "2024-02-01 20:38:38",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 333,
+        "location": "门源回族自治县会文路106号"
+    },
+    "4aHCXRftY6cuLDQCZv7": {
+        "submitterId": "Super_13697489568",
+        "status": 1,
+        "createdTime": "2024-05-17 02:01:10",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 219,
+        "location": "云安区共和路110号"
+    },
+    "QAuHKsuRPX8OIyI2tbf": {
+        "submitterId": "Super_19166027526",
+        "status": 0,
+        "createdTime": "2024-02-19 03:22:52",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 11,
+        "location": "沧县活源路154号"
+    },
+    "uiGyR4CLDqVXDZgcT7U": {
+        "submitterId": "Super_17723889545",
+        "status": 0,
+        "createdTime": "2024-06-05 01:42:16",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 75,
+        "location": "滨湖区安业路220号"
+    },
+    "w9rZwV2WVMeJupnTSqL": {
+        "submitterId": "Super_13615752527",
+        "status": 1,
+        "createdTime": "2024-01-24 18:38:47",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 79,
+        "location": "如东县古浪路163号"
+    },
+    "RkuueF7nYM9KMhtJl5B": {
+        "submitterId": "Super_15229290672",
+        "status": 1,
+        "createdTime": "2024-01-08 06:35:27",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 147,
+        "location": "阳谷县波阳路150号"
+    },
+    "6EVNrOJ4FemgCoSswTY": {
+        "submitterId": "Super_15229290672",
+        "status": 1,
+        "createdTime": "2024-05-30 13:15:06",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 147,
+        "location": "临清市打虎山路189号"
+    },
+    "oWRdtS8smLPcjoUdU5h": {
+        "submitterId": "Super_18593924532",
+        "status": 1,
+        "createdTime": "2024-01-14 15:20:13",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 262,
+        "location": "隆昌市景星路100号"
+    },
+    "t49eF4W91ySJwdFhLK7": {
+        "submitterId": "Super_19116043797",
+        "status": 0,
+        "createdTime": "2023-09-18 05:56:52",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 5,
+        "location": "山海关区北京西路164号"
+    },
+    "fpQcp5dJ4KgTxv4gpz6": {
+        "submitterId": "Super_18890577703",
+        "status": 1,
+        "createdTime": "2024-03-02 15:37:53",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 187,
+        "location": "湘潭县高雄路186号"
+    },
+    "MTtLbXM77yiRqM1URhs": {
+        "submitterId": "Super_18537210518",
+        "status": 1,
+        "createdTime": "2024-04-28 09:43:41",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 143,
+        "location": "文登区沪青平公路76号"
+    },
+    "zbPmmOAOPZSa4St3NiM": {
+        "submitterId": "Super_13391231971",
+        "status": 0,
+        "createdTime": "2024-01-06 07:16:24",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 218,
+        "location": "普宁市桂林路195号"
+    },
+    "0CphXvepWaSmrIbBPWI": {
+        "submitterId": "Super_19166027526",
+        "status": 0,
+        "createdTime": "2023-09-01 19:08:15",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 11,
+        "location": "青县桂林东街7号"
+    },
+    "aa2MBRbY41FfnfGZc2d": {
+        "submitterId": "Super_13257446157",
+        "status": 1,
+        "createdTime": "2024-05-09 11:18:57",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 112,
+        "location": "青阳县金昌路172号"
+    },
+    "ldM7eBy6aUY4SHkx5e6": {
+        "submitterId": "Super_15154430719",
+        "status": 1,
+        "createdTime": "2023-11-06 12:08:42",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 161,
+        "location": "渑池县九杜路25号"
+    },
+    "1e93lt92FoAQTR2IR7k": {
+        "submitterId": "Super_13241971636",
+        "status": 1,
+        "createdTime": "2024-04-09 03:17:40",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 192,
+        "location": "慈利县古北荣华东道166号"
+    },
+    "VZ8PieyyWpvB2i8g6AI": {
+        "submitterId": "Super_18779565206",
+        "status": 1,
+        "createdTime": "2023-11-05 14:03:03",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 276,
+        "location": "六枝特区澳门路10号"
+    },
+    "LqSrHIXJZ8tJxI3KWzR": {
+        "submitterId": "Super_18376138731",
+        "status": 0,
+        "createdTime": "2024-06-11 00:53:47",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 242,
+        "location": "新龙镇高雄路209号"
+    },
+    "LBYDECzpbau3e1UnPC5": {
+        "submitterId": "Super_18248275655",
+        "status": 0,
+        "createdTime": "2024-05-06 01:47:27",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 336,
+        "location": "达日县方南路38号"
+    },
+    "nAPX2ycw1cozCQX6kAu": {
+        "submitterId": "Super_13431108715",
+        "status": 1,
+        "createdTime": "2023-09-09 07:16:12",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 275,
+        "location": "息烽县巨峰路10号"
+    },
+    "hDeqsHNaoM7BeGoElRJ": {
+        "submitterId": "Super_19819532765",
+        "status": 0,
+        "createdTime": "2023-12-25 23:10:25",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 213,
+        "location": "阳西县黄兴路131号"
+    },
+    "VRSXSU2nMqSnpASuCS7": {
+        "submitterId": "Super_13447905121",
+        "status": 1,
+        "createdTime": "2023-11-12 00:47:05",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 198,
+        "location": "古丈县景星路128号"
+    },
+    "BFLC0nbsGoJctMgL3ZC": {
+        "submitterId": "Super_15814056964",
+        "status": 0,
+        "createdTime": "2024-02-27 03:44:57",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 42,
+        "location": "振安区安国路153号"
+    },
+    "dBnMfpN3d7msnt6XwVH": {
+        "submitterId": "Super_15826588985",
+        "status": 1,
+        "createdTime": "2023-12-06 05:09:55",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 348,
+        "location": "木垒哈萨克自治县碧波路60号"
+    },
+    "7AjqKGVQn3Bm9siXZUs": {
+        "submitterId": "Super_18279714296",
+        "status": 1,
+        "createdTime": "2023-10-26 19:30:12",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 181,
+        "location": "陈场镇高邮路39号"
+    },
+    "yXfRoNRqULP1i6pWw8u": {
+        "submitterId": "Super_17869810085",
+        "status": 0,
+        "createdTime": "2023-10-09 03:18:09",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 117,
+        "location": "将乐县旧校场路203号"
+    },
+    "6aeZ1ZmRKcXouEJDNj2": {
+        "submitterId": "Super_13649707395",
+        "status": 1,
+        "createdTime": "2024-02-28 11:04:29",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 353,
+        "location": "莎车县川黄路28号"
+    },
+    "XlMDVFOC0j1QPLwlUkW": {
+        "submitterId": "Super_17884572921",
+        "status": 0,
+        "createdTime": "2023-10-09 13:44:06",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 312,
+        "location": "子长市安化路154号"
+    },
+    "WnWgmVVm6koYmZARkhh": {
+        "submitterId": "Super_14723396433",
+        "status": 0,
+        "createdTime": "2024-06-10 07:57:50",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 221,
+        "location": "柳江区国和路191号"
+    },
+    "GqacaF92ubLTzVXsCta": {
+        "submitterId": "Super_15146454626",
+        "status": 0,
+        "createdTime": "2024-03-05 21:44:41",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 222,
+        "location": "龙胜各族自治县航津路67号"
+    },
+    "Bhg6pHNzQu6P61HoMrs": {
+        "submitterId": "Super_15271205139",
+        "status": 0,
+        "createdTime": "2024-04-24 02:23:10",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 347,
+        "location": "巴里坤哈萨克自治县方陆路118号"
+    },
+    "0Gp4X7DsTM6vAQR8JEO": {
+        "submitterId": "Super_15266057116",
+        "status": 0,
+        "createdTime": "2024-06-06 20:28:53",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 362,
+        "location": "兵团一八三团江阴街184号"
+    },
+    "DkqYrjN1BFOMmNgezqG": {
+        "submitterId": "Super_13048628961",
+        "status": 1,
+        "createdTime": "2023-12-30 22:26:21",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 255,
+        "location": "富顺县东昌路96号"
+    },
+    "yWSVPDUVlKcLmGnjMIx": {
+        "submitterId": "Super_14586002055",
+        "status": 0,
+        "createdTime": "2024-04-03 19:46:04",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 344,
+        "location": "水磨沟区共和新路135号"
+    },
+    "KtSlCCzQxEPXBuGJXo3": {
+        "submitterId": "Super_13618559634",
+        "status": 0,
+        "createdTime": "2023-12-16 04:19:02",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 260,
+        "location": "剑阁县北艾路206号"
+    },
+    "wtrm357XxLGNXxtIVB9": {
+        "submitterId": "Super_18112993764",
+        "status": 0,
+        "createdTime": "2023-09-15 16:21:43",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 256,
+        "location": "盐边县滨江大道186号"
+    },
+    "0mhiiljXCKjTQHUuXSf": {
+        "submitterId": "Super_15647469855",
+        "status": 0,
+        "createdTime": "2023-10-14 20:56:33",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 19,
+        "location": "应县古方路81号"
+    },
+    "tPDNuKCj6fP0HReASyI": {
+        "submitterId": "Super_19161343476",
+        "status": 0,
+        "createdTime": "2023-12-22 23:26:43",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 354,
+        "location": "于田县共江路114号"
+    },
+    "GJY26VqOaI36x1QoTF8": {
+        "submitterId": "Super_19170870266",
+        "status": 1,
+        "createdTime": "2024-02-20 00:49:23",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 176,
+        "location": "监利市成山路202号"
+    },
+    "aYrJgIQ9XhVYWMykGpf": {
+        "submitterId": "Super_15267623510",
+        "status": 0,
+        "createdTime": "2023-11-29 23:40:31",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 298,
+        "location": "贡山独龙族怒族自治县方中路27号"
+    },
+    "QQt2KbzIWgI3HPC8Gd5": {
+        "submitterId": "Super_18841622826",
+        "status": 1,
+        "createdTime": "2024-04-21 03:20:21",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 100,
+        "location": "禹会区沪青平公路169号"
+    },
+    "vYa4tvwDcRvxyl535YV": {
+        "submitterId": "Super_15591672338",
+        "status": 1,
+        "createdTime": "2024-02-03 06:20:47",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 97,
+        "location": "遂昌县杭州湾大道81号"
+    },
+    "HXseLH5cpDjkucI3x5Z": {
+        "submitterId": "Super_15779672989",
+        "status": 1,
+        "createdTime": "2023-11-04 06:46:56",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 26,
+        "location": "固阳县方斜路182号"
+    },
+    "w5MjgJco63uLcdGM7es": {
+        "submitterId": "Super_19174459487",
+        "status": 1,
+        "createdTime": "2024-03-25 13:00:47",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 45,
+        "location": "海州区花园路173号"
+    },
+    "dS7KdUnqtuZCsauijXW": {
+        "submitterId": "Super_16634634120",
+        "status": 1,
+        "createdTime": "2024-04-02 22:38:36",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 288,
+        "location": "永善县东平路55号"
+    },
+    "t0AhPA93bglCAF5UQIT": {
+        "submitterId": "Super_18112993764",
+        "status": 1,
+        "createdTime": "2024-03-17 09:06:17",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 256,
+        "location": "仁和区沪南公路75号"
+    },
+    "5nisjNCOOOAyYq9su9i": {
+        "submitterId": "Super_13634448969",
+        "status": 1,
+        "createdTime": "2024-06-11 09:26:58",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 284,
+        "location": "五华区解放中路204号"
+    },
+    "mN5yU4yra4zPip3L046": {
+        "submitterId": "Super_18013227310",
+        "status": 1,
+        "createdTime": "2024-01-20 19:37:01",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 130,
+        "location": "峡江县古北荣华东道12号"
+    },
+    "on8tkBIjAxm3zNOJ8Cq": {
+        "submitterId": "Super_13125404578",
+        "status": 0,
+        "createdTime": "2024-04-14 13:29:30",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 296,
+        "location": "巍山彝族回族自治县城中北路86号"
+    },
+    "lOfgPMoEB1LOu4n6lpw": {
+        "submitterId": "Super_13165496141",
+        "status": 1,
+        "createdTime": "2024-04-09 06:21:42",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 180,
+        "location": "鹤峰县城银路100号"
+    },
+    "mM2i6QvI239PT5VaI3L": {
+        "submitterId": "Super_19116043797",
+        "status": 0,
+        "createdTime": "2024-01-03 10:42:30",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 5,
+        "location": "昌黎县安远路172号"
+    },
+    "Q0STNyNICcYRFtcGoeM": {
+        "submitterId": "Super_15790304486",
+        "status": 0,
+        "createdTime": "2023-11-17 12:31:20",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 83,
+        "location": "江都区合肥路78号"
+    },
+    "FrFFVWe3DjeY1WIeKTs": {
+        "submitterId": "Super_15826811852",
+        "status": 1,
+        "createdTime": "2024-01-13 12:04:34",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 56,
+        "location": "临江市打虎山路11号"
+    },
+    "tICrK4vBjdcSeaVDdcR": {
+        "submitterId": "Super_15754755835",
+        "status": 0,
+        "createdTime": "2024-02-17 21:08:47",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 1,
+        "location": "延庆区城银路120号"
+    },
+    "sEEB9ETajtISPph7rU1": {
+        "submitterId": "Super_18597210918",
+        "status": 0,
+        "createdTime": "2023-11-19 10:52:02",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 92,
+        "location": "越城区船厂路88号"
+    },
+    "TlYdPQJJAV96izjwDjq": {
+        "submitterId": "Super_19884566139",
+        "status": 1,
+        "createdTime": "2023-10-13 22:29:19",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 47,
+        "location": "双台子区安福路1号"
+    },
+    "z682lcJseX29kz9mOYy": {
+        "submitterId": "Super_13447905121",
+        "status": 1,
+        "createdTime": "2024-03-10 23:20:07",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 198,
+        "location": "凤凰县东宝兴路29号"
+    },
+    "9mtMsmWYVjN3fWEsmAa": {
+        "submitterId": "Super_19888677582",
+        "status": 0,
+        "createdTime": "2024-02-14 02:50:12",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 244,
+        "location": "屯城镇沪太支路79号"
+    },
+    "D0xnJ7mwXCChM55JReO": {
+        "submitterId": "Super_13051522604",
+        "status": 0,
+        "createdTime": "2023-12-16 11:41:14",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 140,
+        "location": "高密市东昌路20号"
+    },
+    "rusCUgLxn4YYYWaLda2": {
+        "submitterId": "Super_14586002055",
+        "status": 0,
+        "createdTime": "2023-10-17 00:32:51",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 344,
+        "location": "乌鲁木齐县北苏州路152号"
+    },
+    "fEcakmOaqidpcI0RZmx": {
+        "submitterId": "Super_17887995979",
+        "status": 1,
+        "createdTime": "2023-12-18 10:29:19",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 318,
+        "location": "嘉峪关市丁香路106号"
+    },
+    "2VnBceHdTSnsmY8hTBW": {
+        "submitterId": "Super_15950653996",
+        "status": 0,
+        "createdTime": "2023-10-16 05:35:53",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 153,
+        "location": "湛河区河南北路111号"
+    },
+    "FCLCFzuRoYhqTtuKZYf": {
+        "submitterId": "Super_15229290672",
+        "status": 1,
+        "createdTime": "2023-12-20 17:51:56",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 147,
+        "location": "东昌府区黄山路84号"
+    },
+    "7mFLePMGCV9twwR4xG9": {
+        "submitterId": "Super_14586002055",
+        "status": 1,
+        "createdTime": "2023-11-01 15:51:27",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 344,
+        "location": "沙依巴克区国济路34号"
+    },
+    "Q3glLZ86ZDDqPQw2iQg": {
+        "submitterId": "Super_13095362023",
+        "status": 0,
+        "createdTime": "2024-04-10 13:03:58",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 282,
+        "location": "麻江县东安路213号"
+    },
+    "pFBsVIMxf39yLJ1xMoy": {
+        "submitterId": "Super_15592505040",
+        "status": 1,
+        "createdTime": "2023-11-23 15:06:05",
+        "description": "进一步加剧易感人群症状，可能对健康人群心脏、呼吸系统有影响",
+        "forecastAqiLevel": 4,
+        "cityId": 320,
+        "location": "会宁县丁香路182号"
+    },
+    "3E5zT2t8dDlDboOiSgb": {
+        "submitterId": "Super_19888677582",
+        "status": 1,
+        "createdTime": "2024-02-03 09:20:40",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 244,
+        "location": "南吕镇川沙路20号"
+    },
+    "d7E8rX9IuCQTvPVMZK4": {
+        "submitterId": "Super_15544188855",
+        "status": 1,
+        "createdTime": "2024-05-29 23:00:36",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 349,
+        "location": "精河县巨峰路134号"
+    },
+    "5yXZXqEaydVoVkcyQSK": {
+        "submitterId": "Super_19174459487",
+        "status": 0,
+        "createdTime": "2023-10-18 13:41:07",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 45,
+        "location": "海州区汇川路57号"
+    },
+    "cliaVGDzToOLlTG2CSz": {
+        "submitterId": "Super_15027382830",
+        "status": 1,
+        "createdTime": "2023-10-25 06:02:50",
+        "description": "易感人群症状有轻度加剧，健康人群出现刺激症状",
+        "forecastAqiLevel": 3,
+        "cityId": 168,
+        "location": "江汉区桂林东街125号"
+    },
+    "0MElPCV9VesQOfDYqwl": {
+        "submitterId": "Super_19172887966",
+        "status": 1,
+        "createdTime": "2024-05-01 01:45:07",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 142,
+        "location": "岱岳区苍梧路160号"
+    },
+    "AJ9xIxokSO5YUKmsmjx": {
+        "submitterId": "Super_15654457181",
+        "status": 1,
+        "createdTime": "2023-12-26 00:38:13",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 314,
+        "location": "榆阳区景星路149号"
+    },
+    "cj5Q8TLXPUsqGLtLmOc": {
+        "submitterId": "Super_17659508430",
+        "status": 1,
+        "createdTime": "2024-04-05 02:46:41",
+        "description": "心脏病和肺病患者症状显著加剧，运动耐受力降低，健康人群普遍出现症状",
+        "forecastAqiLevel": 5,
+        "cityId": 259,
+        "location": "安州区国济路95号"
+    },
+    "Jl9nFa9ow5iXvZLEczb": {
+        "submitterId": "Super_13649707395",
+        "status": 0,
+        "createdTime": "2024-01-02 06:06:38",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 353,
+        "location": "泽普县会文路94号"
+    },
+    "IcLjF41NRSyi1cnfCZi": {
+        "submitterId": "Super_19170870266",
+        "status": 0,
+        "createdTime": "2023-12-12 14:54:07",
+        "description": "空气质量可接受，但某些污染物口能对极少数异常敏感人群健康有较弱影响",
+        "forecastAqiLevel": 2,
+        "cityId": 176,
+        "location": "洪湖市交通西路63号"
+    },
+    "TL5T1JQNpbDr3UFonee": {
+        "submitterId": "Super_13686598019",
+        "status": 0,
+        "createdTime": "2024-03-15 15:00:53",
+        "description": "健康人群运动耐受力降低，有明显强烈症状，提前出现某些疾病",
+        "forecastAqiLevel": 6,
+        "cityId": 321,
+        "location": "甘谷县安图路215号"
+    },
+    "tmggSLbZHWGaJOAOHqH": {
+        "submitterId": "Super_15042467335",
+        "status": 1,
+        "createdTime": "2023-12-05 09:24:27",
+        "description": "空气质量令人满意，基本无空气污染",
+        "forecastAqiLevel": 1,
+        "cityId": 60,
+        "location": "呼兰区北张家浜路111号"
+    }
+}

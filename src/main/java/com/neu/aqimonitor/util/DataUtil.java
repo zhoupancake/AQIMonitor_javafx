@@ -2,6 +2,7 @@ package com.neu.aqimonitor.util;
 
 import com.neu.aqimonitor.entity.character.Administrator;
 import com.neu.aqimonitor.entity.character.GridDetector;
+import com.neu.aqimonitor.entity.character.Supervisor;
 import com.neu.aqimonitor.entity.data.AirData;
 import com.neu.aqimonitor.entity.data.City;
 import com.neu.aqimonitor.entity.data.Report;
@@ -13,6 +14,7 @@ import java.util.Map;
 public class DataUtil {
     public static Map<String, Administrator> administratorMap;
     public static Map<String, GridDetector> gridDetectorMap;
+    public static Map<String, Supervisor> supervisorMap;
     public static Map<String, AirData> airDataMap;
     public static Map<String, Report> reportMap;
     public static Map<String, Task> taskMap;
@@ -21,6 +23,7 @@ public class DataUtil {
     public static void init() throws IOException {
         administratorMap = IOUtil.loadAdmin();
         gridDetectorMap = IOUtil.loadGrid();
+        supervisorMap = IOUtil.loadSuper();
         airDataMap = IOUtil.loadAirData();
         reportMap = IOUtil.loadReport();
         taskMap = IOUtil.loadTask();
@@ -28,8 +31,9 @@ public class DataUtil {
     }
     
     public static void write() throws IOException {
-        IOUtil.writeAdmin();
+        IOUtil.writeAdmin(administratorMap);
         IOUtil.writeGrid(gridDetectorMap);
+        IOUtil.writeSuper(supervisorMap);
         IOUtil.writeAirData(airDataMap);
         IOUtil.writeCity(cityMap);
         IOUtil.writeTask(taskMap);

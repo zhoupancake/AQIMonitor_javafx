@@ -7,6 +7,9 @@ import com.neu.aqimonitor.entity.data.Task;
 import com.neu.aqimonitor.util.AlertUtil;
 import com.neu.aqimonitor.util.DataUtil;
 
+import java.util.List;
+import java.util.Map;
+
 public class AdminController {
     private final Administrator administrator;
 
@@ -25,8 +28,8 @@ public class AdminController {
         AlertUtil.showDialog("提示", "添加成功");
     }
 
-
-
-
-
+    public List<Report> getAllReports(){
+        Map<String, Report> reportMap =  DataUtil.reportMap;
+        return reportMap.values().stream().toList();
+    }
 }

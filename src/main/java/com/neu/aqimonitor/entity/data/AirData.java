@@ -1,5 +1,6 @@
 package com.neu.aqimonitor.entity.data;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import com.neu.aqimonitor.util.AQIUtil;
 import com.neu.aqimonitor.util.UUIDUtil;
 
@@ -9,6 +10,7 @@ public class AirData {
     private String id;
     private  int cityId;
     private  String location;
+    @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss")
     private  LocalDateTime date;
 
     //data attributes

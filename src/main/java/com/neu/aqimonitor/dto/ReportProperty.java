@@ -27,9 +27,9 @@ public class ReportProperty extends Report {
                 report.getLocation(),
                 report.getForecastAqiLevel());
         this.id = new SimpleStringProperty(report.getId());
-        this.name = new SimpleStringProperty(DataUtil.gridDetectorMap.get(report.getSubmitterId()).getRealName());
-        this.province = new SimpleStringProperty(DataUtil.cityMap.get(report.getCityId()).getProvince());
-        this.city = new SimpleStringProperty(DataUtil.cityMap.get(report.getCityId()).getName());
+        this.name = new SimpleStringProperty(DataUtil.supervisorMap.get(report.getSubmitterId()).getRealName());
+        this.province = new SimpleStringProperty(DataUtil.cityMap.get(String.valueOf(report.getCityId())).getProvince());
+        this.city = new SimpleStringProperty(DataUtil.cityMap.get(String.valueOf(report.getCityId())).getName());
         this.forecastAqiLevel = new SimpleStringProperty(Integer.toString(report.getForecastAqiLevel()));
         this.date = new SimpleStringProperty(report.getCreatedTime().format(DateTimeFormatter.ofPattern("yyyy-MM-dd")));
         this.time = new SimpleStringProperty(report.getCreatedTime().format(DateTimeFormatter.ofPattern("HH:mm:ss")));

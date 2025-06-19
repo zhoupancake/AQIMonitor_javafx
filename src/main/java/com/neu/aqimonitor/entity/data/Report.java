@@ -1,5 +1,6 @@
 package com.neu.aqimonitor.entity.data;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import com.neu.aqimonitor.util.UUIDUtil;
 
 import java.time.LocalDateTime;
@@ -8,6 +9,7 @@ public class Report {
     private  String id;
     private  String submitterId;
     private int status;
+    @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss")
     private  LocalDateTime createdTime;
     private  String description;
     private  int cityId;

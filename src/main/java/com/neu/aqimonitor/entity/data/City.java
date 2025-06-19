@@ -1,14 +1,14 @@
 package com.neu.aqimonitor.entity.data;
 
 public class City {
-    private  int id;
+    private  String id;
     private  String name;
     private  String province;
 
     public City(){}
 
     public City(String id, String name, String province){
-        this.id = Integer.parseInt(id);
+        this.id = id;
         this.name = name;
         this.province = province;
     }
@@ -25,7 +25,7 @@ public class City {
         return province;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 
