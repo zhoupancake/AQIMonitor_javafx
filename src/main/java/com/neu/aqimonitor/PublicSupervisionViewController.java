@@ -1,26 +1,59 @@
 package com.neu.aqimonitor;
 
+import com.neu.aqimonitor.dto.ReportProperty;
+import com.neu.aqimonitor.entity.data.Report;
 import com.neu.aqimonitor.util.Back;
+import com.neu.aqimonitor.util.DataUtil;
 import com.neu.aqimonitor.util.Jump;
 import com.neu.aqimonitor.util.PathUtil;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
+import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 
 public class PublicSupervisionViewController {
     @FXML
     private Button btn_back;
-
     @FXML
     private Button btn_detail;
-
     @FXML
     private Button btn_assign;
+    @FXML
+    private TableView<ReportProperty> reportTable;
+    @FXML
+    private TableColumn<ReportProperty, String> idColumn;
+    @FXML
+    private TableColumn<ReportProperty, String> nameColumn;
+    @FXML
+    private TableColumn<ReportProperty, String> provinceColumn;
+    @FXML
+    private TableColumn<ReportProperty, String> cityColumn;
+    @FXML
+    private TableColumn<ReportProperty, String> forecastAqiLevelColumn;
+    @FXML
+    private TableColumn<ReportProperty, String> dateColumn;
+    @FXML
+    private TableColumn<ReportProperty, String> timeColumn;
 
+    private ObservableList<ReportProperty> reports = FXCollections.observableArrayList();
 
     @FXML
     private void initialize() {
+        for (Report report : DataUtil.reportMap.values()) {
+            reports.add(new ReportProperty(report));
+        }
 
+        reportTable.setItems(reports);
+
+        idColumn.setCellValueFactory(a -> a.getValue().getIdProperty());
+        nameColumn.setCellValueFactory(a -> a.getValue().getNameProperty());
+        provinceColumn.setCellValueFactory(a -> a.getValue().getProvinceProperty());
+        cityColumn.setCellValueFactory(a -> a.getValue().getCityProperty());
+        forecastAqiLevelColumn.setCellValueFactory(a -> a.getValue().getForecastAqiLevelProperty());
+        dateColumn.setCellValueFactory(a -> a.getValue().getDateProperty());
+        timeColumn.setCellValueFactory(a -> a.getValue().getTimeProperty());
     }
 
     @FXML
