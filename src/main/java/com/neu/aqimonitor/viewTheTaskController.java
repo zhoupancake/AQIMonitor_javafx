@@ -1,5 +1,6 @@
 package com.neu.aqimonitor;
 
+//需求未知
 import com.neu.aqimonitor.util.AlertUtil;
 import com.neu.aqimonitor.util.FileUtil;
 import com.neu.aqimonitor.entity.data.Data;
@@ -32,7 +33,7 @@ public class viewTheTaskController {
     private Button btn_viewData;
     @FXML
     private TableView<Information> tableView;
-    private ObservableList<Information> tableList = FXCollections.observableArrayList();
+    private final ObservableList<Information> tableList = FXCollections.observableArrayList();
 
     @FXML
     private TableColumn<Information,String> colProvince,colCountry,colAddress,colAQI,colTime;
@@ -40,7 +41,6 @@ public class viewTheTaskController {
     @FXML
     public void initialize() {
         tableView.setItems(tableList);
-
         colProvince.setCellValueFactory(new PropertyValueFactory<>("province"));
         colCountry.setCellValueFactory(new PropertyValueFactory<>("country"));
         colAddress.setCellValueFactory(new PropertyValueFactory<>("address"));

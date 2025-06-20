@@ -11,7 +11,7 @@ public class PathUtil {
     public static final String CONFIRM_AQI_LIST_VIEW_PATH = "/com/neu/aqimonitor/ConfirmAQIDataListView.fxml";
     public static final String ADMIN_VIEW_PATH = "/com/neu/aqimonitor/AdminView.fxml";
     public static final String GRID_LOGIN_VIEW_PATH = "/com/neu/aqimonitor/GridLoginView.fxml";
-    public static final String PUBLIC_SUPERVISOR_PATH = "/com/neu/aqimonitor/PublicSupervisorView.fxml";
+    public static final String PUBLIC_SUPERVISOR_PATH = "/com/neu/aqimonitor/PublicSupervisor.fxml";
     public static final String SUBMIT_DATA_PATH = "/com/neu/aqimonitor/SubmitData.fxml";
     public static final String SUPERVISOR_QUERY_PATH = "/com/neu/aqimonitor/SupervisorQuery.fxml";
     public static final String USER_LOGIN_VIEW_PATH = "/com/neu/aqimonitor/UserLoginView.fxml";
@@ -23,7 +23,7 @@ public class PathUtil {
 
     // 数据路径
     public static final String ADMIN_PATH = "/com/neu/aqimonitor/data/admin.json";
-    public static final String GRID_PATH = "/com/neu/aqimonitor/data/grid_de.json";
+    public static final String GRID_PATH = "/com/neu/aqimonitor/data/grid.json";
     public static final String AIR_DATA_PATH = "/com/neu/aqimonitor/data/airData.json";
     public static final String CITY_PATH = "/com/neu/aqimonitor/data/city.json";
     public static final String TASK_PATH = "/com/neu/aqimonitor/data/task.json";

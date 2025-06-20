@@ -45,7 +45,7 @@ public class PublicSupervisionViewController {
     @FXML
     private TableColumn<ReportProperty, String> timeColumn;
 
-    private ObservableList<ReportProperty> reports = FXCollections.observableArrayList();
+    private final ObservableList<ReportProperty> reports = FXCollections.observableArrayList();
 
     @FXML
     private void initialize() {

@@ -1,6 +1,10 @@
 package com.neu.aqimonitor;
 
+import com.neu.aqimonitor.entity.data.AirData;
+import com.neu.aqimonitor.entity.data.City;
+import com.neu.aqimonitor.entity.data.Report;
 import com.neu.aqimonitor.util.AlertUtil;
+import com.neu.aqimonitor.util.DataUtil;
 import com.neu.aqimonitor.util.FileUtil;
 import com.neu.aqimonitor.entity.data.Information;
 import com.neu.aqimonitor.entity.character.User;
@@ -22,6 +26,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.net.URL;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -39,6 +44,9 @@ public class publicSupervisorController {
     @FXML
     private Button btn_query;
 
+    private static final Map<String, Integer> AQI_LEVEL_MAP =
+            Map.of("六级", 6, "五级", 5, "四级", 4, "三级", 3, "二级", 2, "一级", 1);
+
 
     public void queryData() throws IOException {
             pageJump(btn_query, PathUtil.SUPERVISOR_QUERY_PATH);
@@ -50,13 +58,14 @@ public class publicSupervisorController {
     }
 
 
-    private Map<String, List<String>> provinceMap = new HashMap<>();
-    private Map<String,List<String>> AQIMap = new HashMap<>();
+    private final Map<String, List<String>> provinceMap = new HashMap<>();
+    private final Map<String,List<String>> AQIMap = new HashMap<>();
 
     @FXML
     public void initialize(){
-        provinceMap.put("辽宁省",List.of("沈阳市","大连市","鞍山市","抚顺市","本溪市"));
-        provinceMap.put("四川省",List.of("成都市","自贡市","攀枝花市","绵阳市","乐山市"));
+        Map<String, List<String>> cities = getCities();
+        for(String key : cities.keySet())
+            provinceMap.put(key,cities.get(key));
         cmbProvince.setItems(FXCollections.observableArrayList(provinceMap.keySet()));
         cmbProvince.getSelectionModel().clearSelection();
         cmbProvince.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<String>() {
@@ -79,21 +88,45 @@ public class publicSupervisorController {
 
     }
 
+    private Map<String, List<String>> getCities() {
+        Map<String, List<String>> provinceToCities = new HashMap<>();
+        // 遍历所有城市
+        for (City city : DataUtil.cityMap.values()) {
+            String province = city.getProvince();
+            String cityName = city.getName();
+
+            // 如果省份不存在于map中，先创建空列表
+            if (!provinceToCities.containsKey(province)) {
+                provinceToCities.put(province, new ArrayList<>());
+            }
+
+            // 将城市名添加到对应省份的列表中
+            provinceToCities.get(province).add(cityName);
+        }
+        return provinceToCities;
+    }
+
     public void submitData(){
         String province = cmbProvince.getValue();
         String country = cmbCountry.getValue();
         String AQI = cmbAQI.getValue();
         String specificAddress = txtSpecificAddress.getText();
         String feedback = txtFeedback.getText();
-        String gridName = null;
-        LocalDateTime now = LocalDateTime.now();
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
-        String time = now.format(formatter);
-        Information info = new Information(province,country,specificAddress,AQI,feedback,time,gridName);
-        Map<String, Information> infoMap = FileUtil.readMapObject(PathUtil.INFORMATION_PATH);
-        //根据具体地址填入
-        infoMap.put(info.getAddress(), info);
-        FileUtil.writeObject(PathUtil.INFORMATION_PATH,infoMap);
+        Report report = new Report("Super_13495981447", 0, feedback,
+                Integer.valueOf(findCityId(province,country)), specificAddress, AQI_LEVEL_MAP.get(AQI));
+        DataUtil.reportMap.put(report.getId(), report);
         AlertUtil.showDialog("提交AQI数据","数据提交成功" );
+    }
+
+    private static String findCityId(String province, String cityName) {
+        return DataUtil.cityMap.entrySet().stream()
+                .filter(entry -> {
+                    City city = entry.getValue();
+                    return city.getProvince().equals(province)
+                            && city.getName().equals(cityName);
+                })
+                .map(Map.Entry::getKey)
+                .findFirst()
+                .orElse(null); // 找不到时返回null
     }
 }
