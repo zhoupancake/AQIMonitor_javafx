@@ -3,6 +3,7 @@ package com.neu.aqimonitor;
 import com.neu.aqimonitor.controller.logicController.UserController;
 import com.neu.aqimonitor.entity.character.Administrator;
 import com.neu.aqimonitor.util.AlertUtil;
+import com.neu.aqimonitor.util.DataUtil;
 import com.neu.aqimonitor.util.Jump;
 import com.neu.aqimonitor.util.PathUtil;
 import javafx.fxml.FXML;
@@ -30,6 +31,7 @@ public class LoginViewController {
     public void handleLogin() {
         Administrator admin = userController.adminLogin(accountField.getText(), passwordField.getText());
         if (admin != null) {
+            DataUtil.administrator = admin;
             Jump.jumpToPage(loginButton, PathUtil.ADMIN_MENU_VIEW_PATH);
         } else {
             AlertUtil.showErrorDialog("登录失败", "账号或密码错误");
