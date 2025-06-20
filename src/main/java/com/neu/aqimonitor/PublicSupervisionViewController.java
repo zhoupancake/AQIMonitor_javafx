@@ -72,7 +72,6 @@ public class PublicSupervisionViewController {
     @FXML
     private void handleDetail() throws IOException {
         Stage stage = (Stage) btn_detail.getScene().getWindow();
-//        Jump.jumpToPage(btn_detail, PathUtil.DETAILS_PUBLIC_SUPERVISION_VIEW_PATH);
         FXMLLoader loader = new FXMLLoader();
         URL url = PublicSupervisionViewController.class.getResource(PathUtil.DETAILS_PUBLIC_SUPERVISION_VIEW_PATH);
         loader.setLocation(url);
@@ -95,7 +94,25 @@ public class PublicSupervisionViewController {
     }
 
     @FXML
-    private void handleAssign() {
-        Jump.jumpToPage(btn_assign, PathUtil.ASSIGN_ADMIN_VIEW_PATH);
+    private void handleAssign() throws IOException {
+        Stage stage = (Stage) btn_detail.getScene().getWindow();
+        FXMLLoader loader = new FXMLLoader();
+        URL url = PublicSupervisionViewController.class.getResource(PathUtil.ASSIGN_ADMIN_VIEW_PATH);
+        loader.setLocation(url);
+        Parent root = loader.load();
+        Scene scene = btn_detail.getScene();
+        scene.setRoot(root);
+        stage.setScene(scene);
+        stage.show();
+
+        AssignAdminViewController controller = loader.getController();
+        ReportProperty reportProperty = reportTable.getSelectionModel().selectedItemProperty().getValue();
+        controller.setSupervisionDetail(new SupervisionDetail(reportProperty.getId(),
+                reportProperty.getName(),
+                DataUtil.supervisorMap.get(reportProperty.getSubmitterId()).getPhoneNumber(),
+                reportProperty.getCity(),
+                reportProperty.getDescription(),
+                reportProperty.getForecastAqiLevelString(),
+                reportProperty.getCreatedTime().toString()));
     }
 }

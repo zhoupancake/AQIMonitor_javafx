@@ -3,8 +3,10 @@ package com.neu.aqimonitor;
 import com.neu.aqimonitor.dto.SupervisionDetail;
 import com.neu.aqimonitor.util.Back;
 import com.neu.aqimonitor.util.PathUtil;
+import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
+import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.text.Text;
 
@@ -27,6 +29,7 @@ public class DetailsPublicSupervisionViewController {
     private Label label_level;
     @FXML
     private Label label_datetime;
+
 
     @FXML
     public void initialize() {

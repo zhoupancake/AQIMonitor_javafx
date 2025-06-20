@@ -36,15 +36,16 @@
       <Label text="反馈者信息描述" GridPane.rowIndex="4" />
       <Label text="预估等级" GridPane.rowIndex="5" />
       <Label text="反馈日期时间" GridPane.rowIndex="6" />
-      <Label text="Label" GridPane.columnIndex="1" />
-      <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-      <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-      <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-      <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-      <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
-      <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+      <Label fx:id="label_id" text="Label" GridPane.columnIndex="1" />
+      <Label fx:id="label_info" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+      <Label fx:id="label_phone" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <Label fx:id="label_address" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      <Label fx:id="label_des" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      <Label fx:id="label_level" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+      <Label fx:id="label_datetime" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="6" />
    </GridPane>
    <Button fx:id="btn_back" layoutX="770.0" layoutY="35.0" mnemonicParsing="false" onAction="#handleBack" text="返回" />
-   <ComboBox layoutX="190.0" layoutY="457.0" prefWidth="150.0" promptText="-全部-" />
+   <ComboBox fx:id="grid_deBox" layoutX="190.0" layoutY="457.0" prefWidth="150.0" promptText="-全部-" />
    <Label layoutX="142.0" layoutY="461.0" text="指派给：" />
+   <Button fx:id="btn_assign" layoutX="355.0" layoutY="457.0" mnemonicParsing="false" text="确认" />
 </AnchorPane>
