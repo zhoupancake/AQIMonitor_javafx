@@ -14,7 +14,7 @@
           <Font size="24.0" />
         </font>
     </Label>
-    <GridPane layoutY="103.0" prefHeight="327.0" prefWidth="900.0">
+    <GridPane fx:id="" layoutY="103.0" prefHeight="327.0" prefWidth="900.0">
         <columnConstraints>
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
             <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -35,13 +35,13 @@
         <Label text="反馈者信息描述" GridPane.rowIndex="4" />
         <Label text="预估等级" GridPane.rowIndex="5" />
         <Label text="反馈日期时间" GridPane.rowIndex="6" />
-        <Label text="Label" GridPane.columnIndex="1" />
-        <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-        <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-        <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-        <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
-        <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
-        <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+        <Label fx:id="label_id" text="Label" GridPane.columnIndex="1" />
+        <Label fx:id="label_info" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <Label fx:id="label_phone" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <Label fx:id="label_address" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+        <Label fx:id="label_des" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+        <Label fx:id="label_level" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+        <Label fx:id="label_datetime" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="6" />
     </GridPane>
     <Button fx:id="btn_back" layoutX="770.0" layoutY="35.0" mnemonicParsing="false" onAction="#handleBack" text="返回" />
 </AnchorPane>

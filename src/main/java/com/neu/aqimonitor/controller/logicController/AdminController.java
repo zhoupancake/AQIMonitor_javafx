@@ -16,6 +16,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 public class AdminController {
+
     private final Administrator administrator;
 
     public AdminController(Administrator administrator) {
@@ -39,8 +40,7 @@ public class AdminController {
         return reportMap.values().stream().toList();
     }
 
-    public static Map<String, Map<Integer,  Long>> groupByProvinceAndCountAqiLevel() {
-        // 1. 按省份分组
+    public static Map<String, List<AirData>> getAirDataByProvince() {
         Map<String, List<AirData>> provinceGroup = DataUtil.airDataMap.values().stream()
                 .filter(airData -> DataUtil.cityMap.containsKey(String.valueOf(airData.getCityId()))) // 过滤无效cityId
                 .collect(Collectors.groupingBy(
@@ -49,6 +49,12 @@ public class AdminController {
                             return city.getProvince(); // 按省份分组
                         }
                 ));
+        return provinceGroup;
+    }
+
+    public static Map<String, Map<Integer,  Long>> groupByProvinceAndCountAqiLevel() {
+        // 1. 按省份分组
+        Map<String, List<AirData>> provinceGroup = getAirDataByProvince();
 
         // 2. 统计每个省份的AQI等级分布
         Map<String, Map<Integer, Long>> result = new HashMap<>();

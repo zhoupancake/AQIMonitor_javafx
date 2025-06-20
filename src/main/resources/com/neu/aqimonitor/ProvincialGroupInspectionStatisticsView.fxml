@@ -13,14 +13,14 @@
           <Font size="24.0" />
         </font>
     </Label>
-    <TableView layoutX="2.0" layoutY="62.0" prefHeight="390.0" prefWidth="702.0">
+    <TableView fx:id="provincialGroupView" layoutX="2.0" layoutY="62.0" prefHeight="390.0" prefWidth="702.0">
       <columns>
-          <TableColumn prefWidth="75.0" text="省编号" />
-          <TableColumn prefWidth="114.3999252319336" text="省名称" />
-          <TableColumn prefWidth="110.39996337890625" text="SO2累计超标" />
-          <TableColumn prefWidth="126.39996337890625" text="CO累计超标" />
-          <TableColumn prefWidth="152.79998779296875" text="PM2.5累计超标" />
-          <TableColumn prefWidth="120.7999267578125" text="AQI累计超标" />
+          <TableColumn fx:id="cityIdColumn" prefWidth="75.0" text="省编号" />
+          <TableColumn fx:id="cityNameColumn" prefWidth="114.3999252319336" text="省名称" />
+          <TableColumn fx:id="so2Column" prefWidth="110.39996337890625" text="SO2累计超标" />
+          <TableColumn fx:id="coColumn" prefWidth="126.39996337890625" text="CO累计超标" />
+          <TableColumn fx:id="pm25Column" prefWidth="152.79998779296875" text="PM2.5累计超标" />
+          <TableColumn fx:id="aqiColumn" prefWidth="120.7999267578125" text="AQI累计超标" />
       </columns>
     </TableView>
     <Button fx:id="btn_back" layoutX="655.0" layoutY="18.0" mnemonicParsing="false" onAction="#handleBack" text="返回" />
