@@ -47,5 +47,5 @@
    <Button fx:id="btn_back" layoutX="770.0" layoutY="35.0" mnemonicParsing="false" onAction="#handleBack" text="返回" />
    <ComboBox fx:id="grid_deBox" layoutX="190.0" layoutY="457.0" prefWidth="150.0" promptText="-全部-" />
    <Label layoutX="142.0" layoutY="461.0" text="指派给：" />
-   <Button fx:id="btn_assign" layoutX="355.0" layoutY="457.0" mnemonicParsing="false" text="确认" />
+   <Button fx:id="btn_assign" layoutX="355.0" layoutY="457.0" mnemonicParsing="false" onAction="#handleAssign" text="确认" />
 </AnchorPane>

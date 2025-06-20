@@ -19,6 +19,8 @@ public class DataUtil {
     public static Map<String, Report> reportMap;
     public static Map<String, Task> taskMap;
     public static Map<String, City> cityMap;
+
+    public static Administrator administrator;
         
     public static void init() throws IOException {
         administratorMap = IOUtil.loadAdmin();
