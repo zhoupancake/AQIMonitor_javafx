@@ -3,8 +3,6 @@ package com.neu.aqimonitor.dto;
 import com.neu.aqimonitor.entity.character.GridDetector;
 import com.neu.aqimonitor.entity.data.Report;
 import com.neu.aqimonitor.util.DataUtil;
-import javafx.beans.property.IntegerProperty;
-import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 

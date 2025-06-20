@@ -1,6 +1,7 @@
 package com.neu.aqimonitor;
 
 import com.neu.aqimonitor.dto.ReportProperty;
+import com.neu.aqimonitor.dto.SupervisionDetail;
 import com.neu.aqimonitor.entity.data.Report;
 import com.neu.aqimonitor.util.Back;
 import com.neu.aqimonitor.util.DataUtil;
@@ -9,9 +10,16 @@ import com.neu.aqimonitor.util.PathUtil;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
+import javafx.stage.Stage;
+
+import java.io.IOException;
+import java.net.URL;
 
 public class PublicSupervisionViewController {
     @FXML
@@ -62,8 +70,28 @@ public class PublicSupervisionViewController {
     }
 
     @FXML
-    private void handleDetail() {
-        Jump.jumpToPage(btn_detail, PathUtil.DETAILS_PUBLIC_SUPERVISION_VIEW_PATH);
+    private void handleDetail() throws IOException {
+        Stage stage = (Stage) btn_detail.getScene().getWindow();
+//        Jump.jumpToPage(btn_detail, PathUtil.DETAILS_PUBLIC_SUPERVISION_VIEW_PATH);
+        FXMLLoader loader = new FXMLLoader();
+        URL url = PublicSupervisionViewController.class.getResource(PathUtil.DETAILS_PUBLIC_SUPERVISION_VIEW_PATH);
+        loader.setLocation(url);
+        Parent root = loader.load();
+        Scene scene = btn_detail.getScene();
+        scene.setRoot(root);
+        stage.setScene(scene);
+        stage.show();
+
+        DetailsPublicSupervisionViewController controller = loader.getController();
+        ReportProperty reportProperty = reportTable.getSelectionModel().selectedItemProperty().getValue();
+        controller.setSupervisionDetail(new SupervisionDetail(reportProperty.getId(),
+                reportProperty.getName(),
+                DataUtil.supervisorMap.get(reportProperty.getSubmitterId()).getPhoneNumber(),
+                reportProperty.getCity(),
+                reportProperty.getDescription(),
+                reportProperty.getForecastAqiLevelString(),
+                reportProperty.getCreatedTime().toString()));
+
     }
 
     @FXML
