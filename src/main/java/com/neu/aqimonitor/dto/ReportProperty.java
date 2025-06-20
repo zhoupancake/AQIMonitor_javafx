@@ -27,6 +27,7 @@ public class ReportProperty extends Report {
                 report.getLocation(),
                 report.getForecastAqiLevel());
         this.id = new SimpleStringProperty(report.getId());
+        System.out.println(report.getId());
         this.name = new SimpleStringProperty(DataUtil.supervisorMap.get(report.getSubmitterId()).getRealName());
         this.province = new SimpleStringProperty(DataUtil.cityMap.get(String.valueOf(report.getCityId())).getProvince());
         this.city = new SimpleStringProperty(DataUtil.cityMap.get(String.valueOf(report.getCityId())).getName());

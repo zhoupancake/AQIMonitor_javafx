@@ -31,6 +31,7 @@ public class AdminController {
         Task task = new Task(administrator.getId(), appointeeId, relatedReportId);
         DataUtil.taskMap.put(task.getId(), task);
         AlertUtil.showDialog("提示", "添加成功");
+
     }
 
     public List<Report> getAllReports(){
